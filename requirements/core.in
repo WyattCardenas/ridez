@@ -1,0 +1,9 @@
+django
+django-rest-framework
+django-filter
+django-cors-headers
+django-environ
+psycopg
+gunicorn
+drf-spectacular
+whitenoise
