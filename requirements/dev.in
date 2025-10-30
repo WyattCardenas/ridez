@@ -1,1 +1,2 @@
 ruff
+django-debug-toolbar
