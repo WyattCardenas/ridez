@@ -2710,7 +2710,7 @@
       "pickup_longitude": -122.3991,
       "dropoff_latitude": 37.8018,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T08:01:00Z"
+      "pickup_time": "2025-01-28T19:54:00Z"
     }
   },
   {
@@ -2724,7 +2724,7 @@
       "pickup_longitude": -122.3982,
       "dropoff_latitude": 37.8036,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T08:02:00Z"
+      "pickup_time": "2024-12-27T04:15:00Z"
     }
   },
   {
@@ -2738,7 +2738,7 @@
       "pickup_longitude": -122.3973,
       "dropoff_latitude": 37.8054,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T08:03:00Z"
+      "pickup_time": "2025-01-17T14:29:00Z"
     }
   },
   {
@@ -2752,7 +2752,7 @@
       "pickup_longitude": -122.3964,
       "dropoff_latitude": 37.8072,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T08:04:00Z"
+      "pickup_time": "2025-01-30T00:11:00Z"
     }
   },
   {
@@ -2766,7 +2766,7 @@
       "pickup_longitude": -122.3955,
       "dropoff_latitude": 37.809,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T08:05:00Z"
+      "pickup_time": "2025-01-16T00:39:00Z"
     }
   },
   {
@@ -2780,7 +2780,7 @@
       "pickup_longitude": -122.3946,
       "dropoff_latitude": 37.8108,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T08:06:00Z"
+      "pickup_time": "2025-01-04T06:41:00Z"
     }
   },
   {
@@ -2794,7 +2794,7 @@
       "pickup_longitude": -122.3937,
       "dropoff_latitude": 37.8126,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T08:07:00Z"
+      "pickup_time": "2025-01-07T03:57:00Z"
     }
   },
   {
@@ -2808,7 +2808,7 @@
       "pickup_longitude": -122.3928,
       "dropoff_latitude": 37.8144,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T08:08:00Z"
+      "pickup_time": "2024-12-29T15:42:00Z"
     }
   },
   {
@@ -2822,7 +2822,7 @@
       "pickup_longitude": -122.3919,
       "dropoff_latitude": 37.8162,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T08:09:00Z"
+      "pickup_time": "2025-01-05T17:46:00Z"
     }
   },
   {
@@ -2836,7 +2836,7 @@
       "pickup_longitude": -122.391,
       "dropoff_latitude": 37.818,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T08:10:00Z"
+      "pickup_time": "2025-01-18T13:52:00Z"
     }
   },
   {
@@ -2850,7 +2850,7 @@
       "pickup_longitude": -122.3901,
       "dropoff_latitude": 37.8198,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T08:11:00Z"
+      "pickup_time": "2025-01-31T05:09:00Z"
     }
   },
   {
@@ -2864,7 +2864,7 @@
       "pickup_longitude": -122.3892,
       "dropoff_latitude": 37.8216,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T08:12:00Z"
+      "pickup_time": "2025-01-01T00:43:00Z"
     }
   },
   {
@@ -2878,7 +2878,7 @@
       "pickup_longitude": -122.3883,
       "dropoff_latitude": 37.8234,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T08:13:00Z"
+      "pickup_time": "2025-01-27T13:23:00Z"
     }
   },
   {
@@ -2887,12 +2887,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 15,
-      "id_driver": 115,
+      "id_driver": null,
       "pickup_latitude": 37.7098,
       "pickup_longitude": -122.3874,
       "dropoff_latitude": 37.8252,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T08:14:00Z"
+      "pickup_time": "2025-01-25T11:19:00Z"
     }
   },
   {
@@ -2906,7 +2906,7 @@
       "pickup_longitude": -122.3865,
       "dropoff_latitude": 37.827,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T08:15:00Z"
+      "pickup_time": "2025-01-19T19:42:00Z"
     }
   },
   {
@@ -2920,7 +2920,7 @@
       "pickup_longitude": -122.3856,
       "dropoff_latitude": 37.8288,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T08:16:00Z"
+      "pickup_time": "2025-01-14T02:29:00Z"
     }
   },
   {
@@ -2934,7 +2934,7 @@
       "pickup_longitude": -122.3847,
       "dropoff_latitude": 37.8306,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T08:17:00Z"
+      "pickup_time": "2025-01-23T11:47:00Z"
     }
   },
   {
@@ -2948,7 +2948,7 @@
       "pickup_longitude": -122.3838,
       "dropoff_latitude": 37.8324,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T08:18:00Z"
+      "pickup_time": "2025-01-19T11:48:00Z"
     }
   },
   {
@@ -2962,7 +2962,7 @@
       "pickup_longitude": -122.3829,
       "dropoff_latitude": 37.8342,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T08:19:00Z"
+      "pickup_time": "2025-01-18T01:46:00Z"
     }
   },
   {
@@ -2976,7 +2976,7 @@
       "pickup_longitude": -122.382,
       "dropoff_latitude": 37.836,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T08:20:00Z"
+      "pickup_time": "2025-01-30T23:38:00Z"
     }
   },
   {
@@ -2990,7 +2990,7 @@
       "pickup_longitude": -122.3811,
       "dropoff_latitude": 37.8378,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T08:21:00Z"
+      "pickup_time": "2024-12-25T23:41:00Z"
     }
   },
   {
@@ -2999,12 +2999,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 23,
-      "id_driver": 123,
+      "id_driver": null,
       "pickup_latitude": 37.7154,
       "pickup_longitude": -122.3802,
       "dropoff_latitude": 37.8396,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T08:22:00Z"
+      "pickup_time": "2025-01-12T11:59:00Z"
     }
   },
   {
@@ -3018,7 +3018,7 @@
       "pickup_longitude": -122.3793,
       "dropoff_latitude": 37.8414,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T08:23:00Z"
+      "pickup_time": "2025-01-30T01:51:00Z"
     }
   },
   {
@@ -3032,7 +3032,7 @@
       "pickup_longitude": -122.3784,
       "dropoff_latitude": 37.8432,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T08:24:00Z"
+      "pickup_time": "2024-12-25T09:38:00Z"
     }
   },
   {
@@ -3046,7 +3046,7 @@
       "pickup_longitude": -122.3775,
       "dropoff_latitude": 37.845,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T08:25:00Z"
+      "pickup_time": "2025-01-09T12:17:00Z"
     }
   },
   {
@@ -3060,7 +3060,7 @@
       "pickup_longitude": -122.3766,
       "dropoff_latitude": 37.8468,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T08:26:00Z"
+      "pickup_time": "2025-01-09T03:38:00Z"
     }
   },
   {
@@ -3074,7 +3074,7 @@
       "pickup_longitude": -122.3757,
       "dropoff_latitude": 37.8486,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T08:27:00Z"
+      "pickup_time": "2024-12-28T05:14:00Z"
     }
   },
   {
@@ -3088,7 +3088,7 @@
       "pickup_longitude": -122.3748,
       "dropoff_latitude": 37.8504,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T08:28:00Z"
+      "pickup_time": "2025-01-20T04:20:00Z"
     }
   },
   {
@@ -3102,7 +3102,7 @@
       "pickup_longitude": -122.3739,
       "dropoff_latitude": 37.8522,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T08:29:00Z"
+      "pickup_time": "2025-01-30T21:57:00Z"
     }
   },
   {
@@ -3116,7 +3116,7 @@
       "pickup_longitude": -122.373,
       "dropoff_latitude": 37.854,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T08:30:00Z"
+      "pickup_time": "2025-01-30T21:47:00Z"
     }
   },
   {
@@ -3130,7 +3130,7 @@
       "pickup_longitude": -122.3721,
       "dropoff_latitude": 37.8558,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T08:31:00Z"
+      "pickup_time": "2024-12-29T12:08:00Z"
     }
   },
   {
@@ -3139,12 +3139,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 33,
-      "id_driver": 133,
+      "id_driver": null,
       "pickup_latitude": 37.7224,
       "pickup_longitude": -122.3712,
       "dropoff_latitude": 37.8576,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T08:32:00Z"
+      "pickup_time": "2025-01-08T22:07:00Z"
     }
   },
   {
@@ -3158,7 +3158,7 @@
       "pickup_longitude": -122.3703,
       "dropoff_latitude": 37.8594,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T08:33:00Z"
+      "pickup_time": "2025-01-16T14:58:00Z"
     }
   },
   {
@@ -3172,7 +3172,7 @@
       "pickup_longitude": -122.3694,
       "dropoff_latitude": 37.8012,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T08:34:00Z"
+      "pickup_time": "2025-01-19T10:41:00Z"
     }
   },
   {
@@ -3186,7 +3186,7 @@
       "pickup_longitude": -122.3685,
       "dropoff_latitude": 37.803,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T08:35:00Z"
+      "pickup_time": "2024-12-31T00:54:00Z"
     }
   },
   {
@@ -3195,12 +3195,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 37,
-      "id_driver": null,
+      "id_driver": 137,
       "pickup_latitude": 37.7252,
       "pickup_longitude": -122.3676,
       "dropoff_latitude": 37.8048,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T08:36:00Z"
+      "pickup_time": "2025-01-18T22:44:00Z"
     }
   },
   {
@@ -3214,7 +3214,7 @@
       "pickup_longitude": -122.3667,
       "dropoff_latitude": 37.8066,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T08:37:00Z"
+      "pickup_time": "2025-01-30T17:48:00Z"
     }
   },
   {
@@ -3228,7 +3228,7 @@
       "pickup_longitude": -122.3658,
       "dropoff_latitude": 37.8084,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T08:38:00Z"
+      "pickup_time": "2025-01-21T02:28:00Z"
     }
   },
   {
@@ -3242,7 +3242,7 @@
       "pickup_longitude": -122.3649,
       "dropoff_latitude": 37.8102,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T08:39:00Z"
+      "pickup_time": "2024-12-29T12:44:00Z"
     }
   },
   {
@@ -3256,7 +3256,7 @@
       "pickup_longitude": -122.364,
       "dropoff_latitude": 37.812,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T08:40:00Z"
+      "pickup_time": "2025-01-11T21:04:00Z"
     }
   },
   {
@@ -3265,12 +3265,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 42,
-      "id_driver": null,
+      "id_driver": 102,
       "pickup_latitude": 37.7287,
       "pickup_longitude": -122.3631,
       "dropoff_latitude": 37.8138,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T08:41:00Z"
+      "pickup_time": "2025-01-05T09:07:00Z"
     }
   },
   {
@@ -3284,7 +3284,7 @@
       "pickup_longitude": -122.3622,
       "dropoff_latitude": 37.8156,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T08:42:00Z"
+      "pickup_time": "2025-01-02T23:33:00Z"
     }
   },
   {
@@ -3298,7 +3298,7 @@
       "pickup_longitude": -122.3613,
       "dropoff_latitude": 37.8174,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T08:43:00Z"
+      "pickup_time": "2024-12-26T20:43:00Z"
     }
   },
   {
@@ -3312,7 +3312,7 @@
       "pickup_longitude": -122.3604,
       "dropoff_latitude": 37.8192,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T08:44:00Z"
+      "pickup_time": "2025-01-24T05:58:00Z"
     }
   },
   {
@@ -3326,7 +3326,7 @@
       "pickup_longitude": -122.3595,
       "dropoff_latitude": 37.821,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T08:45:00Z"
+      "pickup_time": "2024-12-28T12:12:00Z"
     }
   },
   {
@@ -3335,12 +3335,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 47,
-      "id_driver": 107,
+      "id_driver": null,
       "pickup_latitude": 37.7322,
       "pickup_longitude": -122.3586,
       "dropoff_latitude": 37.8228,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T08:46:00Z"
+      "pickup_time": "2025-01-28T20:16:00Z"
     }
   },
   {
@@ -3354,7 +3354,7 @@
       "pickup_longitude": -122.3577,
       "dropoff_latitude": 37.8246,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T08:47:00Z"
+      "pickup_time": "2025-01-01T04:07:00Z"
     }
   },
   {
@@ -3368,7 +3368,7 @@
       "pickup_longitude": -122.3568,
       "dropoff_latitude": 37.8264,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T08:48:00Z"
+      "pickup_time": "2024-12-29T00:27:00Z"
     }
   },
   {
@@ -3382,7 +3382,7 @@
       "pickup_longitude": -122.3559,
       "dropoff_latitude": 37.8282,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T08:49:00Z"
+      "pickup_time": "2025-01-18T23:17:00Z"
     }
   },
   {
@@ -3396,7 +3396,7 @@
       "pickup_longitude": -122.355,
       "dropoff_latitude": 37.83,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T08:50:00Z"
+      "pickup_time": "2025-01-26T11:11:00Z"
     }
   },
   {
@@ -3410,7 +3410,7 @@
       "pickup_longitude": -122.3541,
       "dropoff_latitude": 37.8318,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T08:51:00Z"
+      "pickup_time": "2025-01-18T02:47:00Z"
     }
   },
   {
@@ -3424,7 +3424,7 @@
       "pickup_longitude": -122.3532,
       "dropoff_latitude": 37.8336,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T08:52:00Z"
+      "pickup_time": "2025-01-04T03:55:00Z"
     }
   },
   {
@@ -3433,12 +3433,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 54,
-      "id_driver": null,
+      "id_driver": 114,
       "pickup_latitude": 37.7371,
       "pickup_longitude": -122.3523,
       "dropoff_latitude": 37.8354,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T08:53:00Z"
+      "pickup_time": "2025-01-21T05:06:00Z"
     }
   },
   {
@@ -3452,7 +3452,7 @@
       "pickup_longitude": -122.3514,
       "dropoff_latitude": 37.8372,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T08:54:00Z"
+      "pickup_time": "2025-01-13T11:01:00Z"
     }
   },
   {
@@ -3466,7 +3466,7 @@
       "pickup_longitude": -122.3505,
       "dropoff_latitude": 37.839,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T08:55:00Z"
+      "pickup_time": "2025-01-14T21:03:00Z"
     }
   },
   {
@@ -3480,7 +3480,7 @@
       "pickup_longitude": -122.3496,
       "dropoff_latitude": 37.8408,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T08:56:00Z"
+      "pickup_time": "2025-01-23T13:17:00Z"
     }
   },
   {
@@ -3494,7 +3494,7 @@
       "pickup_longitude": -122.3487,
       "dropoff_latitude": 37.8426,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T08:57:00Z"
+      "pickup_time": "2025-01-30T11:28:00Z"
     }
   },
   {
@@ -3508,7 +3508,7 @@
       "pickup_longitude": -122.3478,
       "dropoff_latitude": 37.8444,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T08:58:00Z"
+      "pickup_time": "2025-01-09T03:12:00Z"
     }
   },
   {
@@ -3522,7 +3522,7 @@
       "pickup_longitude": -122.3469,
       "dropoff_latitude": 37.8462,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T08:59:00Z"
+      "pickup_time": "2025-01-16T12:18:00Z"
     }
   },
   {
@@ -3536,7 +3536,7 @@
       "pickup_longitude": -122.346,
       "dropoff_latitude": 37.848,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T09:00:00Z"
+      "pickup_time": "2025-01-09T14:12:00Z"
     }
   },
   {
@@ -3550,7 +3550,7 @@
       "pickup_longitude": -122.3451,
       "dropoff_latitude": 37.8498,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T09:01:00Z"
+      "pickup_time": "2025-01-05T09:28:00Z"
     }
   },
   {
@@ -3559,12 +3559,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 63,
-      "id_driver": 123,
+      "id_driver": null,
       "pickup_latitude": 37.7434,
       "pickup_longitude": -122.3442,
       "dropoff_latitude": 37.8516,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T09:02:00Z"
+      "pickup_time": "2025-01-06T16:04:00Z"
     }
   },
   {
@@ -3578,7 +3578,7 @@
       "pickup_longitude": -122.3433,
       "dropoff_latitude": 37.8534,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T09:03:00Z"
+      "pickup_time": "2025-01-04T08:51:00Z"
     }
   },
   {
@@ -3592,7 +3592,7 @@
       "pickup_longitude": -122.3424,
       "dropoff_latitude": 37.8552,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T09:04:00Z"
+      "pickup_time": "2025-01-02T02:16:00Z"
     }
   },
   {
@@ -3606,7 +3606,7 @@
       "pickup_longitude": -122.3415,
       "dropoff_latitude": 37.857,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T09:05:00Z"
+      "pickup_time": "2024-12-28T04:00:00Z"
     }
   },
   {
@@ -3620,7 +3620,7 @@
       "pickup_longitude": -122.3406,
       "dropoff_latitude": 37.8588,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T09:06:00Z"
+      "pickup_time": "2024-12-31T23:57:00Z"
     }
   },
   {
@@ -3634,7 +3634,7 @@
       "pickup_longitude": -122.3397,
       "dropoff_latitude": 37.8006,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T09:07:00Z"
+      "pickup_time": "2025-01-04T07:04:00Z"
     }
   },
   {
@@ -3643,12 +3643,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 69,
-      "id_driver": 129,
+      "id_driver": null,
       "pickup_latitude": 37.7476,
       "pickup_longitude": -122.3388,
       "dropoff_latitude": 37.8024,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T09:08:00Z"
+      "pickup_time": "2025-01-20T10:56:00Z"
     }
   },
   {
@@ -3662,7 +3662,7 @@
       "pickup_longitude": -122.3379,
       "dropoff_latitude": 37.8042,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T09:09:00Z"
+      "pickup_time": "2025-01-18T15:38:00Z"
     }
   },
   {
@@ -3676,7 +3676,7 @@
       "pickup_longitude": -122.337,
       "dropoff_latitude": 37.806,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T09:10:00Z"
+      "pickup_time": "2024-12-28T16:59:00Z"
     }
   },
   {
@@ -3685,12 +3685,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 72,
-      "id_driver": 132,
+      "id_driver": null,
       "pickup_latitude": 37.7497,
       "pickup_longitude": -122.3361,
       "dropoff_latitude": 37.8078,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T09:11:00Z"
+      "pickup_time": "2025-01-23T05:46:00Z"
     }
   },
   {
@@ -3704,7 +3704,7 @@
       "pickup_longitude": -122.3352,
       "dropoff_latitude": 37.8096,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T09:12:00Z"
+      "pickup_time": "2025-01-20T13:17:00Z"
     }
   },
   {
@@ -3718,7 +3718,7 @@
       "pickup_longitude": -122.3343,
       "dropoff_latitude": 37.8114,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T09:13:00Z"
+      "pickup_time": "2024-12-29T12:11:00Z"
     }
   },
   {
@@ -3732,7 +3732,7 @@
       "pickup_longitude": -122.3334,
       "dropoff_latitude": 37.8132,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T09:14:00Z"
+      "pickup_time": "2024-12-30T14:59:00Z"
     }
   },
   {
@@ -3741,12 +3741,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 76,
-      "id_driver": 136,
+      "id_driver": null,
       "pickup_latitude": 37.7525,
       "pickup_longitude": -122.3325,
       "dropoff_latitude": 37.815,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T09:15:00Z"
+      "pickup_time": "2024-12-26T07:52:00Z"
     }
   },
   {
@@ -3755,12 +3755,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 77,
-      "id_driver": null,
+      "id_driver": 137,
       "pickup_latitude": 37.7532,
       "pickup_longitude": -122.3316,
       "dropoff_latitude": 37.8168,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T09:16:00Z"
+      "pickup_time": "2025-01-02T18:18:00Z"
     }
   },
   {
@@ -3774,7 +3774,7 @@
       "pickup_longitude": -122.3307,
       "dropoff_latitude": 37.8186,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T09:17:00Z"
+      "pickup_time": "2025-01-16T03:44:00Z"
     }
   },
   {
@@ -3788,7 +3788,7 @@
       "pickup_longitude": -122.3298,
       "dropoff_latitude": 37.8204,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T09:18:00Z"
+      "pickup_time": "2025-01-30T18:55:00Z"
     }
   },
   {
@@ -3797,12 +3797,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 80,
-      "id_driver": 140,
+      "id_driver": null,
       "pickup_latitude": 37.7553,
       "pickup_longitude": -122.3289,
       "dropoff_latitude": 37.8222,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T09:19:00Z"
+      "pickup_time": "2025-01-25T06:20:00Z"
     }
   },
   {
@@ -3811,12 +3811,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 81,
-      "id_driver": 101,
+      "id_driver": null,
       "pickup_latitude": 37.756,
       "pickup_longitude": -122.328,
       "dropoff_latitude": 37.824,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T09:20:00Z"
+      "pickup_time": "2025-01-13T17:13:00Z"
     }
   },
   {
@@ -3830,7 +3830,7 @@
       "pickup_longitude": -122.3271,
       "dropoff_latitude": 37.8258,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T09:21:00Z"
+      "pickup_time": "2025-01-06T04:15:00Z"
     }
   },
   {
@@ -3839,12 +3839,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 83,
-      "id_driver": 103,
+      "id_driver": null,
       "pickup_latitude": 37.7574,
       "pickup_longitude": -122.3262,
       "dropoff_latitude": 37.8276,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T09:22:00Z"
+      "pickup_time": "2024-12-28T14:58:00Z"
     }
   },
   {
@@ -3858,7 +3858,7 @@
       "pickup_longitude": -122.3253,
       "dropoff_latitude": 37.8294,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T09:23:00Z"
+      "pickup_time": "2025-01-10T06:59:00Z"
     }
   },
   {
@@ -3872,7 +3872,7 @@
       "pickup_longitude": -122.3244,
       "dropoff_latitude": 37.8312,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T09:24:00Z"
+      "pickup_time": "2024-12-28T03:04:00Z"
     }
   },
   {
@@ -3886,7 +3886,7 @@
       "pickup_longitude": -122.3235,
       "dropoff_latitude": 37.833,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T09:25:00Z"
+      "pickup_time": "2024-12-27T03:25:00Z"
     }
   },
   {
@@ -3900,7 +3900,7 @@
       "pickup_longitude": -122.3226,
       "dropoff_latitude": 37.8348,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T09:26:00Z"
+      "pickup_time": "2025-01-26T04:16:00Z"
     }
   },
   {
@@ -3914,7 +3914,7 @@
       "pickup_longitude": -122.3217,
       "dropoff_latitude": 37.8366,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T09:27:00Z"
+      "pickup_time": "2025-01-03T10:11:00Z"
     }
   },
   {
@@ -3928,7 +3928,7 @@
       "pickup_longitude": -122.3208,
       "dropoff_latitude": 37.8384,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T09:28:00Z"
+      "pickup_time": "2025-01-27T15:34:00Z"
     }
   },
   {
@@ -3942,7 +3942,7 @@
       "pickup_longitude": -122.3199,
       "dropoff_latitude": 37.8402,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T09:29:00Z"
+      "pickup_time": "2025-01-20T06:49:00Z"
     }
   },
   {
@@ -3956,7 +3956,7 @@
       "pickup_longitude": -122.319,
       "dropoff_latitude": 37.842,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T09:30:00Z"
+      "pickup_time": "2025-01-24T23:12:00Z"
     }
   },
   {
@@ -3970,7 +3970,7 @@
       "pickup_longitude": -122.3181,
       "dropoff_latitude": 37.8438,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T09:31:00Z"
+      "pickup_time": "2025-01-29T06:39:00Z"
     }
   },
   {
@@ -3979,12 +3979,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 93,
-      "id_driver": 113,
+      "id_driver": null,
       "pickup_latitude": 37.7644,
       "pickup_longitude": -122.3172,
       "dropoff_latitude": 37.8456,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T09:32:00Z"
+      "pickup_time": "2025-01-25T03:07:00Z"
     }
   },
   {
@@ -3998,7 +3998,7 @@
       "pickup_longitude": -122.3163,
       "dropoff_latitude": 37.8474,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T09:33:00Z"
+      "pickup_time": "2025-01-01T17:26:00Z"
     }
   },
   {
@@ -4012,7 +4012,7 @@
       "pickup_longitude": -122.3154,
       "dropoff_latitude": 37.8492,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T09:34:00Z"
+      "pickup_time": "2025-01-05T18:23:00Z"
     }
   },
   {
@@ -4026,7 +4026,7 @@
       "pickup_longitude": -122.3145,
       "dropoff_latitude": 37.851,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T09:35:00Z"
+      "pickup_time": "2025-01-14T11:42:00Z"
     }
   },
   {
@@ -4040,7 +4040,7 @@
       "pickup_longitude": -122.3136,
       "dropoff_latitude": 37.8528,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T09:36:00Z"
+      "pickup_time": "2024-12-25T23:01:00Z"
     }
   },
   {
@@ -4054,7 +4054,7 @@
       "pickup_longitude": -122.3127,
       "dropoff_latitude": 37.8546,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T09:37:00Z"
+      "pickup_time": "2025-01-13T00:20:00Z"
     }
   },
   {
@@ -4063,12 +4063,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 99,
-      "id_driver": null,
+      "id_driver": 119,
       "pickup_latitude": 37.7686,
       "pickup_longitude": -122.3118,
       "dropoff_latitude": 37.8564,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T09:38:00Z"
+      "pickup_time": "2025-01-17T12:09:00Z"
     }
   },
   {
@@ -4082,7 +4082,7 @@
       "pickup_longitude": -122.3109,
       "dropoff_latitude": 37.8582,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T09:39:00Z"
+      "pickup_time": "2025-01-23T21:27:00Z"
     }
   },
   {
@@ -4096,7 +4096,7 @@
       "pickup_longitude": -122.4,
       "dropoff_latitude": 37.8,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T09:40:00Z"
+      "pickup_time": "2025-01-24T06:57:00Z"
     }
   },
   {
@@ -4110,7 +4110,7 @@
       "pickup_longitude": -122.3991,
       "dropoff_latitude": 37.8018,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T09:41:00Z"
+      "pickup_time": "2025-01-19T21:00:00Z"
     }
   },
   {
@@ -4124,7 +4124,7 @@
       "pickup_longitude": -122.3982,
       "dropoff_latitude": 37.8036,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T09:42:00Z"
+      "pickup_time": "2025-01-15T04:54:00Z"
     }
   },
   {
@@ -4138,7 +4138,7 @@
       "pickup_longitude": -122.3973,
       "dropoff_latitude": 37.8054,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T09:43:00Z"
+      "pickup_time": "2025-01-09T15:37:00Z"
     }
   },
   {
@@ -4152,7 +4152,7 @@
       "pickup_longitude": -122.3964,
       "dropoff_latitude": 37.8072,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T09:44:00Z"
+      "pickup_time": "2025-01-19T03:16:00Z"
     }
   },
   {
@@ -4166,7 +4166,7 @@
       "pickup_longitude": -122.3955,
       "dropoff_latitude": 37.809,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T09:45:00Z"
+      "pickup_time": "2025-01-05T07:02:00Z"
     }
   },
   {
@@ -4180,7 +4180,7 @@
       "pickup_longitude": -122.3946,
       "dropoff_latitude": 37.8108,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T09:46:00Z"
+      "pickup_time": "2025-01-16T07:03:00Z"
     }
   },
   {
@@ -4194,7 +4194,7 @@
       "pickup_longitude": -122.3937,
       "dropoff_latitude": 37.8126,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T09:47:00Z"
+      "pickup_time": "2025-01-07T11:13:00Z"
     }
   },
   {
@@ -4208,7 +4208,7 @@
       "pickup_longitude": -122.3928,
       "dropoff_latitude": 37.8144,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T09:48:00Z"
+      "pickup_time": "2025-01-21T05:32:00Z"
     }
   },
   {
@@ -4222,7 +4222,7 @@
       "pickup_longitude": -122.3919,
       "dropoff_latitude": 37.8162,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T09:49:00Z"
+      "pickup_time": "2025-01-23T05:02:00Z"
     }
   },
   {
@@ -4236,7 +4236,7 @@
       "pickup_longitude": -122.391,
       "dropoff_latitude": 37.818,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T09:50:00Z"
+      "pickup_time": "2024-12-31T09:23:00Z"
     }
   },
   {
@@ -4250,7 +4250,7 @@
       "pickup_longitude": -122.3901,
       "dropoff_latitude": 37.8198,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T09:51:00Z"
+      "pickup_time": "2025-01-12T00:40:00Z"
     }
   },
   {
@@ -4264,7 +4264,7 @@
       "pickup_longitude": -122.3892,
       "dropoff_latitude": 37.8216,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T09:52:00Z"
+      "pickup_time": "2025-01-23T23:44:00Z"
     }
   },
   {
@@ -4278,7 +4278,7 @@
       "pickup_longitude": -122.3883,
       "dropoff_latitude": 37.8234,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T09:53:00Z"
+      "pickup_time": "2025-01-21T10:19:00Z"
     }
   },
   {
@@ -4292,7 +4292,7 @@
       "pickup_longitude": -122.3874,
       "dropoff_latitude": 37.8252,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T09:54:00Z"
+      "pickup_time": "2025-01-09T14:09:00Z"
     }
   },
   {
@@ -4306,7 +4306,7 @@
       "pickup_longitude": -122.3865,
       "dropoff_latitude": 37.827,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T09:55:00Z"
+      "pickup_time": "2025-01-04T12:35:00Z"
     }
   },
   {
@@ -4320,7 +4320,7 @@
       "pickup_longitude": -122.3856,
       "dropoff_latitude": 37.8288,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T09:56:00Z"
+      "pickup_time": "2025-01-11T14:31:00Z"
     }
   },
   {
@@ -4334,7 +4334,7 @@
       "pickup_longitude": -122.3847,
       "dropoff_latitude": 37.8306,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T09:57:00Z"
+      "pickup_time": "2025-01-25T00:53:00Z"
     }
   },
   {
@@ -4343,12 +4343,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 19,
-      "id_driver": null,
+      "id_driver": 139,
       "pickup_latitude": 37.7126,
       "pickup_longitude": -122.3838,
       "dropoff_latitude": 37.8324,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T09:58:00Z"
+      "pickup_time": "2025-01-13T05:36:00Z"
     }
   },
   {
@@ -4357,12 +4357,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 20,
-      "id_driver": 140,
+      "id_driver": null,
       "pickup_latitude": 37.7133,
       "pickup_longitude": -122.3829,
       "dropoff_latitude": 37.8342,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T09:59:00Z"
+      "pickup_time": "2025-01-26T07:34:00Z"
     }
   },
   {
@@ -4376,7 +4376,7 @@
       "pickup_longitude": -122.382,
       "dropoff_latitude": 37.836,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T10:00:00Z"
+      "pickup_time": "2025-01-29T11:25:00Z"
     }
   },
   {
@@ -4390,7 +4390,7 @@
       "pickup_longitude": -122.3811,
       "dropoff_latitude": 37.8378,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T10:01:00Z"
+      "pickup_time": "2024-12-27T11:06:00Z"
     }
   },
   {
@@ -4404,7 +4404,7 @@
       "pickup_longitude": -122.3802,
       "dropoff_latitude": 37.8396,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T10:02:00Z"
+      "pickup_time": "2024-12-28T05:48:00Z"
     }
   },
   {
@@ -4418,7 +4418,7 @@
       "pickup_longitude": -122.3793,
       "dropoff_latitude": 37.8414,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T10:03:00Z"
+      "pickup_time": "2025-01-01T12:17:00Z"
     }
   },
   {
@@ -4432,7 +4432,7 @@
       "pickup_longitude": -122.3784,
       "dropoff_latitude": 37.8432,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T10:04:00Z"
+      "pickup_time": "2025-01-16T12:17:00Z"
     }
   },
   {
@@ -4441,12 +4441,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 26,
-      "id_driver": null,
+      "id_driver": 106,
       "pickup_latitude": 37.7175,
       "pickup_longitude": -122.3775,
       "dropoff_latitude": 37.845,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T10:05:00Z"
+      "pickup_time": "2025-01-21T19:47:00Z"
     }
   },
   {
@@ -4455,12 +4455,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 27,
-      "id_driver": null,
+      "id_driver": 107,
       "pickup_latitude": 37.7182,
       "pickup_longitude": -122.3766,
       "dropoff_latitude": 37.8468,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T10:06:00Z"
+      "pickup_time": "2024-12-27T02:36:00Z"
     }
   },
   {
@@ -4474,7 +4474,7 @@
       "pickup_longitude": -122.3757,
       "dropoff_latitude": 37.8486,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T10:07:00Z"
+      "pickup_time": "2025-01-08T12:58:00Z"
     }
   },
   {
@@ -4488,7 +4488,7 @@
       "pickup_longitude": -122.3748,
       "dropoff_latitude": 37.8504,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T10:08:00Z"
+      "pickup_time": "2024-12-27T14:35:00Z"
     }
   },
   {
@@ -4502,7 +4502,7 @@
       "pickup_longitude": -122.3739,
       "dropoff_latitude": 37.8522,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T10:09:00Z"
+      "pickup_time": "2025-01-31T07:31:00Z"
     }
   },
   {
@@ -4516,7 +4516,7 @@
       "pickup_longitude": -122.373,
       "dropoff_latitude": 37.854,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T10:10:00Z"
+      "pickup_time": "2025-01-19T07:20:00Z"
     }
   },
   {
@@ -4530,7 +4530,7 @@
       "pickup_longitude": -122.3721,
       "dropoff_latitude": 37.8558,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T10:11:00Z"
+      "pickup_time": "2025-01-23T03:41:00Z"
     }
   },
   {
@@ -4544,7 +4544,7 @@
       "pickup_longitude": -122.3712,
       "dropoff_latitude": 37.8576,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T10:12:00Z"
+      "pickup_time": "2025-01-27T08:41:00Z"
     }
   },
   {
@@ -4553,12 +4553,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 34,
-      "id_driver": null,
+      "id_driver": 114,
       "pickup_latitude": 37.7231,
       "pickup_longitude": -122.3703,
       "dropoff_latitude": 37.8594,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T10:13:00Z"
+      "pickup_time": "2024-12-26T00:18:00Z"
     }
   },
   {
@@ -4572,7 +4572,7 @@
       "pickup_longitude": -122.3694,
       "dropoff_latitude": 37.8012,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T10:14:00Z"
+      "pickup_time": "2025-01-25T05:21:00Z"
     }
   },
   {
@@ -4586,7 +4586,7 @@
       "pickup_longitude": -122.3685,
       "dropoff_latitude": 37.803,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T10:15:00Z"
+      "pickup_time": "2024-12-25T11:57:00Z"
     }
   },
   {
@@ -4600,7 +4600,7 @@
       "pickup_longitude": -122.3676,
       "dropoff_latitude": 37.8048,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T10:16:00Z"
+      "pickup_time": "2025-01-26T23:46:00Z"
     }
   },
   {
@@ -4614,7 +4614,7 @@
       "pickup_longitude": -122.3667,
       "dropoff_latitude": 37.8066,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T10:17:00Z"
+      "pickup_time": "2025-01-25T02:23:00Z"
     }
   },
   {
@@ -4628,7 +4628,7 @@
       "pickup_longitude": -122.3658,
       "dropoff_latitude": 37.8084,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T10:18:00Z"
+      "pickup_time": "2024-12-29T19:06:00Z"
     }
   },
   {
@@ -4642,7 +4642,7 @@
       "pickup_longitude": -122.3649,
       "dropoff_latitude": 37.8102,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T10:19:00Z"
+      "pickup_time": "2025-01-22T00:48:00Z"
     }
   },
   {
@@ -4656,7 +4656,7 @@
       "pickup_longitude": -122.364,
       "dropoff_latitude": 37.812,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T10:20:00Z"
+      "pickup_time": "2025-01-08T02:39:00Z"
     }
   },
   {
@@ -4670,7 +4670,7 @@
       "pickup_longitude": -122.3631,
       "dropoff_latitude": 37.8138,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T10:21:00Z"
+      "pickup_time": "2025-01-02T15:23:00Z"
     }
   },
   {
@@ -4679,12 +4679,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 43,
-      "id_driver": null,
+      "id_driver": 123,
       "pickup_latitude": 37.7294,
       "pickup_longitude": -122.3622,
       "dropoff_latitude": 37.8156,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T10:22:00Z"
+      "pickup_time": "2025-01-12T09:39:00Z"
     }
   },
   {
@@ -4698,7 +4698,7 @@
       "pickup_longitude": -122.3613,
       "dropoff_latitude": 37.8174,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T10:23:00Z"
+      "pickup_time": "2024-12-26T08:14:00Z"
     }
   },
   {
@@ -4712,7 +4712,7 @@
       "pickup_longitude": -122.3604,
       "dropoff_latitude": 37.8192,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T10:24:00Z"
+      "pickup_time": "2025-01-14T23:10:00Z"
     }
   },
   {
@@ -4726,7 +4726,7 @@
       "pickup_longitude": -122.3595,
       "dropoff_latitude": 37.821,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T10:25:00Z"
+      "pickup_time": "2024-12-30T14:52:00Z"
     }
   },
   {
@@ -4740,7 +4740,7 @@
       "pickup_longitude": -122.3586,
       "dropoff_latitude": 37.8228,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T10:26:00Z"
+      "pickup_time": "2024-12-31T10:09:00Z"
     }
   },
   {
@@ -4754,7 +4754,7 @@
       "pickup_longitude": -122.3577,
       "dropoff_latitude": 37.8246,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T10:27:00Z"
+      "pickup_time": "2025-01-23T23:16:00Z"
     }
   },
   {
@@ -4768,7 +4768,7 @@
       "pickup_longitude": -122.3568,
       "dropoff_latitude": 37.8264,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T10:28:00Z"
+      "pickup_time": "2024-12-30T14:11:00Z"
     }
   },
   {
@@ -4782,7 +4782,7 @@
       "pickup_longitude": -122.3559,
       "dropoff_latitude": 37.8282,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T10:29:00Z"
+      "pickup_time": "2025-01-07T00:34:00Z"
     }
   },
   {
@@ -4796,7 +4796,7 @@
       "pickup_longitude": -122.355,
       "dropoff_latitude": 37.83,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T10:30:00Z"
+      "pickup_time": "2024-12-27T06:42:00Z"
     }
   },
   {
@@ -4805,12 +4805,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 52,
-      "id_driver": 132,
+      "id_driver": null,
       "pickup_latitude": 37.7357,
       "pickup_longitude": -122.3541,
       "dropoff_latitude": 37.8318,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T10:31:00Z"
+      "pickup_time": "2025-01-25T08:20:00Z"
     }
   },
   {
@@ -4824,7 +4824,7 @@
       "pickup_longitude": -122.3532,
       "dropoff_latitude": 37.8336,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T10:32:00Z"
+      "pickup_time": "2025-01-08T16:17:00Z"
     }
   },
   {
@@ -4833,12 +4833,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 54,
-      "id_driver": null,
+      "id_driver": 134,
       "pickup_latitude": 37.7371,
       "pickup_longitude": -122.3523,
       "dropoff_latitude": 37.8354,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T10:33:00Z"
+      "pickup_time": "2025-01-20T04:22:00Z"
     }
   },
   {
@@ -4852,7 +4852,7 @@
       "pickup_longitude": -122.3514,
       "dropoff_latitude": 37.8372,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T10:34:00Z"
+      "pickup_time": "2024-12-27T06:26:00Z"
     }
   },
   {
@@ -4866,7 +4866,7 @@
       "pickup_longitude": -122.3505,
       "dropoff_latitude": 37.839,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T10:35:00Z"
+      "pickup_time": "2025-01-26T06:37:00Z"
     }
   },
   {
@@ -4880,7 +4880,7 @@
       "pickup_longitude": -122.3496,
       "dropoff_latitude": 37.8408,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T10:36:00Z"
+      "pickup_time": "2025-01-16T20:42:00Z"
     }
   },
   {
@@ -4894,7 +4894,7 @@
       "pickup_longitude": -122.3487,
       "dropoff_latitude": 37.8426,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T10:37:00Z"
+      "pickup_time": "2025-01-15T05:36:00Z"
     }
   },
   {
@@ -4908,7 +4908,7 @@
       "pickup_longitude": -122.3478,
       "dropoff_latitude": 37.8444,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T10:38:00Z"
+      "pickup_time": "2025-01-11T07:26:00Z"
     }
   },
   {
@@ -4922,7 +4922,7 @@
       "pickup_longitude": -122.3469,
       "dropoff_latitude": 37.8462,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T10:39:00Z"
+      "pickup_time": "2025-01-02T11:23:00Z"
     }
   },
   {
@@ -4936,7 +4936,7 @@
       "pickup_longitude": -122.346,
       "dropoff_latitude": 37.848,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T10:40:00Z"
+      "pickup_time": "2025-01-21T01:57:00Z"
     }
   },
   {
@@ -4950,7 +4950,7 @@
       "pickup_longitude": -122.3451,
       "dropoff_latitude": 37.8498,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T10:41:00Z"
+      "pickup_time": "2024-12-31T15:54:00Z"
     }
   },
   {
@@ -4964,7 +4964,7 @@
       "pickup_longitude": -122.3442,
       "dropoff_latitude": 37.8516,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T10:42:00Z"
+      "pickup_time": "2025-01-09T12:52:00Z"
     }
   },
   {
@@ -4978,7 +4978,7 @@
       "pickup_longitude": -122.3433,
       "dropoff_latitude": 37.8534,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T10:43:00Z"
+      "pickup_time": "2025-01-11T01:47:00Z"
     }
   },
   {
@@ -4992,7 +4992,7 @@
       "pickup_longitude": -122.3424,
       "dropoff_latitude": 37.8552,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T10:44:00Z"
+      "pickup_time": "2025-01-09T18:11:00Z"
     }
   },
   {
@@ -5006,7 +5006,7 @@
       "pickup_longitude": -122.3415,
       "dropoff_latitude": 37.857,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T10:45:00Z"
+      "pickup_time": "2024-12-26T23:42:00Z"
     }
   },
   {
@@ -5015,12 +5015,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 67,
-      "id_driver": 107,
+      "id_driver": null,
       "pickup_latitude": 37.7462,
       "pickup_longitude": -122.3406,
       "dropoff_latitude": 37.8588,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T10:46:00Z"
+      "pickup_time": "2025-01-01T19:44:00Z"
     }
   },
   {
@@ -5034,7 +5034,7 @@
       "pickup_longitude": -122.3397,
       "dropoff_latitude": 37.8006,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T10:47:00Z"
+      "pickup_time": "2025-01-20T22:04:00Z"
     }
   },
   {
@@ -5048,7 +5048,7 @@
       "pickup_longitude": -122.3388,
       "dropoff_latitude": 37.8024,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T10:48:00Z"
+      "pickup_time": "2025-01-12T08:01:00Z"
     }
   },
   {
@@ -5062,7 +5062,7 @@
       "pickup_longitude": -122.3379,
       "dropoff_latitude": 37.8042,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T10:49:00Z"
+      "pickup_time": "2024-12-31T06:25:00Z"
     }
   },
   {
@@ -5071,12 +5071,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 71,
-      "id_driver": null,
+      "id_driver": 111,
       "pickup_latitude": 37.749,
       "pickup_longitude": -122.337,
       "dropoff_latitude": 37.806,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T10:50:00Z"
+      "pickup_time": "2025-01-16T03:00:00Z"
     }
   },
   {
@@ -5090,7 +5090,7 @@
       "pickup_longitude": -122.3361,
       "dropoff_latitude": 37.8078,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T10:51:00Z"
+      "pickup_time": "2024-12-27T13:33:00Z"
     }
   },
   {
@@ -5104,7 +5104,7 @@
       "pickup_longitude": -122.3352,
       "dropoff_latitude": 37.8096,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T10:52:00Z"
+      "pickup_time": "2025-01-18T04:10:00Z"
     }
   },
   {
@@ -5113,12 +5113,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 74,
-      "id_driver": null,
+      "id_driver": 114,
       "pickup_latitude": 37.7511,
       "pickup_longitude": -122.3343,
       "dropoff_latitude": 37.8114,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T10:53:00Z"
+      "pickup_time": "2025-01-08T03:28:00Z"
     }
   },
   {
@@ -5132,7 +5132,7 @@
       "pickup_longitude": -122.3334,
       "dropoff_latitude": 37.8132,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T10:54:00Z"
+      "pickup_time": "2025-01-09T07:43:00Z"
     }
   },
   {
@@ -5146,7 +5146,7 @@
       "pickup_longitude": -122.3325,
       "dropoff_latitude": 37.815,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T10:55:00Z"
+      "pickup_time": "2024-12-30T07:35:00Z"
     }
   },
   {
@@ -5155,12 +5155,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 77,
-      "id_driver": 117,
+      "id_driver": null,
       "pickup_latitude": 37.7532,
       "pickup_longitude": -122.3316,
       "dropoff_latitude": 37.8168,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T10:56:00Z"
+      "pickup_time": "2025-01-16T06:30:00Z"
     }
   },
   {
@@ -5174,7 +5174,7 @@
       "pickup_longitude": -122.3307,
       "dropoff_latitude": 37.8186,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T10:57:00Z"
+      "pickup_time": "2025-01-30T16:26:00Z"
     }
   },
   {
@@ -5188,7 +5188,7 @@
       "pickup_longitude": -122.3298,
       "dropoff_latitude": 37.8204,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T10:58:00Z"
+      "pickup_time": "2025-01-10T00:19:00Z"
     }
   },
   {
@@ -5202,7 +5202,7 @@
       "pickup_longitude": -122.3289,
       "dropoff_latitude": 37.8222,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T10:59:00Z"
+      "pickup_time": "2024-12-30T15:41:00Z"
     }
   },
   {
@@ -5216,7 +5216,7 @@
       "pickup_longitude": -122.328,
       "dropoff_latitude": 37.824,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T11:00:00Z"
+      "pickup_time": "2025-01-13T17:53:00Z"
     }
   },
   {
@@ -5225,12 +5225,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 82,
-      "id_driver": 122,
+      "id_driver": null,
       "pickup_latitude": 37.7567,
       "pickup_longitude": -122.3271,
       "dropoff_latitude": 37.8258,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T11:01:00Z"
+      "pickup_time": "2025-01-09T14:00:00Z"
     }
   },
   {
@@ -5244,7 +5244,7 @@
       "pickup_longitude": -122.3262,
       "dropoff_latitude": 37.8276,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T11:02:00Z"
+      "pickup_time": "2025-01-01T10:03:00Z"
     }
   },
   {
@@ -5258,7 +5258,7 @@
       "pickup_longitude": -122.3253,
       "dropoff_latitude": 37.8294,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T11:03:00Z"
+      "pickup_time": "2025-01-22T20:37:00Z"
     }
   },
   {
@@ -5272,7 +5272,7 @@
       "pickup_longitude": -122.3244,
       "dropoff_latitude": 37.8312,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T11:04:00Z"
+      "pickup_time": "2025-01-31T00:33:00Z"
     }
   },
   {
@@ -5286,7 +5286,7 @@
       "pickup_longitude": -122.3235,
       "dropoff_latitude": 37.833,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T11:05:00Z"
+      "pickup_time": "2025-01-23T09:54:00Z"
     }
   },
   {
@@ -5295,12 +5295,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 87,
-      "id_driver": 127,
+      "id_driver": null,
       "pickup_latitude": 37.7602,
       "pickup_longitude": -122.3226,
       "dropoff_latitude": 37.8348,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T11:06:00Z"
+      "pickup_time": "2025-01-31T02:24:00Z"
     }
   },
   {
@@ -5314,7 +5314,7 @@
       "pickup_longitude": -122.3217,
       "dropoff_latitude": 37.8366,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T11:07:00Z"
+      "pickup_time": "2025-01-28T11:10:00Z"
     }
   },
   {
@@ -5328,7 +5328,7 @@
       "pickup_longitude": -122.3208,
       "dropoff_latitude": 37.8384,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T11:08:00Z"
+      "pickup_time": "2025-01-11T20:27:00Z"
     }
   },
   {
@@ -5337,12 +5337,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 90,
-      "id_driver": 130,
+      "id_driver": null,
       "pickup_latitude": 37.7623,
       "pickup_longitude": -122.3199,
       "dropoff_latitude": 37.8402,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T11:09:00Z"
+      "pickup_time": "2025-01-12T06:17:00Z"
     }
   },
   {
@@ -5356,7 +5356,7 @@
       "pickup_longitude": -122.319,
       "dropoff_latitude": 37.842,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T11:10:00Z"
+      "pickup_time": "2025-01-07T12:43:00Z"
     }
   },
   {
@@ -5370,7 +5370,7 @@
       "pickup_longitude": -122.3181,
       "dropoff_latitude": 37.8438,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T11:11:00Z"
+      "pickup_time": "2025-01-16T13:53:00Z"
     }
   },
   {
@@ -5384,7 +5384,7 @@
       "pickup_longitude": -122.3172,
       "dropoff_latitude": 37.8456,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T11:12:00Z"
+      "pickup_time": "2025-01-26T20:31:00Z"
     }
   },
   {
@@ -5398,7 +5398,7 @@
       "pickup_longitude": -122.3163,
       "dropoff_latitude": 37.8474,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T11:13:00Z"
+      "pickup_time": "2025-01-13T14:17:00Z"
     }
   },
   {
@@ -5407,12 +5407,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 95,
-      "id_driver": 135,
+      "id_driver": null,
       "pickup_latitude": 37.7658,
       "pickup_longitude": -122.3154,
       "dropoff_latitude": 37.8492,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T11:14:00Z"
+      "pickup_time": "2025-01-04T08:40:00Z"
     }
   },
   {
@@ -5426,7 +5426,7 @@
       "pickup_longitude": -122.3145,
       "dropoff_latitude": 37.851,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T11:15:00Z"
+      "pickup_time": "2025-01-06T05:14:00Z"
     }
   },
   {
@@ -5440,7 +5440,7 @@
       "pickup_longitude": -122.3136,
       "dropoff_latitude": 37.8528,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T11:16:00Z"
+      "pickup_time": "2025-01-01T22:13:00Z"
     }
   },
   {
@@ -5454,7 +5454,7 @@
       "pickup_longitude": -122.3127,
       "dropoff_latitude": 37.8546,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T11:17:00Z"
+      "pickup_time": "2025-01-10T15:52:00Z"
     }
   },
   {
@@ -5468,7 +5468,7 @@
       "pickup_longitude": -122.3118,
       "dropoff_latitude": 37.8564,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T11:18:00Z"
+      "pickup_time": "2025-01-26T07:04:00Z"
     }
   },
   {
@@ -5477,12 +5477,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 100,
-      "id_driver": 140,
+      "id_driver": null,
       "pickup_latitude": 37.7693,
       "pickup_longitude": -122.3109,
       "dropoff_latitude": 37.8582,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T11:19:00Z"
+      "pickup_time": "2025-01-18T06:38:00Z"
     }
   },
   {
@@ -5491,12 +5491,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 1,
-      "id_driver": null,
+      "id_driver": 101,
       "pickup_latitude": 37.7,
       "pickup_longitude": -122.4,
       "dropoff_latitude": 37.8,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T11:20:00Z"
+      "pickup_time": "2025-01-25T03:42:00Z"
     }
   },
   {
@@ -5510,7 +5510,7 @@
       "pickup_longitude": -122.3991,
       "dropoff_latitude": 37.8018,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T11:21:00Z"
+      "pickup_time": "2025-01-16T23:18:00Z"
     }
   },
   {
@@ -5524,7 +5524,7 @@
       "pickup_longitude": -122.3982,
       "dropoff_latitude": 37.8036,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T11:22:00Z"
+      "pickup_time": "2025-01-03T18:43:00Z"
     }
   },
   {
@@ -5538,7 +5538,7 @@
       "pickup_longitude": -122.3973,
       "dropoff_latitude": 37.8054,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T11:23:00Z"
+      "pickup_time": "2025-01-30T15:23:00Z"
     }
   },
   {
@@ -5552,7 +5552,7 @@
       "pickup_longitude": -122.3964,
       "dropoff_latitude": 37.8072,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T11:24:00Z"
+      "pickup_time": "2025-01-01T00:15:00Z"
     }
   },
   {
@@ -5566,7 +5566,7 @@
       "pickup_longitude": -122.3955,
       "dropoff_latitude": 37.809,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T11:25:00Z"
+      "pickup_time": "2025-01-15T05:07:00Z"
     }
   },
   {
@@ -5580,7 +5580,7 @@
       "pickup_longitude": -122.3946,
       "dropoff_latitude": 37.8108,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T11:26:00Z"
+      "pickup_time": "2025-01-19T05:14:00Z"
     }
   },
   {
@@ -5594,7 +5594,7 @@
       "pickup_longitude": -122.3937,
       "dropoff_latitude": 37.8126,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T11:27:00Z"
+      "pickup_time": "2024-12-30T02:51:00Z"
     }
   },
   {
@@ -5608,7 +5608,7 @@
       "pickup_longitude": -122.3928,
       "dropoff_latitude": 37.8144,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T11:28:00Z"
+      "pickup_time": "2025-01-16T13:23:00Z"
     }
   },
   {
@@ -5622,7 +5622,7 @@
       "pickup_longitude": -122.3919,
       "dropoff_latitude": 37.8162,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T11:29:00Z"
+      "pickup_time": "2025-01-12T19:50:00Z"
     }
   },
   {
@@ -5636,7 +5636,7 @@
       "pickup_longitude": -122.391,
       "dropoff_latitude": 37.818,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T11:30:00Z"
+      "pickup_time": "2025-01-13T14:47:00Z"
     }
   },
   {
@@ -5650,7 +5650,7 @@
       "pickup_longitude": -122.3901,
       "dropoff_latitude": 37.8198,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T11:31:00Z"
+      "pickup_time": "2025-01-16T21:37:00Z"
     }
   },
   {
@@ -5664,7 +5664,7 @@
       "pickup_longitude": -122.3892,
       "dropoff_latitude": 37.8216,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T11:32:00Z"
+      "pickup_time": "2025-01-09T00:44:00Z"
     }
   },
   {
@@ -5678,7 +5678,7 @@
       "pickup_longitude": -122.3883,
       "dropoff_latitude": 37.8234,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T11:33:00Z"
+      "pickup_time": "2025-01-17T01:12:00Z"
     }
   },
   {
@@ -5692,7 +5692,7 @@
       "pickup_longitude": -122.3874,
       "dropoff_latitude": 37.8252,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T11:34:00Z"
+      "pickup_time": "2025-01-03T13:11:00Z"
     }
   },
   {
@@ -5706,7 +5706,7 @@
       "pickup_longitude": -122.3865,
       "dropoff_latitude": 37.827,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T11:35:00Z"
+      "pickup_time": "2025-01-04T07:32:00Z"
     }
   },
   {
@@ -5715,12 +5715,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 17,
-      "id_driver": 117,
+      "id_driver": null,
       "pickup_latitude": 37.7112,
       "pickup_longitude": -122.3856,
       "dropoff_latitude": 37.8288,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T11:36:00Z"
+      "pickup_time": "2025-01-26T11:17:00Z"
     }
   },
   {
@@ -5734,7 +5734,7 @@
       "pickup_longitude": -122.3847,
       "dropoff_latitude": 37.8306,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T11:37:00Z"
+      "pickup_time": "2025-01-08T20:14:00Z"
     }
   },
   {
@@ -5743,12 +5743,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 19,
-      "id_driver": null,
+      "id_driver": 119,
       "pickup_latitude": 37.7126,
       "pickup_longitude": -122.3838,
       "dropoff_latitude": 37.8324,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T11:38:00Z"
+      "pickup_time": "2024-12-26T23:22:00Z"
     }
   },
   {
@@ -5762,7 +5762,7 @@
       "pickup_longitude": -122.3829,
       "dropoff_latitude": 37.8342,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T11:39:00Z"
+      "pickup_time": "2025-01-06T01:14:00Z"
     }
   },
   {
@@ -5776,7 +5776,7 @@
       "pickup_longitude": -122.382,
       "dropoff_latitude": 37.836,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T11:40:00Z"
+      "pickup_time": "2025-01-01T10:57:00Z"
     }
   },
   {
@@ -5790,7 +5790,7 @@
       "pickup_longitude": -122.3811,
       "dropoff_latitude": 37.8378,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T11:41:00Z"
+      "pickup_time": "2025-01-20T21:25:00Z"
     }
   },
   {
@@ -5804,7 +5804,7 @@
       "pickup_longitude": -122.3802,
       "dropoff_latitude": 37.8396,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T11:42:00Z"
+      "pickup_time": "2025-01-26T12:14:00Z"
     }
   },
   {
@@ -5818,7 +5818,7 @@
       "pickup_longitude": -122.3793,
       "dropoff_latitude": 37.8414,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T11:43:00Z"
+      "pickup_time": "2024-12-28T09:11:00Z"
     }
   },
   {
@@ -5832,7 +5832,7 @@
       "pickup_longitude": -122.3784,
       "dropoff_latitude": 37.8432,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T11:44:00Z"
+      "pickup_time": "2025-01-17T20:55:00Z"
     }
   },
   {
@@ -5846,7 +5846,7 @@
       "pickup_longitude": -122.3775,
       "dropoff_latitude": 37.845,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T11:45:00Z"
+      "pickup_time": "2024-12-27T03:48:00Z"
     }
   },
   {
@@ -5860,7 +5860,7 @@
       "pickup_longitude": -122.3766,
       "dropoff_latitude": 37.8468,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T11:46:00Z"
+      "pickup_time": "2024-12-31T07:18:00Z"
     }
   },
   {
@@ -5869,12 +5869,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 28,
-      "id_driver": 128,
+      "id_driver": null,
       "pickup_latitude": 37.7189,
       "pickup_longitude": -122.3757,
       "dropoff_latitude": 37.8486,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T11:47:00Z"
+      "pickup_time": "2024-12-26T01:28:00Z"
     }
   },
   {
@@ -5888,7 +5888,7 @@
       "pickup_longitude": -122.3748,
       "dropoff_latitude": 37.8504,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T11:48:00Z"
+      "pickup_time": "2025-01-14T18:46:00Z"
     }
   },
   {
@@ -5897,12 +5897,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 30,
-      "id_driver": null,
+      "id_driver": 130,
       "pickup_latitude": 37.7203,
       "pickup_longitude": -122.3739,
       "dropoff_latitude": 37.8522,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T11:49:00Z"
+      "pickup_time": "2025-01-01T16:19:00Z"
     }
   },
   {
@@ -5916,7 +5916,7 @@
       "pickup_longitude": -122.373,
       "dropoff_latitude": 37.854,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T11:50:00Z"
+      "pickup_time": "2025-01-24T05:27:00Z"
     }
   },
   {
@@ -5930,7 +5930,7 @@
       "pickup_longitude": -122.3721,
       "dropoff_latitude": 37.8558,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T11:51:00Z"
+      "pickup_time": "2025-01-11T06:25:00Z"
     }
   },
   {
@@ -5944,7 +5944,7 @@
       "pickup_longitude": -122.3712,
       "dropoff_latitude": 37.8576,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T11:52:00Z"
+      "pickup_time": "2025-01-18T11:33:00Z"
     }
   },
   {
@@ -5958,7 +5958,7 @@
       "pickup_longitude": -122.3703,
       "dropoff_latitude": 37.8594,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T11:53:00Z"
+      "pickup_time": "2025-01-20T11:42:00Z"
     }
   },
   {
@@ -5967,12 +5967,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 35,
-      "id_driver": 135,
+      "id_driver": null,
       "pickup_latitude": 37.7238,
       "pickup_longitude": -122.3694,
       "dropoff_latitude": 37.8012,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T11:54:00Z"
+      "pickup_time": "2025-01-30T12:19:00Z"
     }
   },
   {
@@ -5986,7 +5986,7 @@
       "pickup_longitude": -122.3685,
       "dropoff_latitude": 37.803,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T11:55:00Z"
+      "pickup_time": "2025-01-28T20:41:00Z"
     }
   },
   {
@@ -6000,7 +6000,7 @@
       "pickup_longitude": -122.3676,
       "dropoff_latitude": 37.8048,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T11:56:00Z"
+      "pickup_time": "2024-12-28T20:20:00Z"
     }
   },
   {
@@ -6014,7 +6014,7 @@
       "pickup_longitude": -122.3667,
       "dropoff_latitude": 37.8066,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T11:57:00Z"
+      "pickup_time": "2025-01-28T17:11:00Z"
     }
   },
   {
@@ -6023,12 +6023,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 39,
-      "id_driver": null,
+      "id_driver": 139,
       "pickup_latitude": 37.7266,
       "pickup_longitude": -122.3658,
       "dropoff_latitude": 37.8084,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T11:58:00Z"
+      "pickup_time": "2025-01-18T17:47:00Z"
     }
   },
   {
@@ -6042,7 +6042,7 @@
       "pickup_longitude": -122.3649,
       "dropoff_latitude": 37.8102,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T11:59:00Z"
+      "pickup_time": "2025-01-13T09:22:00Z"
     }
   },
   {
@@ -6056,7 +6056,7 @@
       "pickup_longitude": -122.364,
       "dropoff_latitude": 37.812,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T12:00:00Z"
+      "pickup_time": "2025-01-16T06:42:00Z"
     }
   },
   {
@@ -6070,7 +6070,7 @@
       "pickup_longitude": -122.3631,
       "dropoff_latitude": 37.8138,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T12:01:00Z"
+      "pickup_time": "2025-01-12T00:26:00Z"
     }
   },
   {
@@ -6084,7 +6084,7 @@
       "pickup_longitude": -122.3622,
       "dropoff_latitude": 37.8156,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T12:02:00Z"
+      "pickup_time": "2025-01-04T23:09:00Z"
     }
   },
   {
@@ -6098,7 +6098,7 @@
       "pickup_longitude": -122.3613,
       "dropoff_latitude": 37.8174,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T12:03:00Z"
+      "pickup_time": "2025-01-30T15:44:00Z"
     }
   },
   {
@@ -6107,12 +6107,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 45,
-      "id_driver": 105,
+      "id_driver": null,
       "pickup_latitude": 37.7308,
       "pickup_longitude": -122.3604,
       "dropoff_latitude": 37.8192,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T12:04:00Z"
+      "pickup_time": "2024-12-25T08:19:00Z"
     }
   },
   {
@@ -6126,7 +6126,7 @@
       "pickup_longitude": -122.3595,
       "dropoff_latitude": 37.821,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T12:05:00Z"
+      "pickup_time": "2025-01-08T02:25:00Z"
     }
   },
   {
@@ -6140,7 +6140,7 @@
       "pickup_longitude": -122.3586,
       "dropoff_latitude": 37.8228,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T12:06:00Z"
+      "pickup_time": "2025-01-05T22:02:00Z"
     }
   },
   {
@@ -6154,7 +6154,7 @@
       "pickup_longitude": -122.3577,
       "dropoff_latitude": 37.8246,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T12:07:00Z"
+      "pickup_time": "2025-01-16T19:09:00Z"
     }
   },
   {
@@ -6168,7 +6168,7 @@
       "pickup_longitude": -122.3568,
       "dropoff_latitude": 37.8264,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T12:08:00Z"
+      "pickup_time": "2025-01-08T02:52:00Z"
     }
   },
   {
@@ -6177,12 +6177,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 50,
-      "id_driver": null,
+      "id_driver": 110,
       "pickup_latitude": 37.7343,
       "pickup_longitude": -122.3559,
       "dropoff_latitude": 37.8282,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T12:09:00Z"
+      "pickup_time": "2025-01-11T19:45:00Z"
     }
   },
   {
@@ -6191,12 +6191,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 51,
-      "id_driver": null,
+      "id_driver": 111,
       "pickup_latitude": 37.735,
       "pickup_longitude": -122.355,
       "dropoff_latitude": 37.83,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T12:10:00Z"
+      "pickup_time": "2024-12-28T04:10:00Z"
     }
   },
   {
@@ -6210,7 +6210,7 @@
       "pickup_longitude": -122.3541,
       "dropoff_latitude": 37.8318,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T12:11:00Z"
+      "pickup_time": "2024-12-31T03:15:00Z"
     }
   },
   {
@@ -6224,7 +6224,7 @@
       "pickup_longitude": -122.3532,
       "dropoff_latitude": 37.8336,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T12:12:00Z"
+      "pickup_time": "2025-01-27T12:57:00Z"
     }
   },
   {
@@ -6238,7 +6238,7 @@
       "pickup_longitude": -122.3523,
       "dropoff_latitude": 37.8354,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T12:13:00Z"
+      "pickup_time": "2024-12-27T20:52:00Z"
     }
   },
   {
@@ -6252,7 +6252,7 @@
       "pickup_longitude": -122.3514,
       "dropoff_latitude": 37.8372,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T12:14:00Z"
+      "pickup_time": "2025-01-16T05:58:00Z"
     }
   },
   {
@@ -6266,7 +6266,7 @@
       "pickup_longitude": -122.3505,
       "dropoff_latitude": 37.839,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T12:15:00Z"
+      "pickup_time": "2025-01-16T17:27:00Z"
     }
   },
   {
@@ -6275,12 +6275,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 57,
-      "id_driver": null,
+      "id_driver": 117,
       "pickup_latitude": 37.7392,
       "pickup_longitude": -122.3496,
       "dropoff_latitude": 37.8408,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T12:16:00Z"
+      "pickup_time": "2025-01-21T17:46:00Z"
     }
   },
   {
@@ -6294,7 +6294,7 @@
       "pickup_longitude": -122.3487,
       "dropoff_latitude": 37.8426,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T12:17:00Z"
+      "pickup_time": "2025-01-24T23:58:00Z"
     }
   },
   {
@@ -6308,7 +6308,7 @@
       "pickup_longitude": -122.3478,
       "dropoff_latitude": 37.8444,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T12:18:00Z"
+      "pickup_time": "2025-01-31T05:21:00Z"
     }
   },
   {
@@ -6322,7 +6322,7 @@
       "pickup_longitude": -122.3469,
       "dropoff_latitude": 37.8462,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T12:19:00Z"
+      "pickup_time": "2025-01-13T01:23:00Z"
     }
   },
   {
@@ -6331,12 +6331,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 61,
-      "id_driver": 121,
+      "id_driver": null,
       "pickup_latitude": 37.742,
       "pickup_longitude": -122.346,
       "dropoff_latitude": 37.848,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T12:20:00Z"
+      "pickup_time": "2025-01-15T13:38:00Z"
     }
   },
   {
@@ -6350,7 +6350,7 @@
       "pickup_longitude": -122.3451,
       "dropoff_latitude": 37.8498,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T12:21:00Z"
+      "pickup_time": "2024-12-27T11:43:00Z"
     }
   },
   {
@@ -6364,7 +6364,7 @@
       "pickup_longitude": -122.3442,
       "dropoff_latitude": 37.8516,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T12:22:00Z"
+      "pickup_time": "2025-01-29T18:18:00Z"
     }
   },
   {
@@ -6378,7 +6378,7 @@
       "pickup_longitude": -122.3433,
       "dropoff_latitude": 37.8534,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T12:23:00Z"
+      "pickup_time": "2024-12-26T19:50:00Z"
     }
   },
   {
@@ -6392,7 +6392,7 @@
       "pickup_longitude": -122.3424,
       "dropoff_latitude": 37.8552,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T12:24:00Z"
+      "pickup_time": "2024-12-31T09:20:00Z"
     }
   },
   {
@@ -6406,7 +6406,7 @@
       "pickup_longitude": -122.3415,
       "dropoff_latitude": 37.857,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T12:25:00Z"
+      "pickup_time": "2024-12-30T03:25:00Z"
     }
   },
   {
@@ -6420,7 +6420,7 @@
       "pickup_longitude": -122.3406,
       "dropoff_latitude": 37.8588,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T12:26:00Z"
+      "pickup_time": "2025-01-23T21:18:00Z"
     }
   },
   {
@@ -6429,12 +6429,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 68,
-      "id_driver": null,
+      "id_driver": 128,
       "pickup_latitude": 37.7469,
       "pickup_longitude": -122.3397,
       "dropoff_latitude": 37.8006,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T12:27:00Z"
+      "pickup_time": "2025-01-11T19:14:00Z"
     }
   },
   {
@@ -6448,7 +6448,7 @@
       "pickup_longitude": -122.3388,
       "dropoff_latitude": 37.8024,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T12:28:00Z"
+      "pickup_time": "2025-01-29T17:39:00Z"
     }
   },
   {
@@ -6462,7 +6462,7 @@
       "pickup_longitude": -122.3379,
       "dropoff_latitude": 37.8042,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T12:29:00Z"
+      "pickup_time": "2024-12-28T02:11:00Z"
     }
   },
   {
@@ -6476,7 +6476,7 @@
       "pickup_longitude": -122.337,
       "dropoff_latitude": 37.806,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T12:30:00Z"
+      "pickup_time": "2025-01-15T14:47:00Z"
     }
   },
   {
@@ -6490,7 +6490,7 @@
       "pickup_longitude": -122.3361,
       "dropoff_latitude": 37.8078,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T12:31:00Z"
+      "pickup_time": "2025-01-09T17:33:00Z"
     }
   },
   {
@@ -6504,7 +6504,7 @@
       "pickup_longitude": -122.3352,
       "dropoff_latitude": 37.8096,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T12:32:00Z"
+      "pickup_time": "2025-01-25T10:02:00Z"
     }
   },
   {
@@ -6518,7 +6518,7 @@
       "pickup_longitude": -122.3343,
       "dropoff_latitude": 37.8114,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T12:33:00Z"
+      "pickup_time": "2025-01-07T20:16:00Z"
     }
   },
   {
@@ -6527,12 +6527,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 75,
-      "id_driver": null,
+      "id_driver": 135,
       "pickup_latitude": 37.7518,
       "pickup_longitude": -122.3334,
       "dropoff_latitude": 37.8132,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T12:34:00Z"
+      "pickup_time": "2024-12-31T03:24:00Z"
     }
   },
   {
@@ -6546,7 +6546,7 @@
       "pickup_longitude": -122.3325,
       "dropoff_latitude": 37.815,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T12:35:00Z"
+      "pickup_time": "2025-01-11T23:59:00Z"
     }
   },
   {
@@ -6560,7 +6560,7 @@
       "pickup_longitude": -122.3316,
       "dropoff_latitude": 37.8168,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T12:36:00Z"
+      "pickup_time": "2025-01-28T07:11:00Z"
     }
   },
   {
@@ -6574,7 +6574,7 @@
       "pickup_longitude": -122.3307,
       "dropoff_latitude": 37.8186,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T12:37:00Z"
+      "pickup_time": "2025-01-25T08:27:00Z"
     }
   },
   {
@@ -6588,7 +6588,7 @@
       "pickup_longitude": -122.3298,
       "dropoff_latitude": 37.8204,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T12:38:00Z"
+      "pickup_time": "2024-12-30T21:24:00Z"
     }
   },
   {
@@ -6602,7 +6602,7 @@
       "pickup_longitude": -122.3289,
       "dropoff_latitude": 37.8222,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T12:39:00Z"
+      "pickup_time": "2025-01-30T02:36:00Z"
     }
   },
   {
@@ -6616,7 +6616,7 @@
       "pickup_longitude": -122.328,
       "dropoff_latitude": 37.824,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T12:40:00Z"
+      "pickup_time": "2024-12-27T02:22:00Z"
     }
   },
   {
@@ -6630,7 +6630,7 @@
       "pickup_longitude": -122.3271,
       "dropoff_latitude": 37.8258,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T12:41:00Z"
+      "pickup_time": "2025-01-14T14:16:00Z"
     }
   },
   {
@@ -6644,7 +6644,7 @@
       "pickup_longitude": -122.3262,
       "dropoff_latitude": 37.8276,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T12:42:00Z"
+      "pickup_time": "2025-01-03T00:45:00Z"
     }
   },
   {
@@ -6653,12 +6653,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 84,
-      "id_driver": null,
+      "id_driver": 104,
       "pickup_latitude": 37.7581,
       "pickup_longitude": -122.3253,
       "dropoff_latitude": 37.8294,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T12:43:00Z"
+      "pickup_time": "2025-01-30T07:07:00Z"
     }
   },
   {
@@ -6672,7 +6672,7 @@
       "pickup_longitude": -122.3244,
       "dropoff_latitude": 37.8312,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T12:44:00Z"
+      "pickup_time": "2024-12-27T09:29:00Z"
     }
   },
   {
@@ -6686,7 +6686,7 @@
       "pickup_longitude": -122.3235,
       "dropoff_latitude": 37.833,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T12:45:00Z"
+      "pickup_time": "2024-12-27T04:25:00Z"
     }
   },
   {
@@ -6695,12 +6695,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 87,
-      "id_driver": null,
+      "id_driver": 107,
       "pickup_latitude": 37.7602,
       "pickup_longitude": -122.3226,
       "dropoff_latitude": 37.8348,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T12:46:00Z"
+      "pickup_time": "2024-12-26T13:52:00Z"
     }
   },
   {
@@ -6714,7 +6714,7 @@
       "pickup_longitude": -122.3217,
       "dropoff_latitude": 37.8366,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T12:47:00Z"
+      "pickup_time": "2025-01-24T16:47:00Z"
     }
   },
   {
@@ -6728,7 +6728,7 @@
       "pickup_longitude": -122.3208,
       "dropoff_latitude": 37.8384,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T12:48:00Z"
+      "pickup_time": "2025-01-04T04:42:00Z"
     }
   },
   {
@@ -6742,7 +6742,7 @@
       "pickup_longitude": -122.3199,
       "dropoff_latitude": 37.8402,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T12:49:00Z"
+      "pickup_time": "2025-01-29T16:47:00Z"
     }
   },
   {
@@ -6751,12 +6751,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 91,
-      "id_driver": null,
+      "id_driver": 111,
       "pickup_latitude": 37.763,
       "pickup_longitude": -122.319,
       "dropoff_latitude": 37.842,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T12:50:00Z"
+      "pickup_time": "2025-01-22T22:09:00Z"
     }
   },
   {
@@ -6770,7 +6770,7 @@
       "pickup_longitude": -122.3181,
       "dropoff_latitude": 37.8438,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T12:51:00Z"
+      "pickup_time": "2025-01-26T03:48:00Z"
     }
   },
   {
@@ -6784,7 +6784,7 @@
       "pickup_longitude": -122.3172,
       "dropoff_latitude": 37.8456,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T12:52:00Z"
+      "pickup_time": "2025-01-17T10:45:00Z"
     }
   },
   {
@@ -6798,7 +6798,7 @@
       "pickup_longitude": -122.3163,
       "dropoff_latitude": 37.8474,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T12:53:00Z"
+      "pickup_time": "2024-12-30T12:47:00Z"
     }
   },
   {
@@ -6812,7 +6812,7 @@
       "pickup_longitude": -122.3154,
       "dropoff_latitude": 37.8492,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T12:54:00Z"
+      "pickup_time": "2025-01-20T03:08:00Z"
     }
   },
   {
@@ -6826,7 +6826,7 @@
       "pickup_longitude": -122.3145,
       "dropoff_latitude": 37.851,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T12:55:00Z"
+      "pickup_time": "2024-12-29T04:42:00Z"
     }
   },
   {
@@ -6840,7 +6840,7 @@
       "pickup_longitude": -122.3136,
       "dropoff_latitude": 37.8528,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T12:56:00Z"
+      "pickup_time": "2025-01-13T06:55:00Z"
     }
   },
   {
@@ -6849,12 +6849,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 98,
-      "id_driver": 118,
+      "id_driver": null,
       "pickup_latitude": 37.7679,
       "pickup_longitude": -122.3127,
       "dropoff_latitude": 37.8546,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T12:57:00Z"
+      "pickup_time": "2025-01-13T06:25:00Z"
     }
   },
   {
@@ -6868,7 +6868,7 @@
       "pickup_longitude": -122.3118,
       "dropoff_latitude": 37.8564,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T12:58:00Z"
+      "pickup_time": "2025-01-27T18:59:00Z"
     }
   },
   {
@@ -6882,7 +6882,7 @@
       "pickup_longitude": -122.3109,
       "dropoff_latitude": 37.8582,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T12:59:00Z"
+      "pickup_time": "2025-01-30T09:20:00Z"
     }
   },
   {
@@ -6896,7 +6896,7 @@
       "pickup_longitude": -122.4,
       "dropoff_latitude": 37.8,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T13:00:00Z"
+      "pickup_time": "2025-01-25T13:45:00Z"
     }
   },
   {
@@ -6910,7 +6910,7 @@
       "pickup_longitude": -122.3991,
       "dropoff_latitude": 37.8018,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T13:01:00Z"
+      "pickup_time": "2025-01-16T22:27:00Z"
     }
   },
   {
@@ -6924,7 +6924,7 @@
       "pickup_longitude": -122.3982,
       "dropoff_latitude": 37.8036,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T13:02:00Z"
+      "pickup_time": "2025-01-09T02:28:00Z"
     }
   },
   {
@@ -6938,7 +6938,7 @@
       "pickup_longitude": -122.3973,
       "dropoff_latitude": 37.8054,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T13:03:00Z"
+      "pickup_time": "2024-12-28T21:50:00Z"
     }
   },
   {
@@ -6952,7 +6952,7 @@
       "pickup_longitude": -122.3964,
       "dropoff_latitude": 37.8072,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T13:04:00Z"
+      "pickup_time": "2024-12-30T20:38:00Z"
     }
   },
   {
@@ -6966,7 +6966,7 @@
       "pickup_longitude": -122.3955,
       "dropoff_latitude": 37.809,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T13:05:00Z"
+      "pickup_time": "2024-12-26T16:10:00Z"
     }
   },
   {
@@ -6980,7 +6980,7 @@
       "pickup_longitude": -122.3946,
       "dropoff_latitude": 37.8108,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T13:06:00Z"
+      "pickup_time": "2025-01-02T10:25:00Z"
     }
   },
   {
@@ -6994,7 +6994,7 @@
       "pickup_longitude": -122.3937,
       "dropoff_latitude": 37.8126,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T13:07:00Z"
+      "pickup_time": "2025-01-04T19:52:00Z"
     }
   },
   {
@@ -7003,12 +7003,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 9,
-      "id_driver": null,
+      "id_driver": 129,
       "pickup_latitude": 37.7056,
       "pickup_longitude": -122.3928,
       "dropoff_latitude": 37.8144,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T13:08:00Z"
+      "pickup_time": "2024-12-28T13:09:00Z"
     }
   },
   {
@@ -7022,7 +7022,7 @@
       "pickup_longitude": -122.3919,
       "dropoff_latitude": 37.8162,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T13:09:00Z"
+      "pickup_time": "2024-12-31T20:39:00Z"
     }
   },
   {
@@ -7031,12 +7031,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 11,
-      "id_driver": null,
+      "id_driver": 131,
       "pickup_latitude": 37.707,
       "pickup_longitude": -122.391,
       "dropoff_latitude": 37.818,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T13:10:00Z"
+      "pickup_time": "2025-01-03T15:51:00Z"
     }
   },
   {
@@ -7045,12 +7045,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 12,
-      "id_driver": null,
+      "id_driver": 132,
       "pickup_latitude": 37.7077,
       "pickup_longitude": -122.3901,
       "dropoff_latitude": 37.8198,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T13:11:00Z"
+      "pickup_time": "2025-01-27T15:50:00Z"
     }
   },
   {
@@ -7064,7 +7064,7 @@
       "pickup_longitude": -122.3892,
       "dropoff_latitude": 37.8216,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T13:12:00Z"
+      "pickup_time": "2024-12-30T22:45:00Z"
     }
   },
   {
@@ -7078,7 +7078,7 @@
       "pickup_longitude": -122.3883,
       "dropoff_latitude": 37.8234,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T13:13:00Z"
+      "pickup_time": "2025-01-07T16:32:00Z"
     }
   },
   {
@@ -7092,7 +7092,7 @@
       "pickup_longitude": -122.3874,
       "dropoff_latitude": 37.8252,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T13:14:00Z"
+      "pickup_time": "2024-12-26T11:09:00Z"
     }
   },
   {
@@ -7106,7 +7106,7 @@
       "pickup_longitude": -122.3865,
       "dropoff_latitude": 37.827,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T13:15:00Z"
+      "pickup_time": "2025-01-04T22:35:00Z"
     }
   },
   {
@@ -7120,7 +7120,7 @@
       "pickup_longitude": -122.3856,
       "dropoff_latitude": 37.8288,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T13:16:00Z"
+      "pickup_time": "2025-01-02T20:30:00Z"
     }
   },
   {
@@ -7134,7 +7134,7 @@
       "pickup_longitude": -122.3847,
       "dropoff_latitude": 37.8306,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T13:17:00Z"
+      "pickup_time": "2025-01-16T00:57:00Z"
     }
   },
   {
@@ -7148,7 +7148,7 @@
       "pickup_longitude": -122.3838,
       "dropoff_latitude": 37.8324,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T13:18:00Z"
+      "pickup_time": "2025-01-06T02:20:00Z"
     }
   },
   {
@@ -7162,7 +7162,7 @@
       "pickup_longitude": -122.3829,
       "dropoff_latitude": 37.8342,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T13:19:00Z"
+      "pickup_time": "2025-01-03T19:38:00Z"
     }
   },
   {
@@ -7176,7 +7176,7 @@
       "pickup_longitude": -122.382,
       "dropoff_latitude": 37.836,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T13:20:00Z"
+      "pickup_time": "2025-01-15T21:22:00Z"
     }
   },
   {
@@ -7190,7 +7190,7 @@
       "pickup_longitude": -122.3811,
       "dropoff_latitude": 37.8378,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T13:21:00Z"
+      "pickup_time": "2025-01-07T20:02:00Z"
     }
   },
   {
@@ -7204,7 +7204,7 @@
       "pickup_longitude": -122.3802,
       "dropoff_latitude": 37.8396,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T13:22:00Z"
+      "pickup_time": "2025-01-19T12:36:00Z"
     }
   },
   {
@@ -7218,7 +7218,7 @@
       "pickup_longitude": -122.3793,
       "dropoff_latitude": 37.8414,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T13:23:00Z"
+      "pickup_time": "2025-01-02T17:24:00Z"
     }
   },
   {
@@ -7232,7 +7232,7 @@
       "pickup_longitude": -122.3784,
       "dropoff_latitude": 37.8432,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T13:24:00Z"
+      "pickup_time": "2024-12-29T00:39:00Z"
     }
   },
   {
@@ -7241,12 +7241,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 26,
-      "id_driver": null,
+      "id_driver": 106,
       "pickup_latitude": 37.7175,
       "pickup_longitude": -122.3775,
       "dropoff_latitude": 37.845,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T13:25:00Z"
+      "pickup_time": "2025-01-20T18:51:00Z"
     }
   },
   {
@@ -7260,7 +7260,7 @@
       "pickup_longitude": -122.3766,
       "dropoff_latitude": 37.8468,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T13:26:00Z"
+      "pickup_time": "2025-01-11T11:46:00Z"
     }
   },
   {
@@ -7274,7 +7274,7 @@
       "pickup_longitude": -122.3757,
       "dropoff_latitude": 37.8486,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T13:27:00Z"
+      "pickup_time": "2024-12-31T01:14:00Z"
     }
   },
   {
@@ -7288,7 +7288,7 @@
       "pickup_longitude": -122.3748,
       "dropoff_latitude": 37.8504,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T13:28:00Z"
+      "pickup_time": "2025-01-08T17:30:00Z"
     }
   },
   {
@@ -7302,7 +7302,7 @@
       "pickup_longitude": -122.3739,
       "dropoff_latitude": 37.8522,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T13:29:00Z"
+      "pickup_time": "2025-01-05T02:58:00Z"
     }
   },
   {
@@ -7316,7 +7316,7 @@
       "pickup_longitude": -122.373,
       "dropoff_latitude": 37.854,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T13:30:00Z"
+      "pickup_time": "2025-01-07T14:24:00Z"
     }
   },
   {
@@ -7330,7 +7330,7 @@
       "pickup_longitude": -122.3721,
       "dropoff_latitude": 37.8558,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T13:31:00Z"
+      "pickup_time": "2025-01-24T12:54:00Z"
     }
   },
   {
@@ -7339,12 +7339,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 33,
-      "id_driver": 113,
+      "id_driver": null,
       "pickup_latitude": 37.7224,
       "pickup_longitude": -122.3712,
       "dropoff_latitude": 37.8576,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T13:32:00Z"
+      "pickup_time": "2024-12-31T08:58:00Z"
     }
   },
   {
@@ -7358,7 +7358,7 @@
       "pickup_longitude": -122.3703,
       "dropoff_latitude": 37.8594,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T13:33:00Z"
+      "pickup_time": "2025-01-12T06:41:00Z"
     }
   },
   {
@@ -7372,7 +7372,7 @@
       "pickup_longitude": -122.3694,
       "dropoff_latitude": 37.8012,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T13:34:00Z"
+      "pickup_time": "2024-12-28T16:31:00Z"
     }
   },
   {
@@ -7386,7 +7386,7 @@
       "pickup_longitude": -122.3685,
       "dropoff_latitude": 37.803,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T13:35:00Z"
+      "pickup_time": "2025-01-07T23:35:00Z"
     }
   },
   {
@@ -7400,7 +7400,7 @@
       "pickup_longitude": -122.3676,
       "dropoff_latitude": 37.8048,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T13:36:00Z"
+      "pickup_time": "2025-01-28T01:50:00Z"
     }
   },
   {
@@ -7414,7 +7414,7 @@
       "pickup_longitude": -122.3667,
       "dropoff_latitude": 37.8066,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T13:37:00Z"
+      "pickup_time": "2025-01-21T06:13:00Z"
     }
   },
   {
@@ -7428,7 +7428,7 @@
       "pickup_longitude": -122.3658,
       "dropoff_latitude": 37.8084,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T13:38:00Z"
+      "pickup_time": "2025-01-23T08:22:00Z"
     }
   },
   {
@@ -7442,7 +7442,7 @@
       "pickup_longitude": -122.3649,
       "dropoff_latitude": 37.8102,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T13:39:00Z"
+      "pickup_time": "2025-01-05T15:35:00Z"
     }
   },
   {
@@ -7456,7 +7456,7 @@
       "pickup_longitude": -122.364,
       "dropoff_latitude": 37.812,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T13:40:00Z"
+      "pickup_time": "2025-01-11T03:59:00Z"
     }
   },
   {
@@ -7470,7 +7470,7 @@
       "pickup_longitude": -122.3631,
       "dropoff_latitude": 37.8138,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T13:41:00Z"
+      "pickup_time": "2025-01-18T10:43:00Z"
     }
   },
   {
@@ -7479,12 +7479,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 43,
-      "id_driver": 123,
+      "id_driver": null,
       "pickup_latitude": 37.7294,
       "pickup_longitude": -122.3622,
       "dropoff_latitude": 37.8156,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T13:42:00Z"
+      "pickup_time": "2025-01-12T23:01:00Z"
     }
   },
   {
@@ -7493,12 +7493,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 44,
-      "id_driver": 124,
+      "id_driver": null,
       "pickup_latitude": 37.7301,
       "pickup_longitude": -122.3613,
       "dropoff_latitude": 37.8174,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T13:43:00Z"
+      "pickup_time": "2025-01-27T12:05:00Z"
     }
   },
   {
@@ -7512,7 +7512,7 @@
       "pickup_longitude": -122.3604,
       "dropoff_latitude": 37.8192,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T13:44:00Z"
+      "pickup_time": "2025-01-14T10:44:00Z"
     }
   },
   {
@@ -7526,7 +7526,7 @@
       "pickup_longitude": -122.3595,
       "dropoff_latitude": 37.821,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T13:45:00Z"
+      "pickup_time": "2025-01-07T17:07:00Z"
     }
   },
   {
@@ -7540,7 +7540,7 @@
       "pickup_longitude": -122.3586,
       "dropoff_latitude": 37.8228,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T13:46:00Z"
+      "pickup_time": "2024-12-29T12:13:00Z"
     }
   },
   {
@@ -7554,7 +7554,7 @@
       "pickup_longitude": -122.3577,
       "dropoff_latitude": 37.8246,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T13:47:00Z"
+      "pickup_time": "2025-01-30T14:47:00Z"
     }
   },
   {
@@ -7568,7 +7568,7 @@
       "pickup_longitude": -122.3568,
       "dropoff_latitude": 37.8264,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T13:48:00Z"
+      "pickup_time": "2024-12-30T11:18:00Z"
     }
   },
   {
@@ -7582,7 +7582,7 @@
       "pickup_longitude": -122.3559,
       "dropoff_latitude": 37.8282,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T13:49:00Z"
+      "pickup_time": "2025-01-25T16:30:00Z"
     }
   },
   {
@@ -7596,7 +7596,7 @@
       "pickup_longitude": -122.355,
       "dropoff_latitude": 37.83,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T13:50:00Z"
+      "pickup_time": "2025-01-26T08:15:00Z"
     }
   },
   {
@@ -7610,7 +7610,7 @@
       "pickup_longitude": -122.3541,
       "dropoff_latitude": 37.8318,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T13:51:00Z"
+      "pickup_time": "2025-01-12T12:25:00Z"
     }
   },
   {
@@ -7624,7 +7624,7 @@
       "pickup_longitude": -122.3532,
       "dropoff_latitude": 37.8336,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T13:52:00Z"
+      "pickup_time": "2025-01-13T13:28:00Z"
     }
   },
   {
@@ -7638,7 +7638,7 @@
       "pickup_longitude": -122.3523,
       "dropoff_latitude": 37.8354,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T13:53:00Z"
+      "pickup_time": "2025-01-05T15:43:00Z"
     }
   },
   {
@@ -7652,7 +7652,7 @@
       "pickup_longitude": -122.3514,
       "dropoff_latitude": 37.8372,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T13:54:00Z"
+      "pickup_time": "2025-01-09T20:41:00Z"
     }
   },
   {
@@ -7666,7 +7666,7 @@
       "pickup_longitude": -122.3505,
       "dropoff_latitude": 37.839,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T13:55:00Z"
+      "pickup_time": "2024-12-31T20:38:00Z"
     }
   },
   {
@@ -7680,7 +7680,7 @@
       "pickup_longitude": -122.3496,
       "dropoff_latitude": 37.8408,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T13:56:00Z"
+      "pickup_time": "2025-01-23T02:43:00Z"
     }
   },
   {
@@ -7694,7 +7694,7 @@
       "pickup_longitude": -122.3487,
       "dropoff_latitude": 37.8426,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T13:57:00Z"
+      "pickup_time": "2025-01-16T08:49:00Z"
     }
   },
   {
@@ -7708,7 +7708,7 @@
       "pickup_longitude": -122.3478,
       "dropoff_latitude": 37.8444,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T13:58:00Z"
+      "pickup_time": "2025-01-07T18:53:00Z"
     }
   },
   {
@@ -7717,12 +7717,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 60,
-      "id_driver": 140,
+      "id_driver": null,
       "pickup_latitude": 37.7413,
       "pickup_longitude": -122.3469,
       "dropoff_latitude": 37.8462,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T13:59:00Z"
+      "pickup_time": "2025-01-26T04:28:00Z"
     }
   },
   {
@@ -7736,7 +7736,7 @@
       "pickup_longitude": -122.346,
       "dropoff_latitude": 37.848,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T14:00:00Z"
+      "pickup_time": "2025-01-15T08:38:00Z"
     }
   },
   {
@@ -7750,7 +7750,7 @@
       "pickup_longitude": -122.3451,
       "dropoff_latitude": 37.8498,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T14:01:00Z"
+      "pickup_time": "2025-01-07T22:07:00Z"
     }
   },
   {
@@ -7764,7 +7764,7 @@
       "pickup_longitude": -122.3442,
       "dropoff_latitude": 37.8516,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T14:02:00Z"
+      "pickup_time": "2025-01-22T22:58:00Z"
     }
   },
   {
@@ -7778,7 +7778,7 @@
       "pickup_longitude": -122.3433,
       "dropoff_latitude": 37.8534,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T14:03:00Z"
+      "pickup_time": "2025-01-22T01:24:00Z"
     }
   },
   {
@@ -7792,7 +7792,7 @@
       "pickup_longitude": -122.3424,
       "dropoff_latitude": 37.8552,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T14:04:00Z"
+      "pickup_time": "2025-01-26T11:31:00Z"
     }
   },
   {
@@ -7806,7 +7806,7 @@
       "pickup_longitude": -122.3415,
       "dropoff_latitude": 37.857,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T14:05:00Z"
+      "pickup_time": "2024-12-29T13:10:00Z"
     }
   },
   {
@@ -7820,7 +7820,7 @@
       "pickup_longitude": -122.3406,
       "dropoff_latitude": 37.8588,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T14:06:00Z"
+      "pickup_time": "2025-01-28T22:19:00Z"
     }
   },
   {
@@ -7834,7 +7834,7 @@
       "pickup_longitude": -122.3397,
       "dropoff_latitude": 37.8006,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T14:07:00Z"
+      "pickup_time": "2025-01-19T02:01:00Z"
     }
   },
   {
@@ -7848,7 +7848,7 @@
       "pickup_longitude": -122.3388,
       "dropoff_latitude": 37.8024,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T14:08:00Z"
+      "pickup_time": "2025-01-07T02:03:00Z"
     }
   },
   {
@@ -7857,12 +7857,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 70,
-      "id_driver": null,
+      "id_driver": 110,
       "pickup_latitude": 37.7483,
       "pickup_longitude": -122.3379,
       "dropoff_latitude": 37.8042,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T14:09:00Z"
+      "pickup_time": "2024-12-26T07:45:00Z"
     }
   },
   {
@@ -7871,12 +7871,12 @@
     "fields": {
       "status": "pickup",
       "id_rider": 71,
-      "id_driver": null,
+      "id_driver": 111,
       "pickup_latitude": 37.749,
       "pickup_longitude": -122.337,
       "dropoff_latitude": 37.806,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T14:10:00Z"
+      "pickup_time": "2025-01-24T18:20:00Z"
     }
   },
   {
@@ -7885,12 +7885,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 72,
-      "id_driver": 112,
+      "id_driver": null,
       "pickup_latitude": 37.7497,
       "pickup_longitude": -122.3361,
       "dropoff_latitude": 37.8078,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T14:11:00Z"
+      "pickup_time": "2025-01-06T00:25:00Z"
     }
   },
   {
@@ -7899,12 +7899,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 73,
-      "id_driver": null,
+      "id_driver": 113,
       "pickup_latitude": 37.7504,
       "pickup_longitude": -122.3352,
       "dropoff_latitude": 37.8096,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T14:12:00Z"
+      "pickup_time": "2025-01-20T19:28:00Z"
     }
   },
   {
@@ -7918,7 +7918,7 @@
       "pickup_longitude": -122.3343,
       "dropoff_latitude": 37.8114,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T14:13:00Z"
+      "pickup_time": "2025-01-14T13:49:00Z"
     }
   },
   {
@@ -7927,12 +7927,12 @@
     "fields": {
       "status": "dropoff",
       "id_rider": 75,
-      "id_driver": null,
+      "id_driver": 115,
       "pickup_latitude": 37.7518,
       "pickup_longitude": -122.3334,
       "dropoff_latitude": 37.8132,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T14:14:00Z"
+      "pickup_time": "2025-01-05T20:08:00Z"
     }
   },
   {
@@ -7941,12 +7941,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 76,
-      "id_driver": null,
+      "id_driver": 116,
       "pickup_latitude": 37.7525,
       "pickup_longitude": -122.3325,
       "dropoff_latitude": 37.815,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T14:15:00Z"
+      "pickup_time": "2025-01-28T17:09:00Z"
     }
   },
   {
@@ -7960,7 +7960,7 @@
       "pickup_longitude": -122.3316,
       "dropoff_latitude": 37.8168,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T14:16:00Z"
+      "pickup_time": "2025-01-03T06:23:00Z"
     }
   },
   {
@@ -7974,7 +7974,7 @@
       "pickup_longitude": -122.3307,
       "dropoff_latitude": 37.8186,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T14:17:00Z"
+      "pickup_time": "2024-12-26T23:00:00Z"
     }
   },
   {
@@ -7983,12 +7983,12 @@
     "fields": {
       "status": "en-route",
       "id_rider": 79,
-      "id_driver": 119,
+      "id_driver": null,
       "pickup_latitude": 37.7546,
       "pickup_longitude": -122.3298,
       "dropoff_latitude": 37.8204,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T14:18:00Z"
+      "pickup_time": "2025-01-06T07:00:00Z"
     }
   },
   {
@@ -8002,7 +8002,7 @@
       "pickup_longitude": -122.3289,
       "dropoff_latitude": 37.8222,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T14:19:00Z"
+      "pickup_time": "2025-01-09T19:34:00Z"
     }
   },
   {
@@ -8016,7 +8016,7 @@
       "pickup_longitude": -122.328,
       "dropoff_latitude": 37.824,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T14:20:00Z"
+      "pickup_time": "2025-01-05T16:21:00Z"
     }
   },
   {
@@ -8030,7 +8030,7 @@
       "pickup_longitude": -122.3271,
       "dropoff_latitude": 37.8258,
       "dropoff_longitude": -122.496,
-      "pickup_time": "2025-01-01T14:21:00Z"
+      "pickup_time": "2025-01-29T00:39:00Z"
     }
   },
   {
@@ -8044,7 +8044,7 @@
       "pickup_longitude": -122.3262,
       "dropoff_latitude": 37.8276,
       "dropoff_longitude": -122.492,
-      "pickup_time": "2025-01-01T14:22:00Z"
+      "pickup_time": "2025-01-13T05:28:00Z"
     }
   },
   {
@@ -8058,7 +8058,7 @@
       "pickup_longitude": -122.3253,
       "dropoff_latitude": 37.8294,
       "dropoff_longitude": -122.488,
-      "pickup_time": "2025-01-01T14:23:00Z"
+      "pickup_time": "2025-01-07T05:13:00Z"
     }
   },
   {
@@ -8072,7 +8072,7 @@
       "pickup_longitude": -122.3244,
       "dropoff_latitude": 37.8312,
       "dropoff_longitude": -122.484,
-      "pickup_time": "2025-01-01T14:24:00Z"
+      "pickup_time": "2025-01-20T11:20:00Z"
     }
   },
   {
@@ -8086,7 +8086,7 @@
       "pickup_longitude": -122.3235,
       "dropoff_latitude": 37.833,
       "dropoff_longitude": -122.48,
-      "pickup_time": "2025-01-01T14:25:00Z"
+      "pickup_time": "2025-01-03T22:05:00Z"
     }
   },
   {
@@ -8100,7 +8100,7 @@
       "pickup_longitude": -122.3226,
       "dropoff_latitude": 37.8348,
       "dropoff_longitude": -122.476,
-      "pickup_time": "2025-01-01T14:26:00Z"
+      "pickup_time": "2025-01-13T01:08:00Z"
     }
   },
   {
@@ -8114,7 +8114,7 @@
       "pickup_longitude": -122.3217,
       "dropoff_latitude": 37.8366,
       "dropoff_longitude": -122.472,
-      "pickup_time": "2025-01-01T14:27:00Z"
+      "pickup_time": "2025-01-19T02:10:00Z"
     }
   },
   {
@@ -8128,7 +8128,7 @@
       "pickup_longitude": -122.3208,
       "dropoff_latitude": 37.8384,
       "dropoff_longitude": -122.468,
-      "pickup_time": "2025-01-01T14:28:00Z"
+      "pickup_time": "2025-01-29T18:51:00Z"
     }
   },
   {
@@ -8142,7 +8142,7 @@
       "pickup_longitude": -122.3199,
       "dropoff_latitude": 37.8402,
       "dropoff_longitude": -122.464,
-      "pickup_time": "2025-01-01T14:29:00Z"
+      "pickup_time": "2025-01-07T00:48:00Z"
     }
   },
   {
@@ -8156,7 +8156,7 @@
       "pickup_longitude": -122.319,
       "dropoff_latitude": 37.842,
       "dropoff_longitude": -122.46,
-      "pickup_time": "2025-01-01T14:30:00Z"
+      "pickup_time": "2025-01-11T06:36:00Z"
     }
   },
   {
@@ -8170,7 +8170,7 @@
       "pickup_longitude": -122.3181,
       "dropoff_latitude": 37.8438,
       "dropoff_longitude": -122.456,
-      "pickup_time": "2025-01-01T14:31:00Z"
+      "pickup_time": "2024-12-31T15:02:00Z"
     }
   },
   {
@@ -8184,7 +8184,7 @@
       "pickup_longitude": -122.3172,
       "dropoff_latitude": 37.8456,
       "dropoff_longitude": -122.452,
-      "pickup_time": "2025-01-01T14:32:00Z"
+      "pickup_time": "2025-01-26T01:52:00Z"
     }
   },
   {
@@ -8198,7 +8198,7 @@
       "pickup_longitude": -122.3163,
       "dropoff_latitude": 37.8474,
       "dropoff_longitude": -122.448,
-      "pickup_time": "2025-01-01T14:33:00Z"
+      "pickup_time": "2025-01-12T14:47:00Z"
     }
   },
   {
@@ -8212,7 +8212,7 @@
       "pickup_longitude": -122.3154,
       "dropoff_latitude": 37.8492,
       "dropoff_longitude": -122.444,
-      "pickup_time": "2025-01-01T14:34:00Z"
+      "pickup_time": "2024-12-31T16:58:00Z"
     }
   },
   {
@@ -8226,7 +8226,7 @@
       "pickup_longitude": -122.3145,
       "dropoff_latitude": 37.851,
       "dropoff_longitude": -122.44,
-      "pickup_time": "2025-01-01T14:35:00Z"
+      "pickup_time": "2025-01-07T23:07:00Z"
     }
   },
   {
@@ -8240,7 +8240,7 @@
       "pickup_longitude": -122.3136,
       "dropoff_latitude": 37.8528,
       "dropoff_longitude": -122.436,
-      "pickup_time": "2025-01-01T14:36:00Z"
+      "pickup_time": "2025-01-15T20:52:00Z"
     }
   },
   {
@@ -8254,7 +8254,7 @@
       "pickup_longitude": -122.3127,
       "dropoff_latitude": 37.8546,
       "dropoff_longitude": -122.432,
-      "pickup_time": "2025-01-01T14:37:00Z"
+      "pickup_time": "2025-01-04T06:44:00Z"
     }
   },
   {
@@ -8268,7 +8268,7 @@
       "pickup_longitude": -122.3118,
       "dropoff_latitude": 37.8564,
       "dropoff_longitude": -122.428,
-      "pickup_time": "2025-01-01T14:38:00Z"
+      "pickup_time": "2025-01-25T23:25:00Z"
     }
   },
   {
@@ -8282,7 +8282,7 @@
       "pickup_longitude": -122.3109,
       "dropoff_latitude": 37.8582,
       "dropoff_longitude": -122.424,
-      "pickup_time": "2025-01-01T14:39:00Z"
+      "pickup_time": "2025-01-16T18:49:00Z"
     }
   },
   {
@@ -8296,7 +8296,7 @@
       "pickup_longitude": -122.4,
       "dropoff_latitude": 37.8,
       "dropoff_longitude": -122.5,
-      "pickup_time": "2025-01-01T14:40:00Z"
+      "pickup_time": "2024-12-28T02:26:00Z"
     }
   },
   {
@@ -8305,7 +8305,7 @@
     "fields": {
       "id_ride": 1,
       "description": "Event for ride 1",
-      "created_at": "2025-01-01T08:01:00Z"
+      "created_at": "2025-01-28T19:54:00Z"
     }
   },
   {
@@ -8314,7 +8314,7 @@
     "fields": {
       "id_ride": 2,
       "description": "Event for ride 2",
-      "created_at": "2025-01-01T08:02:00Z"
+      "created_at": "2024-12-27T04:15:00Z"
     }
   },
   {
@@ -8323,7 +8323,7 @@
     "fields": {
       "id_ride": 3,
       "description": "Event for ride 3",
-      "created_at": "2025-01-01T08:03:00Z"
+      "created_at": "2025-01-17T14:29:00Z"
     }
   },
   {
@@ -8332,7 +8332,7 @@
     "fields": {
       "id_ride": 4,
       "description": "Event for ride 4",
-      "created_at": "2025-01-01T08:04:00Z"
+      "created_at": "2025-01-30T00:11:00Z"
     }
   },
   {
@@ -8341,7 +8341,7 @@
     "fields": {
       "id_ride": 5,
       "description": "Event for ride 5",
-      "created_at": "2025-01-01T08:05:00Z"
+      "created_at": "2025-01-16T00:39:00Z"
     }
   },
   {
@@ -8350,7 +8350,7 @@
     "fields": {
       "id_ride": 6,
       "description": "Event for ride 6",
-      "created_at": "2025-01-01T08:06:00Z"
+      "created_at": "2025-01-04T06:41:00Z"
     }
   },
   {
@@ -8359,7 +8359,7 @@
     "fields": {
       "id_ride": 7,
       "description": "Event for ride 7",
-      "created_at": "2025-01-01T08:07:00Z"
+      "created_at": "2025-01-07T03:57:00Z"
     }
   },
   {
@@ -8368,7 +8368,7 @@
     "fields": {
       "id_ride": 8,
       "description": "Event for ride 8",
-      "created_at": "2025-01-01T08:08:00Z"
+      "created_at": "2024-12-29T15:42:00Z"
     }
   },
   {
@@ -8377,7 +8377,7 @@
     "fields": {
       "id_ride": 9,
       "description": "Event for ride 9",
-      "created_at": "2025-01-01T08:09:00Z"
+      "created_at": "2025-01-05T17:46:00Z"
     }
   },
   {
@@ -8386,7 +8386,7 @@
     "fields": {
       "id_ride": 10,
       "description": "Event for ride 10",
-      "created_at": "2025-01-01T08:10:00Z"
+      "created_at": "2025-01-18T13:52:00Z"
     }
   },
   {
@@ -8395,7 +8395,7 @@
     "fields": {
       "id_ride": 11,
       "description": "Event for ride 11",
-      "created_at": "2025-01-01T08:11:00Z"
+      "created_at": "2025-01-31T05:09:00Z"
     }
   },
   {
@@ -8404,7 +8404,7 @@
     "fields": {
       "id_ride": 12,
       "description": "Event for ride 12",
-      "created_at": "2025-01-01T08:12:00Z"
+      "created_at": "2025-01-01T00:43:00Z"
     }
   },
   {
@@ -8413,7 +8413,7 @@
     "fields": {
       "id_ride": 13,
       "description": "Event for ride 13",
-      "created_at": "2025-01-01T08:13:00Z"
+      "created_at": "2025-01-27T13:23:00Z"
     }
   },
   {
@@ -8422,7 +8422,7 @@
     "fields": {
       "id_ride": 14,
       "description": "Event for ride 14",
-      "created_at": "2025-01-01T08:14:00Z"
+      "created_at": "2025-01-25T11:19:00Z"
     }
   },
   {
@@ -8431,7 +8431,7 @@
     "fields": {
       "id_ride": 15,
       "description": "Event for ride 15",
-      "created_at": "2025-01-01T08:15:00Z"
+      "created_at": "2025-01-19T19:42:00Z"
     }
   },
   {
@@ -8440,7 +8440,7 @@
     "fields": {
       "id_ride": 16,
       "description": "Event for ride 16",
-      "created_at": "2025-01-01T08:16:00Z"
+      "created_at": "2025-01-14T02:29:00Z"
     }
   },
   {
@@ -8449,7 +8449,7 @@
     "fields": {
       "id_ride": 17,
       "description": "Event for ride 17",
-      "created_at": "2025-01-01T08:17:00Z"
+      "created_at": "2025-01-23T11:47:00Z"
     }
   },
   {
@@ -8458,7 +8458,7 @@
     "fields": {
       "id_ride": 18,
       "description": "Event for ride 18",
-      "created_at": "2025-01-01T08:18:00Z"
+      "created_at": "2025-01-19T11:48:00Z"
     }
   },
   {
@@ -8467,7 +8467,7 @@
     "fields": {
       "id_ride": 19,
       "description": "Event for ride 19",
-      "created_at": "2025-01-01T08:19:00Z"
+      "created_at": "2025-01-18T01:46:00Z"
     }
   },
   {
@@ -8476,7 +8476,7 @@
     "fields": {
       "id_ride": 20,
       "description": "Event for ride 20",
-      "created_at": "2025-01-01T08:20:00Z"
+      "created_at": "2025-01-30T23:38:00Z"
     }
   },
   {
@@ -8485,7 +8485,7 @@
     "fields": {
       "id_ride": 21,
       "description": "Event for ride 21",
-      "created_at": "2025-01-01T08:21:00Z"
+      "created_at": "2024-12-25T23:41:00Z"
     }
   },
   {
@@ -8494,7 +8494,7 @@
     "fields": {
       "id_ride": 22,
       "description": "Event for ride 22",
-      "created_at": "2025-01-01T08:22:00Z"
+      "created_at": "2025-01-12T11:59:00Z"
     }
   },
   {
@@ -8503,7 +8503,7 @@
     "fields": {
       "id_ride": 23,
       "description": "Event for ride 23",
-      "created_at": "2025-01-01T08:23:00Z"
+      "created_at": "2025-01-30T01:51:00Z"
     }
   },
   {
@@ -8512,7 +8512,7 @@
     "fields": {
       "id_ride": 24,
       "description": "Event for ride 24",
-      "created_at": "2025-01-01T08:24:00Z"
+      "created_at": "2024-12-25T09:38:00Z"
     }
   },
   {
@@ -8521,7 +8521,7 @@
     "fields": {
       "id_ride": 25,
       "description": "Event for ride 25",
-      "created_at": "2025-01-01T08:25:00Z"
+      "created_at": "2025-01-09T12:17:00Z"
     }
   },
   {
@@ -8530,7 +8530,7 @@
     "fields": {
       "id_ride": 26,
       "description": "Event for ride 26",
-      "created_at": "2025-01-01T08:26:00Z"
+      "created_at": "2025-01-09T03:38:00Z"
     }
   },
   {
@@ -8539,7 +8539,7 @@
     "fields": {
       "id_ride": 27,
       "description": "Event for ride 27",
-      "created_at": "2025-01-01T08:27:00Z"
+      "created_at": "2024-12-28T05:14:00Z"
     }
   },
   {
@@ -8548,7 +8548,7 @@
     "fields": {
       "id_ride": 28,
       "description": "Event for ride 28",
-      "created_at": "2025-01-01T08:28:00Z"
+      "created_at": "2025-01-20T04:20:00Z"
     }
   },
   {
@@ -8557,7 +8557,7 @@
     "fields": {
       "id_ride": 29,
       "description": "Event for ride 29",
-      "created_at": "2025-01-01T08:29:00Z"
+      "created_at": "2025-01-30T21:57:00Z"
     }
   },
   {
@@ -8566,7 +8566,7 @@
     "fields": {
       "id_ride": 30,
       "description": "Event for ride 30",
-      "created_at": "2025-01-01T08:30:00Z"
+      "created_at": "2025-01-30T21:47:00Z"
     }
   },
   {
@@ -8575,7 +8575,7 @@
     "fields": {
       "id_ride": 31,
       "description": "Event for ride 31",
-      "created_at": "2025-01-01T08:31:00Z"
+      "created_at": "2024-12-29T12:08:00Z"
     }
   },
   {
@@ -8584,7 +8584,7 @@
     "fields": {
       "id_ride": 32,
       "description": "Event for ride 32",
-      "created_at": "2025-01-01T08:32:00Z"
+      "created_at": "2025-01-08T22:07:00Z"
     }
   },
   {
@@ -8593,7 +8593,7 @@
     "fields": {
       "id_ride": 33,
       "description": "Event for ride 33",
-      "created_at": "2025-01-01T08:33:00Z"
+      "created_at": "2025-01-16T14:58:00Z"
     }
   },
   {
@@ -8602,7 +8602,7 @@
     "fields": {
       "id_ride": 34,
       "description": "Event for ride 34",
-      "created_at": "2025-01-01T08:34:00Z"
+      "created_at": "2025-01-19T10:41:00Z"
     }
   },
   {
@@ -8611,7 +8611,7 @@
     "fields": {
       "id_ride": 35,
       "description": "Event for ride 35",
-      "created_at": "2025-01-01T08:35:00Z"
+      "created_at": "2024-12-31T00:54:00Z"
     }
   },
   {
@@ -8620,7 +8620,7 @@
     "fields": {
       "id_ride": 36,
       "description": "Event for ride 36",
-      "created_at": "2025-01-01T08:36:00Z"
+      "created_at": "2025-01-18T22:44:00Z"
     }
   },
   {
@@ -8629,7 +8629,7 @@
     "fields": {
       "id_ride": 37,
       "description": "Event for ride 37",
-      "created_at": "2025-01-01T08:37:00Z"
+      "created_at": "2025-01-30T17:48:00Z"
     }
   },
   {
@@ -8638,7 +8638,7 @@
     "fields": {
       "id_ride": 38,
       "description": "Event for ride 38",
-      "created_at": "2025-01-01T08:38:00Z"
+      "created_at": "2025-01-21T02:28:00Z"
     }
   },
   {
@@ -8647,7 +8647,7 @@
     "fields": {
       "id_ride": 39,
       "description": "Event for ride 39",
-      "created_at": "2025-01-01T08:39:00Z"
+      "created_at": "2024-12-29T12:44:00Z"
     }
   },
   {
@@ -8656,7 +8656,7 @@
     "fields": {
       "id_ride": 40,
       "description": "Event for ride 40",
-      "created_at": "2025-01-01T08:40:00Z"
+      "created_at": "2025-01-11T21:04:00Z"
     }
   },
   {
@@ -8665,7 +8665,7 @@
     "fields": {
       "id_ride": 41,
       "description": "Event for ride 41",
-      "created_at": "2025-01-01T08:41:00Z"
+      "created_at": "2025-01-05T09:07:00Z"
     }
   },
   {
@@ -8674,7 +8674,7 @@
     "fields": {
       "id_ride": 42,
       "description": "Event for ride 42",
-      "created_at": "2025-01-01T08:42:00Z"
+      "created_at": "2025-01-02T23:33:00Z"
     }
   },
   {
@@ -8683,7 +8683,7 @@
     "fields": {
       "id_ride": 43,
       "description": "Event for ride 43",
-      "created_at": "2025-01-01T08:43:00Z"
+      "created_at": "2024-12-26T20:43:00Z"
     }
   },
   {
@@ -8692,7 +8692,7 @@
     "fields": {
       "id_ride": 44,
       "description": "Event for ride 44",
-      "created_at": "2025-01-01T08:44:00Z"
+      "created_at": "2025-01-24T05:58:00Z"
     }
   },
   {
@@ -8701,7 +8701,7 @@
     "fields": {
       "id_ride": 45,
       "description": "Event for ride 45",
-      "created_at": "2025-01-01T08:45:00Z"
+      "created_at": "2024-12-28T12:12:00Z"
     }
   },
   {
@@ -8710,7 +8710,7 @@
     "fields": {
       "id_ride": 46,
       "description": "Event for ride 46",
-      "created_at": "2025-01-01T08:46:00Z"
+      "created_at": "2025-01-28T20:16:00Z"
     }
   },
   {
@@ -8719,7 +8719,7 @@
     "fields": {
       "id_ride": 47,
       "description": "Event for ride 47",
-      "created_at": "2025-01-01T08:47:00Z"
+      "created_at": "2025-01-01T04:07:00Z"
     }
   },
   {
@@ -8728,7 +8728,7 @@
     "fields": {
       "id_ride": 48,
       "description": "Event for ride 48",
-      "created_at": "2025-01-01T08:48:00Z"
+      "created_at": "2024-12-29T00:27:00Z"
     }
   },
   {
@@ -8737,7 +8737,7 @@
     "fields": {
       "id_ride": 49,
       "description": "Event for ride 49",
-      "created_at": "2025-01-01T08:49:00Z"
+      "created_at": "2025-01-18T23:17:00Z"
     }
   },
   {
@@ -8746,7 +8746,7 @@
     "fields": {
       "id_ride": 50,
       "description": "Event for ride 50",
-      "created_at": "2025-01-01T08:50:00Z"
+      "created_at": "2025-01-26T11:11:00Z"
     }
   },
   {
@@ -8755,7 +8755,7 @@
     "fields": {
       "id_ride": 51,
       "description": "Event for ride 51",
-      "created_at": "2025-01-01T08:51:00Z"
+      "created_at": "2025-01-18T02:47:00Z"
     }
   },
   {
@@ -8764,7 +8764,7 @@
     "fields": {
       "id_ride": 52,
       "description": "Event for ride 52",
-      "created_at": "2025-01-01T08:52:00Z"
+      "created_at": "2025-01-04T03:55:00Z"
     }
   },
   {
@@ -8773,7 +8773,7 @@
     "fields": {
       "id_ride": 53,
       "description": "Event for ride 53",
-      "created_at": "2025-01-01T08:53:00Z"
+      "created_at": "2025-01-21T05:06:00Z"
     }
   },
   {
@@ -8782,7 +8782,7 @@
     "fields": {
       "id_ride": 54,
       "description": "Event for ride 54",
-      "created_at": "2025-01-01T08:54:00Z"
+      "created_at": "2025-01-13T11:01:00Z"
     }
   },
   {
@@ -8791,7 +8791,7 @@
     "fields": {
       "id_ride": 55,
       "description": "Event for ride 55",
-      "created_at": "2025-01-01T08:55:00Z"
+      "created_at": "2025-01-14T21:03:00Z"
     }
   },
   {
@@ -8800,7 +8800,7 @@
     "fields": {
       "id_ride": 56,
       "description": "Event for ride 56",
-      "created_at": "2025-01-01T08:56:00Z"
+      "created_at": "2025-01-23T13:17:00Z"
     }
   },
   {
@@ -8809,7 +8809,7 @@
     "fields": {
       "id_ride": 57,
       "description": "Event for ride 57",
-      "created_at": "2025-01-01T08:57:00Z"
+      "created_at": "2025-01-30T11:28:00Z"
     }
   },
   {
@@ -8818,7 +8818,7 @@
     "fields": {
       "id_ride": 58,
       "description": "Event for ride 58",
-      "created_at": "2025-01-01T08:58:00Z"
+      "created_at": "2025-01-09T03:12:00Z"
     }
   },
   {
@@ -8827,7 +8827,7 @@
     "fields": {
       "id_ride": 59,
       "description": "Event for ride 59",
-      "created_at": "2025-01-01T08:59:00Z"
+      "created_at": "2025-01-16T12:18:00Z"
     }
   },
   {
@@ -8836,7 +8836,7 @@
     "fields": {
       "id_ride": 60,
       "description": "Event for ride 60",
-      "created_at": "2025-01-01T09:00:00Z"
+      "created_at": "2025-01-09T14:12:00Z"
     }
   },
   {
@@ -8845,7 +8845,7 @@
     "fields": {
       "id_ride": 61,
       "description": "Event for ride 61",
-      "created_at": "2025-01-01T09:01:00Z"
+      "created_at": "2025-01-05T09:28:00Z"
     }
   },
   {
@@ -8854,7 +8854,7 @@
     "fields": {
       "id_ride": 62,
       "description": "Event for ride 62",
-      "created_at": "2025-01-01T09:02:00Z"
+      "created_at": "2025-01-06T16:04:00Z"
     }
   },
   {
@@ -8863,7 +8863,7 @@
     "fields": {
       "id_ride": 63,
       "description": "Event for ride 63",
-      "created_at": "2025-01-01T09:03:00Z"
+      "created_at": "2025-01-04T08:51:00Z"
     }
   },
   {
@@ -8872,7 +8872,7 @@
     "fields": {
       "id_ride": 64,
       "description": "Event for ride 64",
-      "created_at": "2025-01-01T09:04:00Z"
+      "created_at": "2025-01-02T02:16:00Z"
     }
   },
   {
@@ -8881,7 +8881,7 @@
     "fields": {
       "id_ride": 65,
       "description": "Event for ride 65",
-      "created_at": "2025-01-01T09:05:00Z"
+      "created_at": "2024-12-28T04:00:00Z"
     }
   },
   {
@@ -8890,7 +8890,7 @@
     "fields": {
       "id_ride": 66,
       "description": "Event for ride 66",
-      "created_at": "2025-01-01T09:06:00Z"
+      "created_at": "2024-12-31T23:57:00Z"
     }
   },
   {
@@ -8899,7 +8899,7 @@
     "fields": {
       "id_ride": 67,
       "description": "Event for ride 67",
-      "created_at": "2025-01-01T09:07:00Z"
+      "created_at": "2025-01-04T07:04:00Z"
     }
   },
   {
@@ -8908,7 +8908,7 @@
     "fields": {
       "id_ride": 68,
       "description": "Event for ride 68",
-      "created_at": "2025-01-01T09:08:00Z"
+      "created_at": "2025-01-20T10:56:00Z"
     }
   },
   {
@@ -8917,7 +8917,7 @@
     "fields": {
       "id_ride": 69,
       "description": "Event for ride 69",
-      "created_at": "2025-01-01T09:09:00Z"
+      "created_at": "2025-01-18T15:38:00Z"
     }
   },
   {
@@ -8926,7 +8926,7 @@
     "fields": {
       "id_ride": 70,
       "description": "Event for ride 70",
-      "created_at": "2025-01-01T09:10:00Z"
+      "created_at": "2024-12-28T16:59:00Z"
     }
   },
   {
@@ -8935,7 +8935,7 @@
     "fields": {
       "id_ride": 71,
       "description": "Event for ride 71",
-      "created_at": "2025-01-01T09:11:00Z"
+      "created_at": "2025-01-23T05:46:00Z"
     }
   },
   {
@@ -8944,7 +8944,7 @@
     "fields": {
       "id_ride": 72,
       "description": "Event for ride 72",
-      "created_at": "2025-01-01T09:12:00Z"
+      "created_at": "2025-01-20T13:17:00Z"
     }
   },
   {
@@ -8953,7 +8953,7 @@
     "fields": {
       "id_ride": 73,
       "description": "Event for ride 73",
-      "created_at": "2025-01-01T09:13:00Z"
+      "created_at": "2024-12-29T12:11:00Z"
     }
   },
   {
@@ -8962,7 +8962,7 @@
     "fields": {
       "id_ride": 74,
       "description": "Event for ride 74",
-      "created_at": "2025-01-01T09:14:00Z"
+      "created_at": "2024-12-30T14:59:00Z"
     }
   },
   {
@@ -8971,7 +8971,7 @@
     "fields": {
       "id_ride": 75,
       "description": "Event for ride 75",
-      "created_at": "2025-01-01T09:15:00Z"
+      "created_at": "2024-12-26T07:52:00Z"
     }
   },
   {
@@ -8980,7 +8980,7 @@
     "fields": {
       "id_ride": 76,
       "description": "Event for ride 76",
-      "created_at": "2025-01-01T09:16:00Z"
+      "created_at": "2025-01-02T18:18:00Z"
     }
   },
   {
@@ -8989,7 +8989,7 @@
     "fields": {
       "id_ride": 77,
       "description": "Event for ride 77",
-      "created_at": "2025-01-01T09:17:00Z"
+      "created_at": "2025-01-16T03:44:00Z"
     }
   },
   {
@@ -8998,7 +8998,7 @@
     "fields": {
       "id_ride": 78,
       "description": "Event for ride 78",
-      "created_at": "2025-01-01T09:18:00Z"
+      "created_at": "2025-01-30T18:55:00Z"
     }
   },
   {
@@ -9007,7 +9007,7 @@
     "fields": {
       "id_ride": 79,
       "description": "Event for ride 79",
-      "created_at": "2025-01-01T09:19:00Z"
+      "created_at": "2025-01-25T06:20:00Z"
     }
   },
   {
@@ -9016,7 +9016,7 @@
     "fields": {
       "id_ride": 80,
       "description": "Event for ride 80",
-      "created_at": "2025-01-01T09:20:00Z"
+      "created_at": "2025-01-13T17:13:00Z"
     }
   },
   {
@@ -9025,7 +9025,7 @@
     "fields": {
       "id_ride": 81,
       "description": "Event for ride 81",
-      "created_at": "2025-01-01T09:21:00Z"
+      "created_at": "2025-01-06T04:15:00Z"
     }
   },
   {
@@ -9034,7 +9034,7 @@
     "fields": {
       "id_ride": 82,
       "description": "Event for ride 82",
-      "created_at": "2025-01-01T09:22:00Z"
+      "created_at": "2024-12-28T14:58:00Z"
     }
   },
   {
@@ -9043,7 +9043,7 @@
     "fields": {
       "id_ride": 83,
       "description": "Event for ride 83",
-      "created_at": "2025-01-01T09:23:00Z"
+      "created_at": "2025-01-10T06:59:00Z"
     }
   },
   {
@@ -9052,7 +9052,7 @@
     "fields": {
       "id_ride": 84,
       "description": "Event for ride 84",
-      "created_at": "2025-01-01T09:24:00Z"
+      "created_at": "2024-12-28T03:04:00Z"
     }
   },
   {
@@ -9061,7 +9061,7 @@
     "fields": {
       "id_ride": 85,
       "description": "Event for ride 85",
-      "created_at": "2025-01-01T09:25:00Z"
+      "created_at": "2024-12-27T03:25:00Z"
     }
   },
   {
@@ -9070,7 +9070,7 @@
     "fields": {
       "id_ride": 86,
       "description": "Event for ride 86",
-      "created_at": "2025-01-01T09:26:00Z"
+      "created_at": "2025-01-26T04:16:00Z"
     }
   },
   {
@@ -9079,7 +9079,7 @@
     "fields": {
       "id_ride": 87,
       "description": "Event for ride 87",
-      "created_at": "2025-01-01T09:27:00Z"
+      "created_at": "2025-01-03T10:11:00Z"
     }
   },
   {
@@ -9088,7 +9088,7 @@
     "fields": {
       "id_ride": 88,
       "description": "Event for ride 88",
-      "created_at": "2025-01-01T09:28:00Z"
+      "created_at": "2025-01-27T15:34:00Z"
     }
   },
   {
@@ -9097,7 +9097,7 @@
     "fields": {
       "id_ride": 89,
       "description": "Event for ride 89",
-      "created_at": "2025-01-01T09:29:00Z"
+      "created_at": "2025-01-20T06:49:00Z"
     }
   },
   {
@@ -9106,7 +9106,7 @@
     "fields": {
       "id_ride": 90,
       "description": "Event for ride 90",
-      "created_at": "2025-01-01T09:30:00Z"
+      "created_at": "2025-01-24T23:12:00Z"
     }
   },
   {
@@ -9115,7 +9115,7 @@
     "fields": {
       "id_ride": 91,
       "description": "Event for ride 91",
-      "created_at": "2025-01-01T09:31:00Z"
+      "created_at": "2025-01-29T06:39:00Z"
     }
   },
   {
@@ -9124,7 +9124,7 @@
     "fields": {
       "id_ride": 92,
       "description": "Event for ride 92",
-      "created_at": "2025-01-01T09:32:00Z"
+      "created_at": "2025-01-25T03:07:00Z"
     }
   },
   {
@@ -9133,7 +9133,7 @@
     "fields": {
       "id_ride": 93,
       "description": "Event for ride 93",
-      "created_at": "2025-01-01T09:33:00Z"
+      "created_at": "2025-01-01T17:26:00Z"
     }
   },
   {
@@ -9142,7 +9142,7 @@
     "fields": {
       "id_ride": 94,
       "description": "Event for ride 94",
-      "created_at": "2025-01-01T09:34:00Z"
+      "created_at": "2025-01-05T18:23:00Z"
     }
   },
   {
@@ -9151,7 +9151,7 @@
     "fields": {
       "id_ride": 95,
       "description": "Event for ride 95",
-      "created_at": "2025-01-01T09:35:00Z"
+      "created_at": "2025-01-14T11:42:00Z"
     }
   },
   {
@@ -9160,7 +9160,7 @@
     "fields": {
       "id_ride": 96,
       "description": "Event for ride 96",
-      "created_at": "2025-01-01T09:36:00Z"
+      "created_at": "2024-12-25T23:01:00Z"
     }
   },
   {
@@ -9169,7 +9169,7 @@
     "fields": {
       "id_ride": 97,
       "description": "Event for ride 97",
-      "created_at": "2025-01-01T09:37:00Z"
+      "created_at": "2025-01-13T00:20:00Z"
     }
   },
   {
@@ -9178,7 +9178,7 @@
     "fields": {
       "id_ride": 98,
       "description": "Event for ride 98",
-      "created_at": "2025-01-01T09:38:00Z"
+      "created_at": "2025-01-17T12:09:00Z"
     }
   },
   {
@@ -9187,7 +9187,7 @@
     "fields": {
       "id_ride": 99,
       "description": "Event for ride 99",
-      "created_at": "2025-01-01T09:39:00Z"
+      "created_at": "2025-01-23T21:27:00Z"
     }
   },
   {
@@ -9196,7 +9196,7 @@
     "fields": {
       "id_ride": 100,
       "description": "Event for ride 100",
-      "created_at": "2025-01-01T09:40:00Z"
+      "created_at": "2025-01-24T06:57:00Z"
     }
   },
   {
@@ -9205,7 +9205,7 @@
     "fields": {
       "id_ride": 101,
       "description": "Event for ride 101",
-      "created_at": "2025-01-01T09:41:00Z"
+      "created_at": "2025-01-19T21:00:00Z"
     }
   },
   {
@@ -9214,7 +9214,7 @@
     "fields": {
       "id_ride": 102,
       "description": "Event for ride 102",
-      "created_at": "2025-01-01T09:42:00Z"
+      "created_at": "2025-01-15T04:54:00Z"
     }
   },
   {
@@ -9223,7 +9223,7 @@
     "fields": {
       "id_ride": 103,
       "description": "Event for ride 103",
-      "created_at": "2025-01-01T09:43:00Z"
+      "created_at": "2025-01-09T15:37:00Z"
     }
   },
   {
@@ -9232,7 +9232,7 @@
     "fields": {
       "id_ride": 104,
       "description": "Event for ride 104",
-      "created_at": "2025-01-01T09:44:00Z"
+      "created_at": "2025-01-19T03:16:00Z"
     }
   },
   {
@@ -9241,7 +9241,7 @@
     "fields": {
       "id_ride": 105,
       "description": "Event for ride 105",
-      "created_at": "2025-01-01T09:45:00Z"
+      "created_at": "2025-01-05T07:02:00Z"
     }
   },
   {
@@ -9250,7 +9250,7 @@
     "fields": {
       "id_ride": 106,
       "description": "Event for ride 106",
-      "created_at": "2025-01-01T09:46:00Z"
+      "created_at": "2025-01-16T07:03:00Z"
     }
   },
   {
@@ -9259,7 +9259,7 @@
     "fields": {
       "id_ride": 107,
       "description": "Event for ride 107",
-      "created_at": "2025-01-01T09:47:00Z"
+      "created_at": "2025-01-07T11:13:00Z"
     }
   },
   {
@@ -9268,7 +9268,7 @@
     "fields": {
       "id_ride": 108,
       "description": "Event for ride 108",
-      "created_at": "2025-01-01T09:48:00Z"
+      "created_at": "2025-01-21T05:32:00Z"
     }
   },
   {
@@ -9277,7 +9277,7 @@
     "fields": {
       "id_ride": 109,
       "description": "Event for ride 109",
-      "created_at": "2025-01-01T09:49:00Z"
+      "created_at": "2025-01-23T05:02:00Z"
     }
   },
   {
@@ -9286,7 +9286,7 @@
     "fields": {
       "id_ride": 110,
       "description": "Event for ride 110",
-      "created_at": "2025-01-01T09:50:00Z"
+      "created_at": "2024-12-31T09:23:00Z"
     }
   },
   {
@@ -9295,7 +9295,7 @@
     "fields": {
       "id_ride": 111,
       "description": "Event for ride 111",
-      "created_at": "2025-01-01T09:51:00Z"
+      "created_at": "2025-01-12T00:40:00Z"
     }
   },
   {
@@ -9304,7 +9304,7 @@
     "fields": {
       "id_ride": 112,
       "description": "Event for ride 112",
-      "created_at": "2025-01-01T09:52:00Z"
+      "created_at": "2025-01-23T23:44:00Z"
     }
   },
   {
@@ -9313,7 +9313,7 @@
     "fields": {
       "id_ride": 113,
       "description": "Event for ride 113",
-      "created_at": "2025-01-01T09:53:00Z"
+      "created_at": "2025-01-21T10:19:00Z"
     }
   },
   {
@@ -9322,7 +9322,7 @@
     "fields": {
       "id_ride": 114,
       "description": "Event for ride 114",
-      "created_at": "2025-01-01T09:54:00Z"
+      "created_at": "2025-01-09T14:09:00Z"
     }
   },
   {
@@ -9331,7 +9331,7 @@
     "fields": {
       "id_ride": 115,
       "description": "Event for ride 115",
-      "created_at": "2025-01-01T09:55:00Z"
+      "created_at": "2025-01-04T12:35:00Z"
     }
   },
   {
@@ -9340,7 +9340,7 @@
     "fields": {
       "id_ride": 116,
       "description": "Event for ride 116",
-      "created_at": "2025-01-01T09:56:00Z"
+      "created_at": "2025-01-11T14:31:00Z"
     }
   },
   {
@@ -9349,7 +9349,7 @@
     "fields": {
       "id_ride": 117,
       "description": "Event for ride 117",
-      "created_at": "2025-01-01T09:57:00Z"
+      "created_at": "2025-01-25T00:53:00Z"
     }
   },
   {
@@ -9358,7 +9358,7 @@
     "fields": {
       "id_ride": 118,
       "description": "Event for ride 118",
-      "created_at": "2025-01-01T09:58:00Z"
+      "created_at": "2025-01-13T05:36:00Z"
     }
   },
   {
@@ -9367,7 +9367,7 @@
     "fields": {
       "id_ride": 119,
       "description": "Event for ride 119",
-      "created_at": "2025-01-01T09:59:00Z"
+      "created_at": "2025-01-26T07:34:00Z"
     }
   },
   {
@@ -9376,7 +9376,7 @@
     "fields": {
       "id_ride": 120,
       "description": "Event for ride 120",
-      "created_at": "2025-01-01T10:00:00Z"
+      "created_at": "2025-01-29T11:25:00Z"
     }
   },
   {
@@ -9385,7 +9385,7 @@
     "fields": {
       "id_ride": 121,
       "description": "Event for ride 121",
-      "created_at": "2025-01-01T10:01:00Z"
+      "created_at": "2024-12-27T11:06:00Z"
     }
   },
   {
@@ -9394,7 +9394,7 @@
     "fields": {
       "id_ride": 122,
       "description": "Event for ride 122",
-      "created_at": "2025-01-01T10:02:00Z"
+      "created_at": "2024-12-28T05:48:00Z"
     }
   },
   {
@@ -9403,7 +9403,7 @@
     "fields": {
       "id_ride": 123,
       "description": "Event for ride 123",
-      "created_at": "2025-01-01T10:03:00Z"
+      "created_at": "2025-01-01T12:17:00Z"
     }
   },
   {
@@ -9412,7 +9412,7 @@
     "fields": {
       "id_ride": 124,
       "description": "Event for ride 124",
-      "created_at": "2025-01-01T10:04:00Z"
+      "created_at": "2025-01-16T12:17:00Z"
     }
   },
   {
@@ -9421,7 +9421,7 @@
     "fields": {
       "id_ride": 125,
       "description": "Event for ride 125",
-      "created_at": "2025-01-01T10:05:00Z"
+      "created_at": "2025-01-21T19:47:00Z"
     }
   },
   {
@@ -9430,7 +9430,7 @@
     "fields": {
       "id_ride": 126,
       "description": "Event for ride 126",
-      "created_at": "2025-01-01T10:06:00Z"
+      "created_at": "2024-12-27T02:36:00Z"
     }
   },
   {
@@ -9439,7 +9439,7 @@
     "fields": {
       "id_ride": 127,
       "description": "Event for ride 127",
-      "created_at": "2025-01-01T10:07:00Z"
+      "created_at": "2025-01-08T12:58:00Z"
     }
   },
   {
@@ -9448,7 +9448,7 @@
     "fields": {
       "id_ride": 128,
       "description": "Event for ride 128",
-      "created_at": "2025-01-01T10:08:00Z"
+      "created_at": "2024-12-27T14:35:00Z"
     }
   },
   {
@@ -9457,7 +9457,7 @@
     "fields": {
       "id_ride": 129,
       "description": "Event for ride 129",
-      "created_at": "2025-01-01T10:09:00Z"
+      "created_at": "2025-01-31T07:31:00Z"
     }
   },
   {
@@ -9466,7 +9466,7 @@
     "fields": {
       "id_ride": 130,
       "description": "Event for ride 130",
-      "created_at": "2025-01-01T10:10:00Z"
+      "created_at": "2025-01-19T07:20:00Z"
     }
   },
   {
@@ -9475,7 +9475,7 @@
     "fields": {
       "id_ride": 131,
       "description": "Event for ride 131",
-      "created_at": "2025-01-01T10:11:00Z"
+      "created_at": "2025-01-23T03:41:00Z"
     }
   },
   {
@@ -9484,7 +9484,7 @@
     "fields": {
       "id_ride": 132,
       "description": "Event for ride 132",
-      "created_at": "2025-01-01T10:12:00Z"
+      "created_at": "2025-01-27T08:41:00Z"
     }
   },
   {
@@ -9493,7 +9493,7 @@
     "fields": {
       "id_ride": 133,
       "description": "Event for ride 133",
-      "created_at": "2025-01-01T10:13:00Z"
+      "created_at": "2024-12-26T00:18:00Z"
     }
   },
   {
@@ -9502,7 +9502,7 @@
     "fields": {
       "id_ride": 134,
       "description": "Event for ride 134",
-      "created_at": "2025-01-01T10:14:00Z"
+      "created_at": "2025-01-25T05:21:00Z"
     }
   },
   {
@@ -9511,7 +9511,7 @@
     "fields": {
       "id_ride": 135,
       "description": "Event for ride 135",
-      "created_at": "2025-01-01T10:15:00Z"
+      "created_at": "2024-12-25T11:57:00Z"
     }
   },
   {
@@ -9520,7 +9520,7 @@
     "fields": {
       "id_ride": 136,
       "description": "Event for ride 136",
-      "created_at": "2025-01-01T10:16:00Z"
+      "created_at": "2025-01-26T23:46:00Z"
     }
   },
   {
@@ -9529,7 +9529,7 @@
     "fields": {
       "id_ride": 137,
       "description": "Event for ride 137",
-      "created_at": "2025-01-01T10:17:00Z"
+      "created_at": "2025-01-25T02:23:00Z"
     }
   },
   {
@@ -9538,7 +9538,7 @@
     "fields": {
       "id_ride": 138,
       "description": "Event for ride 138",
-      "created_at": "2025-01-01T10:18:00Z"
+      "created_at": "2024-12-29T19:06:00Z"
     }
   },
   {
@@ -9547,7 +9547,7 @@
     "fields": {
       "id_ride": 139,
       "description": "Event for ride 139",
-      "created_at": "2025-01-01T10:19:00Z"
+      "created_at": "2025-01-22T00:48:00Z"
     }
   },
   {
@@ -9556,7 +9556,7 @@
     "fields": {
       "id_ride": 140,
       "description": "Event for ride 140",
-      "created_at": "2025-01-01T10:20:00Z"
+      "created_at": "2025-01-08T02:39:00Z"
     }
   },
   {
@@ -9565,7 +9565,7 @@
     "fields": {
       "id_ride": 141,
       "description": "Event for ride 141",
-      "created_at": "2025-01-01T10:21:00Z"
+      "created_at": "2025-01-02T15:23:00Z"
     }
   },
   {
@@ -9574,7 +9574,7 @@
     "fields": {
       "id_ride": 142,
       "description": "Event for ride 142",
-      "created_at": "2025-01-01T10:22:00Z"
+      "created_at": "2025-01-12T09:39:00Z"
     }
   },
   {
@@ -9583,7 +9583,7 @@
     "fields": {
       "id_ride": 143,
       "description": "Event for ride 143",
-      "created_at": "2025-01-01T10:23:00Z"
+      "created_at": "2024-12-26T08:14:00Z"
     }
   },
   {
@@ -9592,7 +9592,7 @@
     "fields": {
       "id_ride": 144,
       "description": "Event for ride 144",
-      "created_at": "2025-01-01T10:24:00Z"
+      "created_at": "2025-01-14T23:10:00Z"
     }
   },
   {
@@ -9601,7 +9601,7 @@
     "fields": {
       "id_ride": 145,
       "description": "Event for ride 145",
-      "created_at": "2025-01-01T10:25:00Z"
+      "created_at": "2024-12-30T14:52:00Z"
     }
   },
   {
@@ -9610,7 +9610,7 @@
     "fields": {
       "id_ride": 146,
       "description": "Event for ride 146",
-      "created_at": "2025-01-01T10:26:00Z"
+      "created_at": "2024-12-31T10:09:00Z"
     }
   },
   {
@@ -9619,7 +9619,7 @@
     "fields": {
       "id_ride": 147,
       "description": "Event for ride 147",
-      "created_at": "2025-01-01T10:27:00Z"
+      "created_at": "2025-01-23T23:16:00Z"
     }
   },
   {
@@ -9628,7 +9628,7 @@
     "fields": {
       "id_ride": 148,
       "description": "Event for ride 148",
-      "created_at": "2025-01-01T10:28:00Z"
+      "created_at": "2024-12-30T14:11:00Z"
     }
   },
   {
@@ -9637,7 +9637,7 @@
     "fields": {
       "id_ride": 149,
       "description": "Event for ride 149",
-      "created_at": "2025-01-01T10:29:00Z"
+      "created_at": "2025-01-07T00:34:00Z"
     }
   },
   {
@@ -9646,7 +9646,7 @@
     "fields": {
       "id_ride": 150,
       "description": "Event for ride 150",
-      "created_at": "2025-01-01T10:30:00Z"
+      "created_at": "2024-12-27T06:42:00Z"
     }
   },
   {
@@ -9655,7 +9655,7 @@
     "fields": {
       "id_ride": 151,
       "description": "Event for ride 151",
-      "created_at": "2025-01-01T10:31:00Z"
+      "created_at": "2025-01-25T08:20:00Z"
     }
   },
   {
@@ -9664,7 +9664,7 @@
     "fields": {
       "id_ride": 152,
       "description": "Event for ride 152",
-      "created_at": "2025-01-01T10:32:00Z"
+      "created_at": "2025-01-08T16:17:00Z"
     }
   },
   {
@@ -9673,7 +9673,7 @@
     "fields": {
       "id_ride": 153,
       "description": "Event for ride 153",
-      "created_at": "2025-01-01T10:33:00Z"
+      "created_at": "2025-01-20T04:22:00Z"
     }
   },
   {
@@ -9682,7 +9682,7 @@
     "fields": {
       "id_ride": 154,
       "description": "Event for ride 154",
-      "created_at": "2025-01-01T10:34:00Z"
+      "created_at": "2024-12-27T06:26:00Z"
     }
   },
   {
@@ -9691,7 +9691,7 @@
     "fields": {
       "id_ride": 155,
       "description": "Event for ride 155",
-      "created_at": "2025-01-01T10:35:00Z"
+      "created_at": "2025-01-26T06:37:00Z"
     }
   },
   {
@@ -9700,7 +9700,7 @@
     "fields": {
       "id_ride": 156,
       "description": "Event for ride 156",
-      "created_at": "2025-01-01T10:36:00Z"
+      "created_at": "2025-01-16T20:42:00Z"
     }
   },
   {
@@ -9709,7 +9709,7 @@
     "fields": {
       "id_ride": 157,
       "description": "Event for ride 157",
-      "created_at": "2025-01-01T10:37:00Z"
+      "created_at": "2025-01-15T05:36:00Z"
     }
   },
   {
@@ -9718,7 +9718,7 @@
     "fields": {
       "id_ride": 158,
       "description": "Event for ride 158",
-      "created_at": "2025-01-01T10:38:00Z"
+      "created_at": "2025-01-11T07:26:00Z"
     }
   },
   {
@@ -9727,7 +9727,7 @@
     "fields": {
       "id_ride": 159,
       "description": "Event for ride 159",
-      "created_at": "2025-01-01T10:39:00Z"
+      "created_at": "2025-01-02T11:23:00Z"
     }
   },
   {
@@ -9736,7 +9736,7 @@
     "fields": {
       "id_ride": 160,
       "description": "Event for ride 160",
-      "created_at": "2025-01-01T10:40:00Z"
+      "created_at": "2025-01-21T01:57:00Z"
     }
   },
   {
@@ -9745,7 +9745,7 @@
     "fields": {
       "id_ride": 161,
       "description": "Event for ride 161",
-      "created_at": "2025-01-01T10:41:00Z"
+      "created_at": "2024-12-31T15:54:00Z"
     }
   },
   {
@@ -9754,7 +9754,7 @@
     "fields": {
       "id_ride": 162,
       "description": "Event for ride 162",
-      "created_at": "2025-01-01T10:42:00Z"
+      "created_at": "2025-01-09T12:52:00Z"
     }
   },
   {
@@ -9763,7 +9763,7 @@
     "fields": {
       "id_ride": 163,
       "description": "Event for ride 163",
-      "created_at": "2025-01-01T10:43:00Z"
+      "created_at": "2025-01-11T01:47:00Z"
     }
   },
   {
@@ -9772,7 +9772,7 @@
     "fields": {
       "id_ride": 164,
       "description": "Event for ride 164",
-      "created_at": "2025-01-01T10:44:00Z"
+      "created_at": "2025-01-09T18:11:00Z"
     }
   },
   {
@@ -9781,7 +9781,7 @@
     "fields": {
       "id_ride": 165,
       "description": "Event for ride 165",
-      "created_at": "2025-01-01T10:45:00Z"
+      "created_at": "2024-12-26T23:42:00Z"
     }
   },
   {
@@ -9790,7 +9790,7 @@
     "fields": {
       "id_ride": 166,
       "description": "Event for ride 166",
-      "created_at": "2025-01-01T10:46:00Z"
+      "created_at": "2025-01-01T19:44:00Z"
     }
   },
   {
@@ -9799,7 +9799,7 @@
     "fields": {
       "id_ride": 167,
       "description": "Event for ride 167",
-      "created_at": "2025-01-01T10:47:00Z"
+      "created_at": "2025-01-20T22:04:00Z"
     }
   },
   {
@@ -9808,7 +9808,7 @@
     "fields": {
       "id_ride": 168,
       "description": "Event for ride 168",
-      "created_at": "2025-01-01T10:48:00Z"
+      "created_at": "2025-01-12T08:01:00Z"
     }
   },
   {
@@ -9817,7 +9817,7 @@
     "fields": {
       "id_ride": 169,
       "description": "Event for ride 169",
-      "created_at": "2025-01-01T10:49:00Z"
+      "created_at": "2024-12-31T06:25:00Z"
     }
   },
   {
@@ -9826,7 +9826,7 @@
     "fields": {
       "id_ride": 170,
       "description": "Event for ride 170",
-      "created_at": "2025-01-01T10:50:00Z"
+      "created_at": "2025-01-16T03:00:00Z"
     }
   },
   {
@@ -9835,7 +9835,7 @@
     "fields": {
       "id_ride": 171,
       "description": "Event for ride 171",
-      "created_at": "2025-01-01T10:51:00Z"
+      "created_at": "2024-12-27T13:33:00Z"
     }
   },
   {
@@ -9844,7 +9844,7 @@
     "fields": {
       "id_ride": 172,
       "description": "Event for ride 172",
-      "created_at": "2025-01-01T10:52:00Z"
+      "created_at": "2025-01-18T04:10:00Z"
     }
   },
   {
@@ -9853,7 +9853,7 @@
     "fields": {
       "id_ride": 173,
       "description": "Event for ride 173",
-      "created_at": "2025-01-01T10:53:00Z"
+      "created_at": "2025-01-08T03:28:00Z"
     }
   },
   {
@@ -9862,7 +9862,7 @@
     "fields": {
       "id_ride": 174,
       "description": "Event for ride 174",
-      "created_at": "2025-01-01T10:54:00Z"
+      "created_at": "2025-01-09T07:43:00Z"
     }
   },
   {
@@ -9871,7 +9871,7 @@
     "fields": {
       "id_ride": 175,
       "description": "Event for ride 175",
-      "created_at": "2025-01-01T10:55:00Z"
+      "created_at": "2024-12-30T07:35:00Z"
     }
   },
   {
@@ -9880,7 +9880,7 @@
     "fields": {
       "id_ride": 176,
       "description": "Event for ride 176",
-      "created_at": "2025-01-01T10:56:00Z"
+      "created_at": "2025-01-16T06:30:00Z"
     }
   },
   {
@@ -9889,7 +9889,7 @@
     "fields": {
       "id_ride": 177,
       "description": "Event for ride 177",
-      "created_at": "2025-01-01T10:57:00Z"
+      "created_at": "2025-01-30T16:26:00Z"
     }
   },
   {
@@ -9898,7 +9898,7 @@
     "fields": {
       "id_ride": 178,
       "description": "Event for ride 178",
-      "created_at": "2025-01-01T10:58:00Z"
+      "created_at": "2025-01-10T00:19:00Z"
     }
   },
   {
@@ -9907,7 +9907,7 @@
     "fields": {
       "id_ride": 179,
       "description": "Event for ride 179",
-      "created_at": "2025-01-01T10:59:00Z"
+      "created_at": "2024-12-30T15:41:00Z"
     }
   },
   {
@@ -9916,7 +9916,7 @@
     "fields": {
       "id_ride": 180,
       "description": "Event for ride 180",
-      "created_at": "2025-01-01T11:00:00Z"
+      "created_at": "2025-01-13T17:53:00Z"
     }
   },
   {
@@ -9925,7 +9925,7 @@
     "fields": {
       "id_ride": 181,
       "description": "Event for ride 181",
-      "created_at": "2025-01-01T11:01:00Z"
+      "created_at": "2025-01-09T14:00:00Z"
     }
   },
   {
@@ -9934,7 +9934,7 @@
     "fields": {
       "id_ride": 182,
       "description": "Event for ride 182",
-      "created_at": "2025-01-01T11:02:00Z"
+      "created_at": "2025-01-01T10:03:00Z"
     }
   },
   {
@@ -9943,7 +9943,7 @@
     "fields": {
       "id_ride": 183,
       "description": "Event for ride 183",
-      "created_at": "2025-01-01T11:03:00Z"
+      "created_at": "2025-01-22T20:37:00Z"
     }
   },
   {
@@ -9952,7 +9952,7 @@
     "fields": {
       "id_ride": 184,
       "description": "Event for ride 184",
-      "created_at": "2025-01-01T11:04:00Z"
+      "created_at": "2025-01-31T00:33:00Z"
     }
   },
   {
@@ -9961,7 +9961,7 @@
     "fields": {
       "id_ride": 185,
       "description": "Event for ride 185",
-      "created_at": "2025-01-01T11:05:00Z"
+      "created_at": "2025-01-23T09:54:00Z"
     }
   },
   {
@@ -9970,7 +9970,7 @@
     "fields": {
       "id_ride": 186,
       "description": "Event for ride 186",
-      "created_at": "2025-01-01T11:06:00Z"
+      "created_at": "2025-01-31T02:24:00Z"
     }
   },
   {
@@ -9979,7 +9979,7 @@
     "fields": {
       "id_ride": 187,
       "description": "Event for ride 187",
-      "created_at": "2025-01-01T11:07:00Z"
+      "created_at": "2025-01-28T11:10:00Z"
     }
   },
   {
@@ -9988,7 +9988,7 @@
     "fields": {
       "id_ride": 188,
       "description": "Event for ride 188",
-      "created_at": "2025-01-01T11:08:00Z"
+      "created_at": "2025-01-11T20:27:00Z"
     }
   },
   {
@@ -9997,7 +9997,7 @@
     "fields": {
       "id_ride": 189,
       "description": "Event for ride 189",
-      "created_at": "2025-01-01T11:09:00Z"
+      "created_at": "2025-01-12T06:17:00Z"
     }
   },
   {
@@ -10006,7 +10006,7 @@
     "fields": {
       "id_ride": 190,
       "description": "Event for ride 190",
-      "created_at": "2025-01-01T11:10:00Z"
+      "created_at": "2025-01-07T12:43:00Z"
     }
   },
   {
@@ -10015,7 +10015,7 @@
     "fields": {
       "id_ride": 191,
       "description": "Event for ride 191",
-      "created_at": "2025-01-01T11:11:00Z"
+      "created_at": "2025-01-16T13:53:00Z"
     }
   },
   {
@@ -10024,7 +10024,7 @@
     "fields": {
       "id_ride": 192,
       "description": "Event for ride 192",
-      "created_at": "2025-01-01T11:12:00Z"
+      "created_at": "2025-01-26T20:31:00Z"
     }
   },
   {
@@ -10033,7 +10033,7 @@
     "fields": {
       "id_ride": 193,
       "description": "Event for ride 193",
-      "created_at": "2025-01-01T11:13:00Z"
+      "created_at": "2025-01-13T14:17:00Z"
     }
   },
   {
@@ -10042,7 +10042,7 @@
     "fields": {
       "id_ride": 194,
       "description": "Event for ride 194",
-      "created_at": "2025-01-01T11:14:00Z"
+      "created_at": "2025-01-04T08:40:00Z"
     }
   },
   {
@@ -10051,7 +10051,7 @@
     "fields": {
       "id_ride": 195,
       "description": "Event for ride 195",
-      "created_at": "2025-01-01T11:15:00Z"
+      "created_at": "2025-01-06T05:14:00Z"
     }
   },
   {
@@ -10060,7 +10060,7 @@
     "fields": {
       "id_ride": 196,
       "description": "Event for ride 196",
-      "created_at": "2025-01-01T11:16:00Z"
+      "created_at": "2025-01-01T22:13:00Z"
     }
   },
   {
@@ -10069,7 +10069,7 @@
     "fields": {
       "id_ride": 197,
       "description": "Event for ride 197",
-      "created_at": "2025-01-01T11:17:00Z"
+      "created_at": "2025-01-10T15:52:00Z"
     }
   },
   {
@@ -10078,7 +10078,7 @@
     "fields": {
       "id_ride": 198,
       "description": "Event for ride 198",
-      "created_at": "2025-01-01T11:18:00Z"
+      "created_at": "2025-01-26T07:04:00Z"
     }
   },
   {
@@ -10087,7 +10087,7 @@
     "fields": {
       "id_ride": 199,
       "description": "Event for ride 199",
-      "created_at": "2025-01-01T11:19:00Z"
+      "created_at": "2025-01-18T06:38:00Z"
     }
   },
   {
@@ -10096,7 +10096,7 @@
     "fields": {
       "id_ride": 200,
       "description": "Event for ride 200",
-      "created_at": "2025-01-01T11:20:00Z"
+      "created_at": "2025-01-25T03:42:00Z"
     }
   },
   {
@@ -10105,7 +10105,7 @@
     "fields": {
       "id_ride": 201,
       "description": "Event for ride 201",
-      "created_at": "2025-01-01T11:21:00Z"
+      "created_at": "2025-01-16T23:18:00Z"
     }
   },
   {
@@ -10114,7 +10114,7 @@
     "fields": {
       "id_ride": 202,
       "description": "Event for ride 202",
-      "created_at": "2025-01-01T11:22:00Z"
+      "created_at": "2025-01-03T18:43:00Z"
     }
   },
   {
@@ -10123,7 +10123,7 @@
     "fields": {
       "id_ride": 203,
       "description": "Event for ride 203",
-      "created_at": "2025-01-01T11:23:00Z"
+      "created_at": "2025-01-30T15:23:00Z"
     }
   },
   {
@@ -10132,7 +10132,7 @@
     "fields": {
       "id_ride": 204,
       "description": "Event for ride 204",
-      "created_at": "2025-01-01T11:24:00Z"
+      "created_at": "2025-01-01T00:15:00Z"
     }
   },
   {
@@ -10141,7 +10141,7 @@
     "fields": {
       "id_ride": 205,
       "description": "Event for ride 205",
-      "created_at": "2025-01-01T11:25:00Z"
+      "created_at": "2025-01-15T05:07:00Z"
     }
   },
   {
@@ -10150,7 +10150,7 @@
     "fields": {
       "id_ride": 206,
       "description": "Event for ride 206",
-      "created_at": "2025-01-01T11:26:00Z"
+      "created_at": "2025-01-19T05:14:00Z"
     }
   },
   {
@@ -10159,7 +10159,7 @@
     "fields": {
       "id_ride": 207,
       "description": "Event for ride 207",
-      "created_at": "2025-01-01T11:27:00Z"
+      "created_at": "2024-12-30T02:51:00Z"
     }
   },
   {
@@ -10168,7 +10168,7 @@
     "fields": {
       "id_ride": 208,
       "description": "Event for ride 208",
-      "created_at": "2025-01-01T11:28:00Z"
+      "created_at": "2025-01-16T13:23:00Z"
     }
   },
   {
@@ -10177,7 +10177,7 @@
     "fields": {
       "id_ride": 209,
       "description": "Event for ride 209",
-      "created_at": "2025-01-01T11:29:00Z"
+      "created_at": "2025-01-12T19:50:00Z"
     }
   },
   {
@@ -10186,7 +10186,7 @@
     "fields": {
       "id_ride": 210,
       "description": "Event for ride 210",
-      "created_at": "2025-01-01T11:30:00Z"
+      "created_at": "2025-01-13T14:47:00Z"
     }
   },
   {
@@ -10195,7 +10195,7 @@
     "fields": {
       "id_ride": 211,
       "description": "Event for ride 211",
-      "created_at": "2025-01-01T11:31:00Z"
+      "created_at": "2025-01-16T21:37:00Z"
     }
   },
   {
@@ -10204,7 +10204,7 @@
     "fields": {
       "id_ride": 212,
       "description": "Event for ride 212",
-      "created_at": "2025-01-01T11:32:00Z"
+      "created_at": "2025-01-09T00:44:00Z"
     }
   },
   {
@@ -10213,7 +10213,7 @@
     "fields": {
       "id_ride": 213,
       "description": "Event for ride 213",
-      "created_at": "2025-01-01T11:33:00Z"
+      "created_at": "2025-01-17T01:12:00Z"
     }
   },
   {
@@ -10222,7 +10222,7 @@
     "fields": {
       "id_ride": 214,
       "description": "Event for ride 214",
-      "created_at": "2025-01-01T11:34:00Z"
+      "created_at": "2025-01-03T13:11:00Z"
     }
   },
   {
@@ -10231,7 +10231,7 @@
     "fields": {
       "id_ride": 215,
       "description": "Event for ride 215",
-      "created_at": "2025-01-01T11:35:00Z"
+      "created_at": "2025-01-04T07:32:00Z"
     }
   },
   {
@@ -10240,7 +10240,7 @@
     "fields": {
       "id_ride": 216,
       "description": "Event for ride 216",
-      "created_at": "2025-01-01T11:36:00Z"
+      "created_at": "2025-01-26T11:17:00Z"
     }
   },
   {
@@ -10249,7 +10249,7 @@
     "fields": {
       "id_ride": 217,
       "description": "Event for ride 217",
-      "created_at": "2025-01-01T11:37:00Z"
+      "created_at": "2025-01-08T20:14:00Z"
     }
   },
   {
@@ -10258,7 +10258,7 @@
     "fields": {
       "id_ride": 218,
       "description": "Event for ride 218",
-      "created_at": "2025-01-01T11:38:00Z"
+      "created_at": "2024-12-26T23:22:00Z"
     }
   },
   {
@@ -10267,7 +10267,7 @@
     "fields": {
       "id_ride": 219,
       "description": "Event for ride 219",
-      "created_at": "2025-01-01T11:39:00Z"
+      "created_at": "2025-01-06T01:14:00Z"
     }
   },
   {
@@ -10276,7 +10276,7 @@
     "fields": {
       "id_ride": 220,
       "description": "Event for ride 220",
-      "created_at": "2025-01-01T11:40:00Z"
+      "created_at": "2025-01-01T10:57:00Z"
     }
   },
   {
@@ -10285,7 +10285,7 @@
     "fields": {
       "id_ride": 221,
       "description": "Event for ride 221",
-      "created_at": "2025-01-01T11:41:00Z"
+      "created_at": "2025-01-20T21:25:00Z"
     }
   },
   {
@@ -10294,7 +10294,7 @@
     "fields": {
       "id_ride": 222,
       "description": "Event for ride 222",
-      "created_at": "2025-01-01T11:42:00Z"
+      "created_at": "2025-01-26T12:14:00Z"
     }
   },
   {
@@ -10303,7 +10303,7 @@
     "fields": {
       "id_ride": 223,
       "description": "Event for ride 223",
-      "created_at": "2025-01-01T11:43:00Z"
+      "created_at": "2024-12-28T09:11:00Z"
     }
   },
   {
@@ -10312,7 +10312,7 @@
     "fields": {
       "id_ride": 224,
       "description": "Event for ride 224",
-      "created_at": "2025-01-01T11:44:00Z"
+      "created_at": "2025-01-17T20:55:00Z"
     }
   },
   {
@@ -10321,7 +10321,7 @@
     "fields": {
       "id_ride": 225,
       "description": "Event for ride 225",
-      "created_at": "2025-01-01T11:45:00Z"
+      "created_at": "2024-12-27T03:48:00Z"
     }
   },
   {
@@ -10330,7 +10330,7 @@
     "fields": {
       "id_ride": 226,
       "description": "Event for ride 226",
-      "created_at": "2025-01-01T11:46:00Z"
+      "created_at": "2024-12-31T07:18:00Z"
     }
   },
   {
@@ -10339,7 +10339,7 @@
     "fields": {
       "id_ride": 227,
       "description": "Event for ride 227",
-      "created_at": "2025-01-01T11:47:00Z"
+      "created_at": "2024-12-26T01:28:00Z"
     }
   },
   {
@@ -10348,7 +10348,7 @@
     "fields": {
       "id_ride": 228,
       "description": "Event for ride 228",
-      "created_at": "2025-01-01T11:48:00Z"
+      "created_at": "2025-01-14T18:46:00Z"
     }
   },
   {
@@ -10357,7 +10357,7 @@
     "fields": {
       "id_ride": 229,
       "description": "Event for ride 229",
-      "created_at": "2025-01-01T11:49:00Z"
+      "created_at": "2025-01-01T16:19:00Z"
     }
   },
   {
@@ -10366,7 +10366,7 @@
     "fields": {
       "id_ride": 230,
       "description": "Event for ride 230",
-      "created_at": "2025-01-01T11:50:00Z"
+      "created_at": "2025-01-24T05:27:00Z"
     }
   },
   {
@@ -10375,7 +10375,7 @@
     "fields": {
       "id_ride": 231,
       "description": "Event for ride 231",
-      "created_at": "2025-01-01T11:51:00Z"
+      "created_at": "2025-01-11T06:25:00Z"
     }
   },
   {
@@ -10384,7 +10384,7 @@
     "fields": {
       "id_ride": 232,
       "description": "Event for ride 232",
-      "created_at": "2025-01-01T11:52:00Z"
+      "created_at": "2025-01-18T11:33:00Z"
     }
   },
   {
@@ -10393,7 +10393,7 @@
     "fields": {
       "id_ride": 233,
       "description": "Event for ride 233",
-      "created_at": "2025-01-01T11:53:00Z"
+      "created_at": "2025-01-20T11:42:00Z"
     }
   },
   {
@@ -10402,7 +10402,7 @@
     "fields": {
       "id_ride": 234,
       "description": "Event for ride 234",
-      "created_at": "2025-01-01T11:54:00Z"
+      "created_at": "2025-01-30T12:19:00Z"
     }
   },
   {
@@ -10411,7 +10411,7 @@
     "fields": {
       "id_ride": 235,
       "description": "Event for ride 235",
-      "created_at": "2025-01-01T11:55:00Z"
+      "created_at": "2025-01-28T20:41:00Z"
     }
   },
   {
@@ -10420,7 +10420,7 @@
     "fields": {
       "id_ride": 236,
       "description": "Event for ride 236",
-      "created_at": "2025-01-01T11:56:00Z"
+      "created_at": "2024-12-28T20:20:00Z"
     }
   },
   {
@@ -10429,7 +10429,7 @@
     "fields": {
       "id_ride": 237,
       "description": "Event for ride 237",
-      "created_at": "2025-01-01T11:57:00Z"
+      "created_at": "2025-01-28T17:11:00Z"
     }
   },
   {
@@ -10438,7 +10438,7 @@
     "fields": {
       "id_ride": 238,
       "description": "Event for ride 238",
-      "created_at": "2025-01-01T11:58:00Z"
+      "created_at": "2025-01-18T17:47:00Z"
     }
   },
   {
@@ -10447,7 +10447,7 @@
     "fields": {
       "id_ride": 239,
       "description": "Event for ride 239",
-      "created_at": "2025-01-01T11:59:00Z"
+      "created_at": "2025-01-13T09:22:00Z"
     }
   },
   {
@@ -10456,7 +10456,7 @@
     "fields": {
       "id_ride": 240,
       "description": "Event for ride 240",
-      "created_at": "2025-01-01T12:00:00Z"
+      "created_at": "2025-01-16T06:42:00Z"
     }
   },
   {
@@ -10465,7 +10465,7 @@
     "fields": {
       "id_ride": 241,
       "description": "Event for ride 241",
-      "created_at": "2025-01-01T12:01:00Z"
+      "created_at": "2025-01-12T00:26:00Z"
     }
   },
   {
@@ -10474,7 +10474,7 @@
     "fields": {
       "id_ride": 242,
       "description": "Event for ride 242",
-      "created_at": "2025-01-01T12:02:00Z"
+      "created_at": "2025-01-04T23:09:00Z"
     }
   },
   {
@@ -10483,7 +10483,7 @@
     "fields": {
       "id_ride": 243,
       "description": "Event for ride 243",
-      "created_at": "2025-01-01T12:03:00Z"
+      "created_at": "2025-01-30T15:44:00Z"
     }
   },
   {
@@ -10492,7 +10492,7 @@
     "fields": {
       "id_ride": 244,
       "description": "Event for ride 244",
-      "created_at": "2025-01-01T12:04:00Z"
+      "created_at": "2024-12-25T08:19:00Z"
     }
   },
   {
@@ -10501,7 +10501,7 @@
     "fields": {
       "id_ride": 245,
       "description": "Event for ride 245",
-      "created_at": "2025-01-01T12:05:00Z"
+      "created_at": "2025-01-08T02:25:00Z"
     }
   },
   {
@@ -10510,7 +10510,7 @@
     "fields": {
       "id_ride": 246,
       "description": "Event for ride 246",
-      "created_at": "2025-01-01T12:06:00Z"
+      "created_at": "2025-01-05T22:02:00Z"
     }
   },
   {
@@ -10519,7 +10519,7 @@
     "fields": {
       "id_ride": 247,
       "description": "Event for ride 247",
-      "created_at": "2025-01-01T12:07:00Z"
+      "created_at": "2025-01-16T19:09:00Z"
     }
   },
   {
@@ -10528,7 +10528,7 @@
     "fields": {
       "id_ride": 248,
       "description": "Event for ride 248",
-      "created_at": "2025-01-01T12:08:00Z"
+      "created_at": "2025-01-08T02:52:00Z"
     }
   },
   {
@@ -10537,7 +10537,7 @@
     "fields": {
       "id_ride": 249,
       "description": "Event for ride 249",
-      "created_at": "2025-01-01T12:09:00Z"
+      "created_at": "2025-01-11T19:45:00Z"
     }
   },
   {
@@ -10546,7 +10546,7 @@
     "fields": {
       "id_ride": 250,
       "description": "Event for ride 250",
-      "created_at": "2025-01-01T12:10:00Z"
+      "created_at": "2024-12-28T04:10:00Z"
     }
   },
   {
@@ -10555,7 +10555,7 @@
     "fields": {
       "id_ride": 251,
       "description": "Event for ride 251",
-      "created_at": "2025-01-01T12:11:00Z"
+      "created_at": "2024-12-31T03:15:00Z"
     }
   },
   {
@@ -10564,7 +10564,7 @@
     "fields": {
       "id_ride": 252,
       "description": "Event for ride 252",
-      "created_at": "2025-01-01T12:12:00Z"
+      "created_at": "2025-01-27T12:57:00Z"
     }
   },
   {
@@ -10573,7 +10573,7 @@
     "fields": {
       "id_ride": 253,
       "description": "Event for ride 253",
-      "created_at": "2025-01-01T12:13:00Z"
+      "created_at": "2024-12-27T20:52:00Z"
     }
   },
   {
@@ -10582,7 +10582,7 @@
     "fields": {
       "id_ride": 254,
       "description": "Event for ride 254",
-      "created_at": "2025-01-01T12:14:00Z"
+      "created_at": "2025-01-16T05:58:00Z"
     }
   },
   {
@@ -10591,7 +10591,7 @@
     "fields": {
       "id_ride": 255,
       "description": "Event for ride 255",
-      "created_at": "2025-01-01T12:15:00Z"
+      "created_at": "2025-01-16T17:27:00Z"
     }
   },
   {
@@ -10600,7 +10600,7 @@
     "fields": {
       "id_ride": 256,
       "description": "Event for ride 256",
-      "created_at": "2025-01-01T12:16:00Z"
+      "created_at": "2025-01-21T17:46:00Z"
     }
   },
   {
@@ -10609,7 +10609,7 @@
     "fields": {
       "id_ride": 257,
       "description": "Event for ride 257",
-      "created_at": "2025-01-01T12:17:00Z"
+      "created_at": "2025-01-24T23:58:00Z"
     }
   },
   {
@@ -10618,7 +10618,7 @@
     "fields": {
       "id_ride": 258,
       "description": "Event for ride 258",
-      "created_at": "2025-01-01T12:18:00Z"
+      "created_at": "2025-01-31T05:21:00Z"
     }
   },
   {
@@ -10627,7 +10627,7 @@
     "fields": {
       "id_ride": 259,
       "description": "Event for ride 259",
-      "created_at": "2025-01-01T12:19:00Z"
+      "created_at": "2025-01-13T01:23:00Z"
     }
   },
   {
@@ -10636,7 +10636,7 @@
     "fields": {
       "id_ride": 260,
       "description": "Event for ride 260",
-      "created_at": "2025-01-01T12:20:00Z"
+      "created_at": "2025-01-15T13:38:00Z"
     }
   },
   {
@@ -10645,7 +10645,7 @@
     "fields": {
       "id_ride": 261,
       "description": "Event for ride 261",
-      "created_at": "2025-01-01T12:21:00Z"
+      "created_at": "2024-12-27T11:43:00Z"
     }
   },
   {
@@ -10654,7 +10654,7 @@
     "fields": {
       "id_ride": 262,
       "description": "Event for ride 262",
-      "created_at": "2025-01-01T12:22:00Z"
+      "created_at": "2025-01-29T18:18:00Z"
     }
   },
   {
@@ -10663,7 +10663,7 @@
     "fields": {
       "id_ride": 263,
       "description": "Event for ride 263",
-      "created_at": "2025-01-01T12:23:00Z"
+      "created_at": "2024-12-26T19:50:00Z"
     }
   },
   {
@@ -10672,7 +10672,7 @@
     "fields": {
       "id_ride": 264,
       "description": "Event for ride 264",
-      "created_at": "2025-01-01T12:24:00Z"
+      "created_at": "2024-12-31T09:20:00Z"
     }
   },
   {
@@ -10681,7 +10681,7 @@
     "fields": {
       "id_ride": 265,
       "description": "Event for ride 265",
-      "created_at": "2025-01-01T12:25:00Z"
+      "created_at": "2024-12-30T03:25:00Z"
     }
   },
   {
@@ -10690,7 +10690,7 @@
     "fields": {
       "id_ride": 266,
       "description": "Event for ride 266",
-      "created_at": "2025-01-01T12:26:00Z"
+      "created_at": "2025-01-23T21:18:00Z"
     }
   },
   {
@@ -10699,7 +10699,7 @@
     "fields": {
       "id_ride": 267,
       "description": "Event for ride 267",
-      "created_at": "2025-01-01T12:27:00Z"
+      "created_at": "2025-01-11T19:14:00Z"
     }
   },
   {
@@ -10708,7 +10708,7 @@
     "fields": {
       "id_ride": 268,
       "description": "Event for ride 268",
-      "created_at": "2025-01-01T12:28:00Z"
+      "created_at": "2025-01-29T17:39:00Z"
     }
   },
   {
@@ -10717,7 +10717,7 @@
     "fields": {
       "id_ride": 269,
       "description": "Event for ride 269",
-      "created_at": "2025-01-01T12:29:00Z"
+      "created_at": "2024-12-28T02:11:00Z"
     }
   },
   {
@@ -10726,7 +10726,7 @@
     "fields": {
       "id_ride": 270,
       "description": "Event for ride 270",
-      "created_at": "2025-01-01T12:30:00Z"
+      "created_at": "2025-01-15T14:47:00Z"
     }
   },
   {
@@ -10735,7 +10735,7 @@
     "fields": {
       "id_ride": 271,
       "description": "Event for ride 271",
-      "created_at": "2025-01-01T12:31:00Z"
+      "created_at": "2025-01-09T17:33:00Z"
     }
   },
   {
@@ -10744,7 +10744,7 @@
     "fields": {
       "id_ride": 272,
       "description": "Event for ride 272",
-      "created_at": "2025-01-01T12:32:00Z"
+      "created_at": "2025-01-25T10:02:00Z"
     }
   },
   {
@@ -10753,7 +10753,7 @@
     "fields": {
       "id_ride": 273,
       "description": "Event for ride 273",
-      "created_at": "2025-01-01T12:33:00Z"
+      "created_at": "2025-01-07T20:16:00Z"
     }
   },
   {
@@ -10762,7 +10762,7 @@
     "fields": {
       "id_ride": 274,
       "description": "Event for ride 274",
-      "created_at": "2025-01-01T12:34:00Z"
+      "created_at": "2024-12-31T03:24:00Z"
     }
   },
   {
@@ -10771,7 +10771,7 @@
     "fields": {
       "id_ride": 275,
       "description": "Event for ride 275",
-      "created_at": "2025-01-01T12:35:00Z"
+      "created_at": "2025-01-11T23:59:00Z"
     }
   },
   {
@@ -10780,7 +10780,7 @@
     "fields": {
       "id_ride": 276,
       "description": "Event for ride 276",
-      "created_at": "2025-01-01T12:36:00Z"
+      "created_at": "2025-01-28T07:11:00Z"
     }
   },
   {
@@ -10789,7 +10789,7 @@
     "fields": {
       "id_ride": 277,
       "description": "Event for ride 277",
-      "created_at": "2025-01-01T12:37:00Z"
+      "created_at": "2025-01-25T08:27:00Z"
     }
   },
   {
@@ -10798,7 +10798,7 @@
     "fields": {
       "id_ride": 278,
       "description": "Event for ride 278",
-      "created_at": "2025-01-01T12:38:00Z"
+      "created_at": "2024-12-30T21:24:00Z"
     }
   },
   {
@@ -10807,7 +10807,7 @@
     "fields": {
       "id_ride": 279,
       "description": "Event for ride 279",
-      "created_at": "2025-01-01T12:39:00Z"
+      "created_at": "2025-01-30T02:36:00Z"
     }
   },
   {
@@ -10816,7 +10816,7 @@
     "fields": {
       "id_ride": 280,
       "description": "Event for ride 280",
-      "created_at": "2025-01-01T12:40:00Z"
+      "created_at": "2024-12-27T02:22:00Z"
     }
   },
   {
@@ -10825,7 +10825,7 @@
     "fields": {
       "id_ride": 281,
       "description": "Event for ride 281",
-      "created_at": "2025-01-01T12:41:00Z"
+      "created_at": "2025-01-14T14:16:00Z"
     }
   },
   {
@@ -10834,7 +10834,7 @@
     "fields": {
       "id_ride": 282,
       "description": "Event for ride 282",
-      "created_at": "2025-01-01T12:42:00Z"
+      "created_at": "2025-01-03T00:45:00Z"
     }
   },
   {
@@ -10843,7 +10843,7 @@
     "fields": {
       "id_ride": 283,
       "description": "Event for ride 283",
-      "created_at": "2025-01-01T12:43:00Z"
+      "created_at": "2025-01-30T07:07:00Z"
     }
   },
   {
@@ -10852,7 +10852,7 @@
     "fields": {
       "id_ride": 284,
       "description": "Event for ride 284",
-      "created_at": "2025-01-01T12:44:00Z"
+      "created_at": "2024-12-27T09:29:00Z"
     }
   },
   {
@@ -10861,7 +10861,7 @@
     "fields": {
       "id_ride": 285,
       "description": "Event for ride 285",
-      "created_at": "2025-01-01T12:45:00Z"
+      "created_at": "2024-12-27T04:25:00Z"
     }
   },
   {
@@ -10870,7 +10870,7 @@
     "fields": {
       "id_ride": 286,
       "description": "Event for ride 286",
-      "created_at": "2025-01-01T12:46:00Z"
+      "created_at": "2024-12-26T13:52:00Z"
     }
   },
   {
@@ -10879,7 +10879,7 @@
     "fields": {
       "id_ride": 287,
       "description": "Event for ride 287",
-      "created_at": "2025-01-01T12:47:00Z"
+      "created_at": "2025-01-24T16:47:00Z"
     }
   },
   {
@@ -10888,7 +10888,7 @@
     "fields": {
       "id_ride": 288,
       "description": "Event for ride 288",
-      "created_at": "2025-01-01T12:48:00Z"
+      "created_at": "2025-01-04T04:42:00Z"
     }
   },
   {
@@ -10897,7 +10897,7 @@
     "fields": {
       "id_ride": 289,
       "description": "Event for ride 289",
-      "created_at": "2025-01-01T12:49:00Z"
+      "created_at": "2025-01-29T16:47:00Z"
     }
   },
   {
@@ -10906,7 +10906,7 @@
     "fields": {
       "id_ride": 290,
       "description": "Event for ride 290",
-      "created_at": "2025-01-01T12:50:00Z"
+      "created_at": "2025-01-22T22:09:00Z"
     }
   },
   {
@@ -10915,7 +10915,7 @@
     "fields": {
       "id_ride": 291,
       "description": "Event for ride 291",
-      "created_at": "2025-01-01T12:51:00Z"
+      "created_at": "2025-01-26T03:48:00Z"
     }
   },
   {
@@ -10924,7 +10924,7 @@
     "fields": {
       "id_ride": 292,
       "description": "Event for ride 292",
-      "created_at": "2025-01-01T12:52:00Z"
+      "created_at": "2025-01-17T10:45:00Z"
     }
   },
   {
@@ -10933,7 +10933,7 @@
     "fields": {
       "id_ride": 293,
       "description": "Event for ride 293",
-      "created_at": "2025-01-01T12:53:00Z"
+      "created_at": "2024-12-30T12:47:00Z"
     }
   },
   {
@@ -10942,7 +10942,7 @@
     "fields": {
       "id_ride": 294,
       "description": "Event for ride 294",
-      "created_at": "2025-01-01T12:54:00Z"
+      "created_at": "2025-01-20T03:08:00Z"
     }
   },
   {
@@ -10951,7 +10951,7 @@
     "fields": {
       "id_ride": 295,
       "description": "Event for ride 295",
-      "created_at": "2025-01-01T12:55:00Z"
+      "created_at": "2024-12-29T04:42:00Z"
     }
   },
   {
@@ -10960,7 +10960,7 @@
     "fields": {
       "id_ride": 296,
       "description": "Event for ride 296",
-      "created_at": "2025-01-01T12:56:00Z"
+      "created_at": "2025-01-13T06:55:00Z"
     }
   },
   {
@@ -10969,7 +10969,7 @@
     "fields": {
       "id_ride": 297,
       "description": "Event for ride 297",
-      "created_at": "2025-01-01T12:57:00Z"
+      "created_at": "2025-01-13T06:25:00Z"
     }
   },
   {
@@ -10978,7 +10978,7 @@
     "fields": {
       "id_ride": 298,
       "description": "Event for ride 298",
-      "created_at": "2025-01-01T12:58:00Z"
+      "created_at": "2025-01-27T18:59:00Z"
     }
   },
   {
@@ -10987,7 +10987,7 @@
     "fields": {
       "id_ride": 299,
       "description": "Event for ride 299",
-      "created_at": "2025-01-01T12:59:00Z"
+      "created_at": "2025-01-30T09:20:00Z"
     }
   },
   {
@@ -10996,7 +10996,7 @@
     "fields": {
       "id_ride": 300,
       "description": "Event for ride 300",
-      "created_at": "2025-01-01T13:00:00Z"
+      "created_at": "2025-01-25T13:45:00Z"
     }
   },
   {
@@ -11005,7 +11005,7 @@
     "fields": {
       "id_ride": 301,
       "description": "Event for ride 301",
-      "created_at": "2025-01-01T13:01:00Z"
+      "created_at": "2025-01-16T22:27:00Z"
     }
   },
   {
@@ -11014,7 +11014,7 @@
     "fields": {
       "id_ride": 302,
       "description": "Event for ride 302",
-      "created_at": "2025-01-01T13:02:00Z"
+      "created_at": "2025-01-09T02:28:00Z"
     }
   },
   {
@@ -11023,7 +11023,7 @@
     "fields": {
       "id_ride": 303,
       "description": "Event for ride 303",
-      "created_at": "2025-01-01T13:03:00Z"
+      "created_at": "2024-12-28T21:50:00Z"
     }
   },
   {
@@ -11032,7 +11032,7 @@
     "fields": {
       "id_ride": 304,
       "description": "Event for ride 304",
-      "created_at": "2025-01-01T13:04:00Z"
+      "created_at": "2024-12-30T20:38:00Z"
     }
   },
   {
@@ -11041,7 +11041,7 @@
     "fields": {
       "id_ride": 305,
       "description": "Event for ride 305",
-      "created_at": "2025-01-01T13:05:00Z"
+      "created_at": "2024-12-26T16:10:00Z"
     }
   },
   {
@@ -11050,7 +11050,7 @@
     "fields": {
       "id_ride": 306,
       "description": "Event for ride 306",
-      "created_at": "2025-01-01T13:06:00Z"
+      "created_at": "2025-01-02T10:25:00Z"
     }
   },
   {
@@ -11059,7 +11059,7 @@
     "fields": {
       "id_ride": 307,
       "description": "Event for ride 307",
-      "created_at": "2025-01-01T13:07:00Z"
+      "created_at": "2025-01-04T19:52:00Z"
     }
   },
   {
@@ -11068,7 +11068,7 @@
     "fields": {
       "id_ride": 308,
       "description": "Event for ride 308",
-      "created_at": "2025-01-01T13:08:00Z"
+      "created_at": "2024-12-28T13:09:00Z"
     }
   },
   {
@@ -11077,7 +11077,7 @@
     "fields": {
       "id_ride": 309,
       "description": "Event for ride 309",
-      "created_at": "2025-01-01T13:09:00Z"
+      "created_at": "2024-12-31T20:39:00Z"
     }
   },
   {
@@ -11086,7 +11086,7 @@
     "fields": {
       "id_ride": 310,
       "description": "Event for ride 310",
-      "created_at": "2025-01-01T13:10:00Z"
+      "created_at": "2025-01-03T15:51:00Z"
     }
   },
   {
@@ -11095,7 +11095,7 @@
     "fields": {
       "id_ride": 311,
       "description": "Event for ride 311",
-      "created_at": "2025-01-01T13:11:00Z"
+      "created_at": "2025-01-27T15:50:00Z"
     }
   },
   {
@@ -11104,7 +11104,7 @@
     "fields": {
       "id_ride": 312,
       "description": "Event for ride 312",
-      "created_at": "2025-01-01T13:12:00Z"
+      "created_at": "2024-12-30T22:45:00Z"
     }
   },
   {
@@ -11113,7 +11113,7 @@
     "fields": {
       "id_ride": 313,
       "description": "Event for ride 313",
-      "created_at": "2025-01-01T13:13:00Z"
+      "created_at": "2025-01-07T16:32:00Z"
     }
   },
   {
@@ -11122,7 +11122,7 @@
     "fields": {
       "id_ride": 314,
       "description": "Event for ride 314",
-      "created_at": "2025-01-01T13:14:00Z"
+      "created_at": "2024-12-26T11:09:00Z"
     }
   },
   {
@@ -11131,7 +11131,7 @@
     "fields": {
       "id_ride": 315,
       "description": "Event for ride 315",
-      "created_at": "2025-01-01T13:15:00Z"
+      "created_at": "2025-01-04T22:35:00Z"
     }
   },
   {
@@ -11140,7 +11140,7 @@
     "fields": {
       "id_ride": 316,
       "description": "Event for ride 316",
-      "created_at": "2025-01-01T13:16:00Z"
+      "created_at": "2025-01-02T20:30:00Z"
     }
   },
   {
@@ -11149,7 +11149,7 @@
     "fields": {
       "id_ride": 317,
       "description": "Event for ride 317",
-      "created_at": "2025-01-01T13:17:00Z"
+      "created_at": "2025-01-16T00:57:00Z"
     }
   },
   {
@@ -11158,7 +11158,7 @@
     "fields": {
       "id_ride": 318,
       "description": "Event for ride 318",
-      "created_at": "2025-01-01T13:18:00Z"
+      "created_at": "2025-01-06T02:20:00Z"
     }
   },
   {
@@ -11167,7 +11167,7 @@
     "fields": {
       "id_ride": 319,
       "description": "Event for ride 319",
-      "created_at": "2025-01-01T13:19:00Z"
+      "created_at": "2025-01-03T19:38:00Z"
     }
   },
   {
@@ -11176,7 +11176,7 @@
     "fields": {
       "id_ride": 320,
       "description": "Event for ride 320",
-      "created_at": "2025-01-01T13:20:00Z"
+      "created_at": "2025-01-15T21:22:00Z"
     }
   },
   {
@@ -11185,7 +11185,7 @@
     "fields": {
       "id_ride": 321,
       "description": "Event for ride 321",
-      "created_at": "2025-01-01T13:21:00Z"
+      "created_at": "2025-01-07T20:02:00Z"
     }
   },
   {
@@ -11194,7 +11194,7 @@
     "fields": {
       "id_ride": 322,
       "description": "Event for ride 322",
-      "created_at": "2025-01-01T13:22:00Z"
+      "created_at": "2025-01-19T12:36:00Z"
     }
   },
   {
@@ -11203,7 +11203,7 @@
     "fields": {
       "id_ride": 323,
       "description": "Event for ride 323",
-      "created_at": "2025-01-01T13:23:00Z"
+      "created_at": "2025-01-02T17:24:00Z"
     }
   },
   {
@@ -11212,7 +11212,7 @@
     "fields": {
       "id_ride": 324,
       "description": "Event for ride 324",
-      "created_at": "2025-01-01T13:24:00Z"
+      "created_at": "2024-12-29T00:39:00Z"
     }
   },
   {
@@ -11221,7 +11221,7 @@
     "fields": {
       "id_ride": 325,
       "description": "Event for ride 325",
-      "created_at": "2025-01-01T13:25:00Z"
+      "created_at": "2025-01-20T18:51:00Z"
     }
   },
   {
@@ -11230,7 +11230,7 @@
     "fields": {
       "id_ride": 326,
       "description": "Event for ride 326",
-      "created_at": "2025-01-01T13:26:00Z"
+      "created_at": "2025-01-11T11:46:00Z"
     }
   },
   {
@@ -11239,7 +11239,7 @@
     "fields": {
       "id_ride": 327,
       "description": "Event for ride 327",
-      "created_at": "2025-01-01T13:27:00Z"
+      "created_at": "2024-12-31T01:14:00Z"
     }
   },
   {
@@ -11248,7 +11248,7 @@
     "fields": {
       "id_ride": 328,
       "description": "Event for ride 328",
-      "created_at": "2025-01-01T13:28:00Z"
+      "created_at": "2025-01-08T17:30:00Z"
     }
   },
   {
@@ -11257,7 +11257,7 @@
     "fields": {
       "id_ride": 329,
       "description": "Event for ride 329",
-      "created_at": "2025-01-01T13:29:00Z"
+      "created_at": "2025-01-05T02:58:00Z"
     }
   },
   {
@@ -11266,7 +11266,7 @@
     "fields": {
       "id_ride": 330,
       "description": "Event for ride 330",
-      "created_at": "2025-01-01T13:30:00Z"
+      "created_at": "2025-01-07T14:24:00Z"
     }
   },
   {
@@ -11275,7 +11275,7 @@
     "fields": {
       "id_ride": 331,
       "description": "Event for ride 331",
-      "created_at": "2025-01-01T13:31:00Z"
+      "created_at": "2025-01-24T12:54:00Z"
     }
   },
   {
@@ -11284,7 +11284,7 @@
     "fields": {
       "id_ride": 332,
       "description": "Event for ride 332",
-      "created_at": "2025-01-01T13:32:00Z"
+      "created_at": "2024-12-31T08:58:00Z"
     }
   },
   {
@@ -11293,7 +11293,7 @@
     "fields": {
       "id_ride": 333,
       "description": "Event for ride 333",
-      "created_at": "2025-01-01T13:33:00Z"
+      "created_at": "2025-01-12T06:41:00Z"
     }
   },
   {
@@ -11302,7 +11302,7 @@
     "fields": {
       "id_ride": 334,
       "description": "Event for ride 334",
-      "created_at": "2025-01-01T13:34:00Z"
+      "created_at": "2024-12-28T16:31:00Z"
     }
   },
   {
@@ -11311,7 +11311,7 @@
     "fields": {
       "id_ride": 335,
       "description": "Event for ride 335",
-      "created_at": "2025-01-01T13:35:00Z"
+      "created_at": "2025-01-07T23:35:00Z"
     }
   },
   {
@@ -11320,7 +11320,7 @@
     "fields": {
       "id_ride": 336,
       "description": "Event for ride 336",
-      "created_at": "2025-01-01T13:36:00Z"
+      "created_at": "2025-01-28T01:50:00Z"
     }
   },
   {
@@ -11329,7 +11329,7 @@
     "fields": {
       "id_ride": 337,
       "description": "Event for ride 337",
-      "created_at": "2025-01-01T13:37:00Z"
+      "created_at": "2025-01-21T06:13:00Z"
     }
   },
   {
@@ -11338,7 +11338,7 @@
     "fields": {
       "id_ride": 338,
       "description": "Event for ride 338",
-      "created_at": "2025-01-01T13:38:00Z"
+      "created_at": "2025-01-23T08:22:00Z"
     }
   },
   {
@@ -11347,7 +11347,7 @@
     "fields": {
       "id_ride": 339,
       "description": "Event for ride 339",
-      "created_at": "2025-01-01T13:39:00Z"
+      "created_at": "2025-01-05T15:35:00Z"
     }
   },
   {
@@ -11356,7 +11356,7 @@
     "fields": {
       "id_ride": 340,
       "description": "Event for ride 340",
-      "created_at": "2025-01-01T13:40:00Z"
+      "created_at": "2025-01-11T03:59:00Z"
     }
   },
   {
@@ -11365,7 +11365,7 @@
     "fields": {
       "id_ride": 341,
       "description": "Event for ride 341",
-      "created_at": "2025-01-01T13:41:00Z"
+      "created_at": "2025-01-18T10:43:00Z"
     }
   },
   {
@@ -11374,7 +11374,7 @@
     "fields": {
       "id_ride": 342,
       "description": "Event for ride 342",
-      "created_at": "2025-01-01T13:42:00Z"
+      "created_at": "2025-01-12T23:01:00Z"
     }
   },
   {
@@ -11383,7 +11383,7 @@
     "fields": {
       "id_ride": 343,
       "description": "Event for ride 343",
-      "created_at": "2025-01-01T13:43:00Z"
+      "created_at": "2025-01-27T12:05:00Z"
     }
   },
   {
@@ -11392,7 +11392,7 @@
     "fields": {
       "id_ride": 344,
       "description": "Event for ride 344",
-      "created_at": "2025-01-01T13:44:00Z"
+      "created_at": "2025-01-14T10:44:00Z"
     }
   },
   {
@@ -11401,7 +11401,7 @@
     "fields": {
       "id_ride": 345,
       "description": "Event for ride 345",
-      "created_at": "2025-01-01T13:45:00Z"
+      "created_at": "2025-01-07T17:07:00Z"
     }
   },
   {
@@ -11410,7 +11410,7 @@
     "fields": {
       "id_ride": 346,
       "description": "Event for ride 346",
-      "created_at": "2025-01-01T13:46:00Z"
+      "created_at": "2024-12-29T12:13:00Z"
     }
   },
   {
@@ -11419,7 +11419,7 @@
     "fields": {
       "id_ride": 347,
       "description": "Event for ride 347",
-      "created_at": "2025-01-01T13:47:00Z"
+      "created_at": "2025-01-30T14:47:00Z"
     }
   },
   {
@@ -11428,7 +11428,7 @@
     "fields": {
       "id_ride": 348,
       "description": "Event for ride 348",
-      "created_at": "2025-01-01T13:48:00Z"
+      "created_at": "2024-12-30T11:18:00Z"
     }
   },
   {
@@ -11437,7 +11437,7 @@
     "fields": {
       "id_ride": 349,
       "description": "Event for ride 349",
-      "created_at": "2025-01-01T13:49:00Z"
+      "created_at": "2025-01-25T16:30:00Z"
     }
   },
   {
@@ -11446,7 +11446,7 @@
     "fields": {
       "id_ride": 350,
       "description": "Event for ride 350",
-      "created_at": "2025-01-01T13:50:00Z"
+      "created_at": "2025-01-26T08:15:00Z"
     }
   },
   {
@@ -11455,7 +11455,7 @@
     "fields": {
       "id_ride": 351,
       "description": "Event for ride 351",
-      "created_at": "2025-01-01T13:51:00Z"
+      "created_at": "2025-01-12T12:25:00Z"
     }
   },
   {
@@ -11464,7 +11464,7 @@
     "fields": {
       "id_ride": 352,
       "description": "Event for ride 352",
-      "created_at": "2025-01-01T13:52:00Z"
+      "created_at": "2025-01-13T13:28:00Z"
     }
   },
   {
@@ -11473,7 +11473,7 @@
     "fields": {
       "id_ride": 353,
       "description": "Event for ride 353",
-      "created_at": "2025-01-01T13:53:00Z"
+      "created_at": "2025-01-05T15:43:00Z"
     }
   },
   {
@@ -11482,7 +11482,7 @@
     "fields": {
       "id_ride": 354,
       "description": "Event for ride 354",
-      "created_at": "2025-01-01T13:54:00Z"
+      "created_at": "2025-01-09T20:41:00Z"
     }
   },
   {
@@ -11491,7 +11491,7 @@
     "fields": {
       "id_ride": 355,
       "description": "Event for ride 355",
-      "created_at": "2025-01-01T13:55:00Z"
+      "created_at": "2024-12-31T20:38:00Z"
     }
   },
   {
@@ -11500,7 +11500,7 @@
     "fields": {
       "id_ride": 356,
       "description": "Event for ride 356",
-      "created_at": "2025-01-01T13:56:00Z"
+      "created_at": "2025-01-23T02:43:00Z"
     }
   },
   {
@@ -11509,7 +11509,7 @@
     "fields": {
       "id_ride": 357,
       "description": "Event for ride 357",
-      "created_at": "2025-01-01T13:57:00Z"
+      "created_at": "2025-01-16T08:49:00Z"
     }
   },
   {
@@ -11518,7 +11518,7 @@
     "fields": {
       "id_ride": 358,
       "description": "Event for ride 358",
-      "created_at": "2025-01-01T13:58:00Z"
+      "created_at": "2025-01-07T18:53:00Z"
     }
   },
   {
@@ -11527,7 +11527,7 @@
     "fields": {
       "id_ride": 359,
       "description": "Event for ride 359",
-      "created_at": "2025-01-01T13:59:00Z"
+      "created_at": "2025-01-26T04:28:00Z"
     }
   },
   {
@@ -11536,7 +11536,7 @@
     "fields": {
       "id_ride": 360,
       "description": "Event for ride 360",
-      "created_at": "2025-01-01T14:00:00Z"
+      "created_at": "2025-01-15T08:38:00Z"
     }
   },
   {
@@ -11545,7 +11545,7 @@
     "fields": {
       "id_ride": 361,
       "description": "Event for ride 361",
-      "created_at": "2025-01-01T14:01:00Z"
+      "created_at": "2025-01-07T22:07:00Z"
     }
   },
   {
@@ -11554,7 +11554,7 @@
     "fields": {
       "id_ride": 362,
       "description": "Event for ride 362",
-      "created_at": "2025-01-01T14:02:00Z"
+      "created_at": "2025-01-22T22:58:00Z"
     }
   },
   {
@@ -11563,7 +11563,7 @@
     "fields": {
       "id_ride": 363,
       "description": "Event for ride 363",
-      "created_at": "2025-01-01T14:03:00Z"
+      "created_at": "2025-01-22T01:24:00Z"
     }
   },
   {
@@ -11572,7 +11572,7 @@
     "fields": {
       "id_ride": 364,
       "description": "Event for ride 364",
-      "created_at": "2025-01-01T14:04:00Z"
+      "created_at": "2025-01-26T11:31:00Z"
     }
   },
   {
@@ -11581,7 +11581,7 @@
     "fields": {
       "id_ride": 365,
       "description": "Event for ride 365",
-      "created_at": "2025-01-01T14:05:00Z"
+      "created_at": "2024-12-29T13:10:00Z"
     }
   },
   {
@@ -11590,7 +11590,7 @@
     "fields": {
       "id_ride": 366,
       "description": "Event for ride 366",
-      "created_at": "2025-01-01T14:06:00Z"
+      "created_at": "2025-01-28T22:19:00Z"
     }
   },
   {
@@ -11599,7 +11599,7 @@
     "fields": {
       "id_ride": 367,
       "description": "Event for ride 367",
-      "created_at": "2025-01-01T14:07:00Z"
+      "created_at": "2025-01-19T02:01:00Z"
     }
   },
   {
@@ -11608,7 +11608,7 @@
     "fields": {
       "id_ride": 368,
       "description": "Event for ride 368",
-      "created_at": "2025-01-01T14:08:00Z"
+      "created_at": "2025-01-07T02:03:00Z"
     }
   },
   {
@@ -11617,7 +11617,7 @@
     "fields": {
       "id_ride": 369,
       "description": "Event for ride 369",
-      "created_at": "2025-01-01T14:09:00Z"
+      "created_at": "2024-12-26T07:45:00Z"
     }
   },
   {
@@ -11626,7 +11626,7 @@
     "fields": {
       "id_ride": 370,
       "description": "Event for ride 370",
-      "created_at": "2025-01-01T14:10:00Z"
+      "created_at": "2025-01-24T18:20:00Z"
     }
   },
   {
@@ -11635,7 +11635,7 @@
     "fields": {
       "id_ride": 371,
       "description": "Event for ride 371",
-      "created_at": "2025-01-01T14:11:00Z"
+      "created_at": "2025-01-06T00:25:00Z"
     }
   },
   {
@@ -11644,7 +11644,7 @@
     "fields": {
       "id_ride": 372,
       "description": "Event for ride 372",
-      "created_at": "2025-01-01T14:12:00Z"
+      "created_at": "2025-01-20T19:28:00Z"
     }
   },
   {
@@ -11653,7 +11653,7 @@
     "fields": {
       "id_ride": 373,
       "description": "Event for ride 373",
-      "created_at": "2025-01-01T14:13:00Z"
+      "created_at": "2025-01-14T13:49:00Z"
     }
   },
   {
@@ -11662,7 +11662,7 @@
     "fields": {
       "id_ride": 374,
       "description": "Event for ride 374",
-      "created_at": "2025-01-01T14:14:00Z"
+      "created_at": "2025-01-05T20:08:00Z"
     }
   },
   {
@@ -11671,7 +11671,7 @@
     "fields": {
       "id_ride": 375,
       "description": "Event for ride 375",
-      "created_at": "2025-01-01T14:15:00Z"
+      "created_at": "2025-01-28T17:09:00Z"
     }
   },
   {
@@ -11680,7 +11680,7 @@
     "fields": {
       "id_ride": 376,
       "description": "Event for ride 376",
-      "created_at": "2025-01-01T14:16:00Z"
+      "created_at": "2025-01-03T06:23:00Z"
     }
   },
   {
@@ -11689,7 +11689,7 @@
     "fields": {
       "id_ride": 377,
       "description": "Event for ride 377",
-      "created_at": "2025-01-01T14:17:00Z"
+      "created_at": "2024-12-26T23:00:00Z"
     }
   },
   {
@@ -11698,7 +11698,7 @@
     "fields": {
       "id_ride": 378,
       "description": "Event for ride 378",
-      "created_at": "2025-01-01T14:18:00Z"
+      "created_at": "2025-01-06T07:00:00Z"
     }
   },
   {
@@ -11707,7 +11707,7 @@
     "fields": {
       "id_ride": 379,
       "description": "Event for ride 379",
-      "created_at": "2025-01-01T14:19:00Z"
+      "created_at": "2025-01-09T19:34:00Z"
     }
   },
   {
@@ -11716,7 +11716,7 @@
     "fields": {
       "id_ride": 380,
       "description": "Event for ride 380",
-      "created_at": "2025-01-01T14:20:00Z"
+      "created_at": "2025-01-05T16:21:00Z"
     }
   },
   {
@@ -11725,7 +11725,7 @@
     "fields": {
       "id_ride": 381,
       "description": "Event for ride 381",
-      "created_at": "2025-01-01T14:21:00Z"
+      "created_at": "2025-01-29T00:39:00Z"
     }
   },
   {
@@ -11734,7 +11734,7 @@
     "fields": {
       "id_ride": 382,
       "description": "Event for ride 382",
-      "created_at": "2025-01-01T14:22:00Z"
+      "created_at": "2025-01-13T05:28:00Z"
     }
   },
   {
@@ -11743,7 +11743,7 @@
     "fields": {
       "id_ride": 383,
       "description": "Event for ride 383",
-      "created_at": "2025-01-01T14:23:00Z"
+      "created_at": "2025-01-07T05:13:00Z"
     }
   },
   {
@@ -11752,7 +11752,7 @@
     "fields": {
       "id_ride": 384,
       "description": "Event for ride 384",
-      "created_at": "2025-01-01T14:24:00Z"
+      "created_at": "2025-01-20T11:20:00Z"
     }
   },
   {
@@ -11761,7 +11761,7 @@
     "fields": {
       "id_ride": 385,
       "description": "Event for ride 385",
-      "created_at": "2025-01-01T14:25:00Z"
+      "created_at": "2025-01-03T22:05:00Z"
     }
   },
   {
@@ -11770,7 +11770,7 @@
     "fields": {
       "id_ride": 386,
       "description": "Event for ride 386",
-      "created_at": "2025-01-01T14:26:00Z"
+      "created_at": "2025-01-13T01:08:00Z"
     }
   },
   {
@@ -11779,7 +11779,7 @@
     "fields": {
       "id_ride": 387,
       "description": "Event for ride 387",
-      "created_at": "2025-01-01T14:27:00Z"
+      "created_at": "2025-01-19T02:10:00Z"
     }
   },
   {
@@ -11788,7 +11788,7 @@
     "fields": {
       "id_ride": 388,
       "description": "Event for ride 388",
-      "created_at": "2025-01-01T14:28:00Z"
+      "created_at": "2025-01-29T18:51:00Z"
     }
   },
   {
@@ -11797,7 +11797,7 @@
     "fields": {
       "id_ride": 389,
       "description": "Event for ride 389",
-      "created_at": "2025-01-01T14:29:00Z"
+      "created_at": "2025-01-07T00:48:00Z"
     }
   },
   {
@@ -11806,7 +11806,7 @@
     "fields": {
       "id_ride": 390,
       "description": "Event for ride 390",
-      "created_at": "2025-01-01T14:30:00Z"
+      "created_at": "2025-01-11T06:36:00Z"
     }
   },
   {
@@ -11815,7 +11815,7 @@
     "fields": {
       "id_ride": 391,
       "description": "Event for ride 391",
-      "created_at": "2025-01-01T14:31:00Z"
+      "created_at": "2024-12-31T15:02:00Z"
     }
   },
   {
@@ -11824,7 +11824,7 @@
     "fields": {
       "id_ride": 392,
       "description": "Event for ride 392",
-      "created_at": "2025-01-01T14:32:00Z"
+      "created_at": "2025-01-26T01:52:00Z"
     }
   },
   {
@@ -11833,7 +11833,7 @@
     "fields": {
       "id_ride": 393,
       "description": "Event for ride 393",
-      "created_at": "2025-01-01T14:33:00Z"
+      "created_at": "2025-01-12T14:47:00Z"
     }
   },
   {
@@ -11842,7 +11842,7 @@
     "fields": {
       "id_ride": 394,
       "description": "Event for ride 394",
-      "created_at": "2025-01-01T14:34:00Z"
+      "created_at": "2024-12-31T16:58:00Z"
     }
   },
   {
@@ -11851,7 +11851,7 @@
     "fields": {
       "id_ride": 395,
       "description": "Event for ride 395",
-      "created_at": "2025-01-01T14:35:00Z"
+      "created_at": "2025-01-07T23:07:00Z"
     }
   },
   {
@@ -11860,7 +11860,7 @@
     "fields": {
       "id_ride": 396,
       "description": "Event for ride 396",
-      "created_at": "2025-01-01T14:36:00Z"
+      "created_at": "2025-01-15T20:52:00Z"
     }
   },
   {
@@ -11869,7 +11869,7 @@
     "fields": {
       "id_ride": 397,
       "description": "Event for ride 397",
-      "created_at": "2025-01-01T14:37:00Z"
+      "created_at": "2025-01-04T06:44:00Z"
     }
   },
   {
@@ -11878,7 +11878,7 @@
     "fields": {
       "id_ride": 398,
       "description": "Event for ride 398",
-      "created_at": "2025-01-01T14:38:00Z"
+      "created_at": "2025-01-25T23:25:00Z"
     }
   },
   {
@@ -11887,7 +11887,7 @@
     "fields": {
       "id_ride": 399,
       "description": "Event for ride 399",
-      "created_at": "2025-01-01T14:39:00Z"
+      "created_at": "2025-01-16T18:49:00Z"
     }
   },
   {
@@ -11896,7 +11896,7 @@
     "fields": {
       "id_ride": 400,
       "description": "Event for ride 400",
-      "created_at": "2025-01-01T14:40:00Z"
+      "created_at": "2024-12-28T02:26:00Z"
     }
   }
 ]

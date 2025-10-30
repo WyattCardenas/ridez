@@ -62,6 +62,9 @@ for i in range(1, USERS_TOTAL + 1):
 
 # Rides: pk 1..RIDES_COUNT
 statuses = ['en-route', 'pickup', 'dropoff']
+# store pickup times so RideEvent can reuse same timestamp
+pickup_times = {}
+
 for r in range(1, RIDES_COUNT + 1):
     status = statuses[r % len(statuses)]
     # pick rider and driver PKs
@@ -80,8 +83,14 @@ for r in range(1, RIDES_COUNT + 1):
     dropoff_lat = 37.8000 + ((r * 3) % 100) * 0.0006
     dropoff_lon = -122.5000 + ((r * 5) % 100) * 0.0008
 
-    pickup_time = BASE_DATE + timedelta(minutes=r)
+    # randomize pickup_time within a realistic window so ordering isn't by ID
+    # choose an offset between -7 days and +30 days (in minutes)
+    offset_minutes = random.randint(-7 * 24 * 60, 30 * 24 * 60)
+    # add a small r-dependent jitter so values aren't repeated too often
+    jitter = r % 60
+    pickup_time = BASE_DATE + timedelta(minutes=offset_minutes + jitter)
     pickup_time_iso = pickup_time.strftime('%Y-%m-%dT%H:%M:%SZ')
+    pickup_times[r] = pickup_time_iso
 
     ride_obj = {
         'model': 'rides.ride',
@@ -101,8 +110,8 @@ for r in range(1, RIDES_COUNT + 1):
 
 # RideEvents: one per ride (OneToOne relationship)
 for r in range(1, RIDES_COUNT + 1):
-    # created_at tied to pickup_time
-    created_at = (BASE_DATE + timedelta(minutes=r)).strftime('%Y-%m-%dT%H:%M:%SZ')
+    # created_at tied to the ride's pickup_time (use the randomized value)
+    created_at = pickup_times.get(r, (BASE_DATE + timedelta(minutes=r)).strftime('%Y-%m-%dT%H:%M:%SZ'))
     event_obj = {
         'model': 'rides.rideevent',
         'pk': r,

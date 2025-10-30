@@ -19,3 +19,4 @@ class RideViewSet(ModelViewSet):
     serializer_class = RideSerializer
     permission_classes = [IsAuthenticated, IsAdmin]
     filterset_class = RideFilter
+    ordering_fields = ['pickup_time']  # TODO: custom ordering filter for distance
