@@ -24,6 +24,12 @@ class RideSerializer(serializers.ModelSerializer):
     dropoff_longitude = serializers.FloatField(help_text='Longitude of the dropoff location.')
     pickup_time = serializers.DateTimeField(help_text='Scheduled pickup time.')
     ride_events = RideEventSerializer(source='events', help_text='Event associated with the ride.')
+    # distance = serializers.FloatField(
+    #     help_text='Distance from a specified point to the pickup location in kilometers.',
+    #     read_only=True,
+    #     required=False,
+    #     default=None,
+    # ) # For debugging purposes, uncomment me if you want to see the distance returned in the API
 
     class Meta:
         model = Ride
