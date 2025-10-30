@@ -39,6 +39,6 @@ class Ride(models.Model):
 
 class RideEvent(models.Model):
     id_ride_event = models.BigAutoField(primary_key=True)
-    id_ride = models.OneToOneField(Ride, on_delete=models.CASCADE, related_name='events')
+    id_ride = models.ForeignKey(Ride, on_delete=models.CASCADE, related_name='events')
     description = models.CharField(max_length=255)
     created_at = models.DateTimeField(auto_now_add=True)

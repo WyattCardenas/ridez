@@ -1,8 +1,8 @@
 from enum import StrEnum
 import logging
 
-from django.db.models import ExpressionWrapper, F, FloatField
-from django.db.models.functions import Radians, Sin, Cos, ASin, Sqrt, Power, ATan2
+from django.db.models import ExpressionWrapper, F, FloatField, Prefetch
+from django.db.models.functions import Radians, Sin, Cos, Sqrt, ATan2
 
 from django.http import Http404
 from rest_framework.viewsets import ModelViewSet
@@ -11,9 +11,11 @@ from rest_framework.settings import api_settings
 from rest_framework.filters import OrderingFilter
 
 from rides.api.permissions import IsAdmin
-from rides.models import Ride, RideStatus
+from rides.models import Ride, RideEvent, RideStatus
 from rides.serializers.ride import RideSerializer
 from django_filters import rest_framework as filters
+
+from rides.utils import twenty_four_hours_ago
 
 logger = logging.getLogger('rides.api.ride')
 
@@ -119,7 +121,11 @@ def get_filter_backends():
 
 
 class RideViewSet(ModelViewSet):
-    queryset = Ride.objects.select_related('id_rider', 'id_driver').prefetch_related('events').all()
+    queryset = (
+        Ride.objects.select_related('id_rider', 'id_driver')
+        .prefetch_related(Prefetch('events', RideEvent.objects.filter(created_at__gt=twenty_four_hours_ago())))
+        .all()
+    )
     serializer_class = RideSerializer
     permission_classes = [IsAuthenticated, IsAdmin]
     filterset_class = RideFilter
