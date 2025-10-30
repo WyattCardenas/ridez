@@ -23,6 +23,28 @@ class RideFilter(filters.FilterSet):
     rider_email = filters.CharFilter(
         label="Rider's email address", field_name='id_rider__email', lookup_expr='icontains'
     )
+    lat = filters.NumberFilter(
+        label='Latitude',
+        help_text='Latitude. Used in conjunction with "lon" for distance ordering. Will <b>not</b> filter results.',
+        method='set_latitude',
+    )
+    lon = filters.NumberFilter(
+        label='Longitude',
+        help_text='Longitude. Used in conjunction with "lat" for distance ordering. Will <b>not</b> filter results.',
+        method='set_longitude',
+    )
+
+    def set_latitude(self, queryset, name, value):
+        # Do nothing, only used to display field in DRF browsable API
+        return queryset
+
+    def set_longitude(self, queryset, name, value):
+        # Do nothing, only used to display field in DRF browsable API
+        return queryset
+
+    class Meta:
+        model = Ride
+        fields = ['status', 'rider_email']
 
 
 class DistanceOrderingFilter(OrderingFilter):
@@ -50,7 +72,7 @@ class DistanceOrderingFilter(OrderingFilter):
             user_lon = float(request.query_params.get(self.LON_PARAM))
         except (TypeError, ValueError):
             error = f'Latitude (key: {self.LAT_PARAM}) and longitude (key: {self.LAT_PARAM}) must be provided as valid numbers when ordering by distance.'
-            logger.error(error)
+            logger.exception(error)
             raise Http404(error)
 
         # Haversine forula (https://en.wikipedia.org/wiki/Haversine_formula)
