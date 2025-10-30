@@ -1,21 +1,24 @@
-from enum import StrEnum
 import logging
+from enum import StrEnum
+from typing import TYPE_CHECKING
 
 from django.db.models import ExpressionWrapper, F, FloatField, Prefetch
-from django.db.models.functions import Radians, Sin, Cos, Sqrt, ATan2
-
+from django.db.models.functions import ATan2, Cos, Radians, Sin, Sqrt
 from django.http import Http404
-from rest_framework.viewsets import ModelViewSet
+from django_filters import rest_framework as filters
+from rest_framework.filters import OrderingFilter
 from rest_framework.permissions import IsAuthenticated
 from rest_framework.settings import api_settings
-from rest_framework.filters import OrderingFilter
+from rest_framework.viewsets import ModelViewSet
 
 from rides.api.permissions import IsAdmin
 from rides.models import Ride, RideEvent, RideStatus
 from rides.serializers.ride import RideSerializer
-from django_filters import rest_framework as filters
-
 from rides.utils import twenty_four_hours_ago
+
+if TYPE_CHECKING:
+    from django_filters.rest_framework import FilterSet
+    from rest_framework.filters import BaseFilterBackend
 
 logger = logging.getLogger('rides.api.ride')
 
@@ -88,7 +91,7 @@ class DistanceOrderingFilter(OrderingFilter):
             *,
             origin_lat: self.Origin = self.Origin.PICKUP_LATITUDE,
             origin_lon: self.Origin = self.Origin.PICKUP_LONGITUDE,
-        ):
+        ) -> ExpressionWrapper:
             EARTH_RADIUS_KM: float = 6371.0
 
             lat_delta = Radians(F(origin_lat)) - Radians(user_lat)
@@ -107,11 +110,12 @@ class DistanceOrderingFilter(OrderingFilter):
         return queryset.order_by(*ordering)
 
 
-def get_filter_backends():
+def get_filter_backends() -> list['FilterSet | BaseFilterBackend']:
     filter_backends_without_ordering = [
         backend for backend in api_settings.DEFAULT_FILTER_BACKENDS if backend != OrderingFilter
     ]
     filter_backends_for_this_api = [DistanceOrderingFilter]
+
     logger.info(
         'Overriding filterbackends for rides API, filtered defaults: %s, this API: %s',
         filter_backends_without_ordering,

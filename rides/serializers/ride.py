@@ -1,5 +1,6 @@
 from rest_framework import serializers
-from rides.models import RideEvent, Ride
+
+from rides.models import Ride, RideEvent
 from rides.serializers.user import UserSerializer
 
 

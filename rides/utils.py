@@ -1,6 +1,7 @@
-from functools import partial
-from django.utils import timezone
 from datetime import datetime, timedelta
+from functools import partial
+
+from django.utils import timezone
 
 
 def get_time_before(*_, **kwargs) -> datetime:

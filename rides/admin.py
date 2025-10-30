@@ -1,5 +1,6 @@
 from django.contrib import admin
-from rides.models import User, RideEvent
+
+from rides.models import RideEvent, User
 
 admin.site.register(User)
 

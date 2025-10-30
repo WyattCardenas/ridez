@@ -1,6 +1,5 @@
-from django.db import models
 from django.contrib.auth.models import AbstractUser
-
+from django.db import models
 
 PHONE_NUMBER_GLOBAL_MAX_LENGTH = 16  # E.164 standard maximum length + the '+' sign
 

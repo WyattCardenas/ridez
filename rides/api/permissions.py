@@ -1,6 +1,6 @@
-from rides.models import Roles
-
 from rest_framework.permissions import BasePermission
+
+from rides.models import Roles
 
 
 class IsAdmin(BasePermission):
