@@ -6,7 +6,7 @@ Creates Users, Rides, and RideEvents. Adjust counts below if you want more or fe
 
 import json
 import random
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 OUT_PATH = '/home/wayat/dev/ridez/fixtures.json'
 
@@ -21,7 +21,8 @@ ADMINS_COUNT = USERS_TOTAL - RIDERS_COUNT - DRIVERS_COUNT
 RIDES_COUNT = 400  # number of rides (create one event per ride)
 
 PASSWORD_HASH = 'pbkdf2_sha256$260000$fixedsalt$fixedhashedpassword'
-BASE_DATE = datetime(2025, 1, 1, 8, 0, 0)
+# Make the base date close to the current time so API testing sees recent timestamps
+BASE_DATE = datetime.utcnow().replace(tzinfo=timezone.utc) - timedelta(days=3)
 
 objects = []
 
@@ -62,7 +63,7 @@ for i in range(1, USERS_TOTAL + 1):
 
 # Rides: pk 1..RIDES_COUNT
 statuses = ['en-route', 'pickup', 'dropoff']
-# store pickup times so RideEvent can reuse same timestamp
+# store pickup datetimes so RideEvent can reuse and build around them
 pickup_times = {}
 
 for r in range(1, RIDES_COUNT + 1):
@@ -88,9 +89,10 @@ for r in range(1, RIDES_COUNT + 1):
     offset_minutes = random.randint(-7 * 24 * 60, 30 * 24 * 60)
     # add a small r-dependent jitter so values aren't repeated too often
     jitter = r % 60
+    # use timezone-aware datetimes relative to BASE_DATE
     pickup_time = BASE_DATE + timedelta(minutes=offset_minutes + jitter)
+    pickup_times[r] = pickup_time
     pickup_time_iso = pickup_time.strftime('%Y-%m-%dT%H:%M:%SZ')
-    pickup_times[r] = pickup_time_iso
 
     ride_obj = {
         'model': 'rides.ride',
@@ -108,16 +110,36 @@ for r in range(1, RIDES_COUNT + 1):
     }
     objects.append(ride_obj)
 
-# RideEvents: one per ride (OneToOne relationship)
+# RideEvents: now a ForeignKey relationship — generate multiple events per ride
+event_pk = 1
+# pick a few rides to be "chatty" and have many events
+heavy_rides = set(random.sample(range(1, RIDES_COUNT + 1), k=min(6, RIDES_COUNT)))
 for r in range(1, RIDES_COUNT + 1):
-    # created_at tied to the ride's pickup_time (use the randomized value)
-    created_at = pickup_times.get(r, (BASE_DATE + timedelta(minutes=r)).strftime('%Y-%m-%dT%H:%M:%SZ'))
-    event_obj = {
-        'model': 'rides.rideevent',
-        'pk': r,
-        'fields': {'id_ride': r, 'description': f'Event for ride {r}', 'created_at': created_at},
-    }
-    objects.append(event_obj)
+    pickup_dt = pickup_times.get(r, BASE_DATE + timedelta(minutes=r))
+
+    # default number of events per ride: 1..4, but heavy_rides get many (10..25)
+    if r in heavy_rides:
+        events_count = random.randint(10, 25)
+    else:
+        events_count = random.randint(1, 4)
+
+    for e_index in range(events_count):
+        # spread events around pickup_time: from -120 minutes to +720 minutes
+        offset = random.randint(-120, 720) + (e_index * 2)
+        created_at_dt = pickup_dt + timedelta(minutes=offset)
+        created_at = created_at_dt.strftime('%Y-%m-%dT%H:%M:%SZ')
+
+        event_obj = {
+            'model': 'rides.rideevent',
+            'pk': event_pk,
+            'fields': {
+                'id_ride': r,
+                'description': f'Event {e_index + 1} for ride {r}',
+                'created_at': created_at,
+            },
+        }
+        objects.append(event_obj)
+        event_pk += 1
 
 # Write to file
 with open(OUT_PATH, 'w', encoding='utf-8') as f:
