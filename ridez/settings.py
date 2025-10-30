@@ -22,7 +22,7 @@ env.read_env(BASE_DIR / '.env')
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-dfgo*3_(%o8u3g144iwge+nnb=8$a6f_pqe$+f#37e5l#ibt+z'
+SECRET_KEY = env.str('SECRET_KEY', 'django-insecure-dfgo*3_(%o8u3g144iwge+nnb=8$a6f_pqe$+f#37e5l#ibt+z')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = env.bool('DEBUG', default=True)
@@ -132,6 +132,7 @@ REST_FRAMEWORK = {
     'DEFAULT_PARSER_CLASSES': [
         'rest_framework.parsers.JSONParser',
     ],
+    'DEFAULT_AUTHENTICATION_CLASSES': ('rest_framework.authentication.SessionAuthentication',),
 }
 
 AUTH_USER_MODEL = 'rides.User'

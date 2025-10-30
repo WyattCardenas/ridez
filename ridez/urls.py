@@ -6,6 +6,7 @@ from rides.urlconf import urlpatterns as ride_urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
 ]
 
 urlpatterns.extend(ride_urls)

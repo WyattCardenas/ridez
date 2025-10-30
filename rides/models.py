@@ -22,6 +22,8 @@ class User(AbstractUser):
     role = models.CharField(max_length=50)
     phone_number = models.CharField(max_length=PHONE_NUMBER_GLOBAL_MAX_LENGTH, unique=True)
 
+    REQUIRED_FIELDS = ['email', 'phone_number', 'role']
+
 
 class Ride(models.Model):
     id_ride = models.BigAutoField(primary_key=True)
