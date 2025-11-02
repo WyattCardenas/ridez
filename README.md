@@ -30,7 +30,6 @@ The default debug server of Django is used for both docker and native deployment
    - `PORT`
      - The port to be exposed / deployed.
 
-
 ### Docker
 
 1. Run `docker compose up` / `docker compose up -d` to automatically build and run the app. The dockerfile is configured such that it automatically migrates and runs the app after the container is up. If the file `fixtures.json` is present, then it would automatically be loaded upon container startup.
@@ -75,3 +74,45 @@ The default debug server of Django is used for both docker and native deployment
     ```
 
 5. Commit changes.
+
+## Bonus: SQL Monthly Metrics
+
+Breaking down this requirement, here is the general idea on how to fetch the count of rides of each driver that reached for more than an hour *(using PostgreSQL functions, I am not that familiar with SQLite functions)*:
+
+1. Fetch a temporary result set (CTE) to get the pickup and dropoff times of the ride and ride events. This result set will contain:
+    - ride id
+    - driver id,
+    - pickup time
+    - drop off time
+2. Using the data from that dataset, select the ff data:
+    - Month - use date_trunc
+    - Driver - concat the first name and second name
+    - Count - using Count(*), this will work as long as the filter and group in the next steps are correct.
+3. Filter the results of the table where:
+    - dropoff time - pickup time > interval '1 hour'
+4. Group the results by month, and driver, so that the count can be grouped by these.
+5. Order the results by month, then driver.
+
+Sample untested SQL that is references the tables of this app:
+
+```SQL
+WITH ride_times AS (
+    SELECT
+        ride.id_ride,
+        ride.id_driver,
+        MIN(CASE WHEN event.description ILIKE '%pickup%' THEN event.created_at END) AS pickup_time,
+        MIN(CASE WHEN event.description ILIKE '%dropoff%' THEN event.created_at END) AS pickup_time
+    FROM rides_ride ride
+    INNER JOIN rides_rideevent event ON event.id_ride == ride.id_ride
+    GROUP BY ride.id_ride, ride.id_driver
+),
+SELECT
+    DATE_TRUNC('month', times.dropoff_time) AS Month,
+    CONCAT(user.first_name, ' ', user.last_name) AS Driver
+    COUNT(*) AS 'Count of trips > 1 hr'
+FROM ride_times times
+INNER JOIN rides_user user ON user.id_user == times.id_driver
+WHERE (times.dropoff_time - times.pickup_time) > interval '1 hour'
+GROUP BY Month, Driver
+ORDER BY Month, Driver
+```
