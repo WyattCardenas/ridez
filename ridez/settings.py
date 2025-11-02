@@ -25,7 +25,7 @@ env.read_env(BASE_DIR / '.env')
 SECRET_KEY = env.str('SECRET_KEY', 'django-insecure-dfgo*3_(%o8u3g144iwge+nnb=8$a6f_pqe$+f#37e5l#ibt+z')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = env.bool('DEBUG', default=True)
+DEBUG = env.bool('DEBUG', False)
 
 ALLOWED_HOSTS = []
 
@@ -169,5 +169,21 @@ LOGGING = {
 
 if DEBUG:
     INSTALLED_APPS += ['debug_toolbar']
-    MIDDLEWARE += ['debug_toolbar.middleware.DebugToolbarMiddleware']
-    INTERNAL_IPS = ['127.0.0.1']
+    MIDDLEWARE = ['debug_toolbar.middleware.DebugToolbarMiddleware', *MIDDLEWARE]
+    INTERNAL_IPS = ['127.0.0.1', '0.0.0.0', 'localhost']
+
+    # Add Docker host IPs to INTERNAL_IPS
+    try:
+        import socket
+
+        hostname = socket.gethostname()
+        host_ip = socket.gethostbyname(hostname)
+        INTERNAL_IPS.append(host_ip)
+        if '.' in host_ip:
+            INTERNAL_IPS.append(host_ip.rsplit('.', 1)[0] + '.1')
+    except Exception:
+        pass
+
+    DEBUG_TOOLBAR_CONFIG = {
+        'SHOW_TOOLBAR_CALLBACK': 'debug_toolbar.middleware.show_toolbar_with_docker',
+    }
