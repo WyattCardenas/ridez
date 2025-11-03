@@ -101,7 +101,7 @@ WITH ride_times AS (
         ride.id_ride,
         ride.id_driver,
         MIN(CASE WHEN event.description ILIKE '%pickup%' THEN event.created_at END) AS pickup_time,
-        MIN(CASE WHEN event.description ILIKE '%dropoff%' THEN event.created_at END) AS pickup_time
+        MAX(CASE WHEN event.description ILIKE '%dropoff%' THEN event.created_at END) AS dropoff_time
     FROM rides_ride ride
     INNER JOIN rides_rideevent event ON event.id_ride == ride.id_ride
     GROUP BY ride.id_ride, ride.id_driver
